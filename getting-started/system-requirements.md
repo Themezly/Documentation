@@ -30,6 +30,21 @@
 
 &nbsp;
 
+## Theme PHP Requirements
+
+These are recommended PHP requirements that need to be adjusted before installing the theme. If the requirements are not met some theme features and demo installs will not function properly. 
+ 
+
+| PHP | Recommended
+| ------ |------ | 
+| memory_limit  | 256M | 
+| post_max_size | 8M | 
+| max_execution_time | 1500 | 
+| max_input_vars | 4000 | 
+| upload_max_filesize | 8M | 
+
+&nbsp;
+
 ## Browser Requirements
 
  For accurate development we strongly recommend [Google Chrome browser](https://www.google.com/intl/en/chrome/browser/). It is faster and more accurate than any other browser.

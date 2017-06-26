@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-<a href="http://unyson.io/" target="_blank">__Unyson__</a> theme framework __WordPress Shortocdes__ extension brings all shortcodes __( except sections and columns )__  to your WordPress editor. We __recomend__ leaving this extension active at all times since it can be used troughtout all your post types.<br /> To find out more about Unyson WordPress Shortocdes extension please visit <a href="http://manual.unyson.io/en/latest/extension/wp-shortcodes/index.html#content" target="_blank">__Unyson WordPress Shortocdes Extension manual__</a>.
+<a href="http://unyson.io/" target="_blank">__Unyson__</a> theme framework__WordPress Shortocdes__extension brings all shortcodes__( except sections and columns )__ to your WordPress editor. We__recomend__leaving this extension active at all times since it can be used troughtout all your post types.<br /> To find out more about Unyson WordPress Shortocdes extension please visit <a href="http://manual.unyson.io/en/latest/extension/wp-shortcodes/index.html#content" target="_blank">__Unyson WordPress Shortocdes Extension manual__</a>.
 
 </div>
 

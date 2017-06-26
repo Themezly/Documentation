@@ -7,11 +7,11 @@
 </a>
 </div>
 
-To create new __Blog post__ please follow these short step by step instructions;
+To create new__Blog post__please follow these short step by step instructions;
 
-1. Log in to your WordPress __Dashboard__ &nbsp; - &nbsp; www.yoursitename.com/wp-admin
-2. In WordPress side menu locate __Blog Posts__ > __Add New__ link and click on it.
-3. Once you are in blog post edit screen simply fill in the post required fields like __Title__ and __Content__
+1. Log in to your WordPress__Dashboard__&nbsp; - &nbsp; www.yoursitename.com/wp-admin
+2. In WordPress side menu locate__Blog Posts__>__Add New__link and click on it.
+3. Once you are in blog post edit screen simply fill in the post required fields like__Title__and__Content__
 4. While here you may also adjust <a class="thz-lightbox mfp-image" href="../../docs-media/blog-post-meta-options.jpg" data-mfp-title="Creatus WordPress Theme Blog post meta options" data-modal-size="large">__following__</a> options;
  1. __Choose post format__
  1. __Add post categories__
@@ -19,7 +19,7 @@ To create new __Blog post__ please follow these short step by step instructions;
  1. __Add featured image__
  1. __Add custom CSS for your post__
 
-Once you are done setting up your post you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish post" data-modal-size="large">__locate__</a>  the __Preview__ button and click on it. If everything is as you need it to be , click on __Publish__ button to go live with your new post.
+Once you are done setting up your post you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish post" data-modal-size="large">__locate__</a>  the__Preview__button and click on it. If everything is as you need it to be , click on__Publish__button to go live with your new post.
 
 ### Blog post options
 
@@ -31,9 +31,9 @@ Once you are done setting up your post you may want to preview it before publish
 
 <div id="search" markdown="1">
 
-To access Creatus __Blog post options__ please go to __Blog posts__ >  __Add new__ and locate the __Post options__ tab inside the __Creatus options__ meta box. 
+To access Creatus__Blog post options__please go to__Blog posts__> __Add new__and locate the__Post options__tab inside the__Creatus options__meta box. 
 
-This section contains one popup option that will let you change default blog post theme options for this post only. The popup contains same options as __Posts__ > __Single post__ sub tab in theme settings.
+This section contains one popup option that will let you change default blog post theme options for this post only. The popup contains same options as__Posts__>__Single post__sub tab in theme settings.
 
 </div>
 

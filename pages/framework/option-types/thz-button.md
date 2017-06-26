@@ -12,7 +12,7 @@ Thz Button is a button generator option type.
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-button',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(

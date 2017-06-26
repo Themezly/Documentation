@@ -9,19 +9,19 @@
 
 Creatus Posts Widget displays loop of post items as a grid or list. To setup the widget just adjust following settings;
 
-1. __ Number of posts __ &nbsp;-&nbsp; Display desired number of posts.
-1. __ Select post types __ &nbsp;-&nbsp; elect posts type to display.
-1. __ Specific tax terms __ &nbsp;-&nbsp; Limit the loop by selecting desired tax terms.
-1. __ Order __ &nbsp;-&nbsp; Order loop items.
-1. __ Select posts published limit __ &nbsp;-&nbsp; Limit the loop to display items published at certain time period.
-1. __ Order by __ &nbsp;-&nbsp; Set specific items order by. 
-1. __ Title tag __ &nbsp;-&nbsp; Display desired tag for post title.
-1. __ Display Mode __ &nbsp;-&nbsp; Select display mode. Grid or list.
-1. __ Widget metrics __ &nbsp;-&nbsp; Adjust widget metrics.
-1. __ Intro limit by __ &nbsp;-&nbsp; Limit the intro ( excerpt ) by number of words or charachetrs.
-1. __ Thumbnail position __ &nbsp;-&nbsp; Set desired thumbnail position.
-1. __ Thumbnail Width __ &nbsp;-&nbsp; Set desired thumbnail width.
-1. __ Thumbnail Size __ &nbsp;-&nbsp; Choose thumbnail display size. 
+1. __Number of posts__&nbsp;-&nbsp; Display desired number of posts.
+1. __Select post types__&nbsp;-&nbsp; elect posts type to display.
+1. __Specific tax terms__&nbsp;-&nbsp; Limit the loop by selecting desired tax terms.
+1. __Order__&nbsp;-&nbsp; Order loop items.
+1. __Select posts published limit__&nbsp;-&nbsp; Limit the loop to display items published at certain time period.
+1. __Order by__&nbsp;-&nbsp; Set specific items order by. 
+1. __Title tag__&nbsp;-&nbsp; Display desired tag for post title.
+1. __Display Mode__&nbsp;-&nbsp; Select display mode. Grid or list.
+1. __Widget metrics__&nbsp;-&nbsp; Adjust widget metrics.
+1. __Intro limit by__&nbsp;-&nbsp; Limit the intro ( excerpt ) by number of words or charachetrs.
+1. __Thumbnail position__&nbsp;-&nbsp; Set desired thumbnail position.
+1. __Thumbnail Width__&nbsp;-&nbsp; Set desired thumbnail width.
+1. __Thumbnail Size__&nbsp;-&nbsp; Choose thumbnail display size. 
 
 
 <div class="thz-doc-image max">

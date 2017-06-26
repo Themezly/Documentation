@@ -12,8 +12,8 @@ Creatus Flickr Images Widget display set of images from a Flickr user account. T
 
 
 1. User ID &nbsp;-&nbsp; Add flicker user ID.
-1. __Number of images__ &nbsp;-&nbsp; Add number of images that you wish to display.
-1. __Display type__ &nbsp;-&nbsp; Choose display type. Latest or random.
+1. __Number of images__&nbsp;-&nbsp; Add number of images that you wish to display.
+1. __Display type__&nbsp;-&nbsp; Choose display type. Latest or random.
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/flickr-widget-frontend.jpg" data-mfp-title="Creatus WordPress Theme Flickr Widget Frontend" data-modal-size="large">

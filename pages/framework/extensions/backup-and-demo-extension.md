@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-<a href="http://unyson.io/" target="_blank">__Unyson__</a> theme framework __Backup & Demo Content__ extension allows you to create site backups and demo installation bundles. To find out more about this extension please visit <a href="http://manual.unyson.io/en/latest/extension/backups/index.html#content" target="_blank">__Unyson Backup & Demo Content Extension manual__</a>.
+<a href="http://unyson.io/" target="_blank">__Unyson__</a> theme framework__Backup & Demo Content__extension allows you to create site backups and demo installation bundles. To find out more about this extension please visit <a href="http://manual.unyson.io/en/latest/extension/backups/index.html#content" target="_blank">__Unyson Backup & Demo Content Extension manual__</a>.
 
 </div>
 

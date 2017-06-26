@@ -7,28 +7,28 @@
 Posts element displays loop of post items as a grid, timeline or a slider. Element popup contains following options;
 
 #### Query tab{.options-tab}
-1. __ Post types __ &nbsp;-&nbsp; Select post types. If none is selected WordPress default post type is used.
-1. __ Query metrics __ &nbsp;-&nbsp; Select number of posts and set their order. Items -1 = all.
-1. __ Specific categories __ &nbsp;-&nbsp; Show posts from specific categories.
-1. __ Specific tags __ &nbsp;-&nbsp; Show posts containing specific tags.
-1. __ Specific author __ &nbsp;-&nbsp; Show posts by specific authors.
-1. __ Specific posts __ &nbsp;-&nbsp; Show specific posts.
-1. __ Exclude posts __ &nbsp;-&nbsp; Exclude specific posts. 
+1. __Post types__&nbsp;-&nbsp; Select post types. If none is selected WordPress default post type is used.
+1. __Query metrics__&nbsp;-&nbsp; Select number of posts and set their order. Items -1 = all.
+1. __Specific categories__&nbsp;-&nbsp; Show posts from specific categories.
+1. __Specific tags__&nbsp;-&nbsp; Show posts containing specific tags.
+1. __Specific author__&nbsp;-&nbsp; Show posts by specific authors.
+1. __Specific posts__&nbsp;-&nbsp; Show specific posts.
+1. __Exclude posts__&nbsp;-&nbsp; Exclude specific posts. 
 
 #### Layout tab{.options-tab}
-1. __ Container box style __ &nbsp;-&nbsp; Adjust .thz-posts-holder box style.
-1. __ Layout mode __ &nbsp;-&nbsp; Select posts layout mode. Choose from grid, slider or timeline layout mode. 
-If grid is selected the __Filter__ tab becomes active which will let you adjust the posts sorting filter layout and style.
-1. __ Pagination type __ &nbsp;-&nbsp; Select posts pagination type.
-1. __ Animate posts __ &nbsp;-&nbsp; Add animation to the post HTML container.
-1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __Container box style__&nbsp;-&nbsp; Adjust .thz-posts-holder box style.
+1. __Layout mode__&nbsp;-&nbsp; Select posts layout mode. Choose from grid, slider or timeline layout mode. 
+If grid is selected the__Filter__tab becomes active which will let you adjust the posts sorting filter layout and style.
+1. __Pagination type__&nbsp;-&nbsp; Select posts pagination type.
+1. __Animate posts__&nbsp;-&nbsp; Add animation to the post HTML container.
+1. __Container metrics__&nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 
 #### Media tab{.options-tab}
-1. __ Media container height __ &nbsp;-&nbsp; Set media container height.
-1. __ Post Image size __ &nbsp;-&nbsp; Select the image size to be used in posts.
-1. __ Post image grayscale __ &nbsp;-&nbsp; Add grayscale effect to media images.
-1. __ Posts slider layout __ &nbsp;-&nbsp; Adjust posts media slider layout.
-1. __ Posts slider animation __ &nbsp;-&nbsp; Adjust posts slider.
+1. __Media container height__&nbsp;-&nbsp; Set media container height.
+1. __Post Image size__&nbsp;-&nbsp; Select the image size to be used in posts.
+1. __Post image grayscale__&nbsp;-&nbsp; Add grayscale effect to media images.
+1. __Posts slider layout__&nbsp;-&nbsp; Adjust posts media slider layout.
+1. __Posts slider animation__&nbsp;-&nbsp; Adjust posts slider.
 
 
 #### Posts, Posts formats and WooPosts tabs{.options-tab}

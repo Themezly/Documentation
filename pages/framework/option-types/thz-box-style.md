@@ -10,7 +10,7 @@ Thz Box Style is full layout option type with visual reference for border, borde
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-box-style',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=> array(),
@@ -43,7 +43,7 @@ Thz Box Style is full layout option type with visual reference for border, borde
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-box-style',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=> array(

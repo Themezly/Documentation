@@ -12,7 +12,7 @@ Thz Font option type is an option type that will let you adjust font size, weigh
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-font',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(),
@@ -26,7 +26,7 @@ Thz Font option type is an option type that will let you adjust font size, weigh
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-font',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(

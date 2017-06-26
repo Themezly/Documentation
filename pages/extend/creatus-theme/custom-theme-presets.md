@@ -6,10 +6,10 @@
 
 <div markdown="1">
 
-Creatus WordPress Theme comes with presets __Export/import__ utility that will help you create custom theme presets. For your convenience we have gathered a list of theme presets that come in handy when you don't need the complete theme demo but rather just want the demo theme settings.  
+Creatus WordPress Theme comes with presets__Export/import__utility that will help you create custom theme presets. For your convenience we have gathered a list of theme presets that come in handy when you don't need the complete theme demo but rather just want the demo theme settings.  
 
 ### Creating new theme preset
-To create new theme preset, adjust the theme settings the way you need them, go to theme __Export/import__ tab, click on __Export theme settings__ button and save the preset in child theme presets folder. Note that preset file __must be .json type__;
+To create new theme preset, adjust the theme settings the way you need them, go to theme__Export/import__tab, click on__Export theme settings__button and save the preset in child theme presets folder. Note that preset file__must be .json type__;
 
 
 	├─creatus-child/
@@ -22,7 +22,7 @@ To create new theme preset, adjust the theme settings the way you need them, go 
 
 ### Assign custom default theme preset
 
-To assign a custom theme preset to be a default preset on theme install or reset button click add this filter in your __creatus child__ theme __functions.php__;
+To assign a custom theme preset to be a default preset on theme install or reset button click add this filter in your__creatus child__theme__functions.php__;
 
 	function my_filter_default_theme_preset(){
 		return 'preset_name';
@@ -33,7 +33,7 @@ To assign a custom theme preset to be a default preset on theme install or reset
 
 
 ### Custom preset CSS file
-If you are using custom theme presets you can also take advantage of custom theme preset CSS file and __auto load__ assigned preset CSS file. To do so simple create <b>preset_name.css</b> file and add it in __creatus-child__ assets CSS folder;
+If you are using custom theme presets you can also take advantage of custom theme preset CSS file and__auto load__assigned preset CSS file. To do so simple create <b>preset_name.css</b> file and add it in__creatus-child__assets CSS folder;
 
 
 	├─creatus-child/

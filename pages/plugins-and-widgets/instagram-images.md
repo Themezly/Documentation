@@ -11,8 +11,8 @@ Creatus Instagram Images Widget display set of images from a Instagram user acco
 
 
 
-1. __Username__ &nbsp;-&nbsp; Add Instagram username.
-1. __Number of images__ &nbsp;-&nbsp; Add number of images that you wish to display.
+1. __Username__&nbsp;-&nbsp; Add Instagram username.
+1. __Number of images__&nbsp;-&nbsp; Add number of images that you wish to display.
 
 
 <div class="thz-doc-image max">

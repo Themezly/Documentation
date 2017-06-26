@@ -11,7 +11,7 @@ Thz Background is option type with multiple background selection such as none, c
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-background',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=> array(),
@@ -24,7 +24,7 @@ Thz Background is option type with multiple background selection such as none, c
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-background',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=> array(

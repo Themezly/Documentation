@@ -12,7 +12,7 @@ Thz Multi Option is an option type that combines multiple option types in to one
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-multi-options',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(

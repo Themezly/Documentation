@@ -4,14 +4,14 @@
 </a>
 </div>
 
-Thz Ace is a code editor text area that is using __ [ace.js](https://ace.c9.io/) __ for syntax highlighting.
+Thz Ace is a code editor text area that is using__[ace.js](https://ace.c9.io/)__for syntax highlighting.
 
 #### option snippet
 
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-ace',
-	'label' => __('Option label', '{domain}'),
+	'label' =>__('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=>'',

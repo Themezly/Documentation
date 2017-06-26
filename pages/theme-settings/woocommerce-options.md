@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-To access Creatus __WooCommerce Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __WooCommerce__ tab in the left side vertical menu. This section is split in to 3 sub tabs; 
+To access Creatus__WooCommerce Options__please go to__Appearance__> __Theme Settings__and locate the__WooCommerce__tab in the left side vertical menu. This section is split in to 3 sub tabs; 
 
 1. __Categories__&nbsp;-&nbsp; Adjust WooCommerce categories and category items layout and style. 
 1. __Single product__&nbsp;-&nbsp; Adjust single product layout and style.
@@ -23,11 +23,11 @@ To access Creatus __WooCommerce Options__ please go to __Appearance__ >  __Theme
 </div>
 
 
-__Social media__ options sub tab contains theme options that will let you controll;
+__Social media__options sub tab contains theme options that will let you controll;
 
-1. __Sub categories style__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-subcategory-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce sub categories options" data-modal-size="large">This popup</a> contains options that will let you customize sub categories layout and feel. 
-1. __Products style__ &nbsp;-&nbsp;  <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-products-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce category products options" data-modal-size="large">This popup</a> contains options that will let you customize products layout and feel.
-1. __Animate products__ &nbsp;-&nbsp; Add animation to the products HTML container.
+1. __Sub categories style__&nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-subcategory-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce sub categories options" data-modal-size="large">This popup</a> contains options that will let you customize sub categories layout and feel. 
+1. __Products style__&nbsp;-&nbsp;  <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-products-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce category products options" data-modal-size="large">This popup</a> contains options that will let you customize products layout and feel.
+1. __Animate products__&nbsp;-&nbsp; Add animation to the products HTML container.
  
 
 
@@ -39,7 +39,7 @@ __Social media__ options sub tab contains theme options that will let you contro
 </div>
 
 
-__Single product__ sub tab contains options that will let you control your single product layout and feel and it is split in to sub tabs.
+__Single product__sub tab contains options that will let you control your single product layout and feel and it is split in to sub tabs.
 
 
 1. <a class="thz-lightbox mfp-image" href="../../docs-media/woo-product-tab-options.jpg" data-mfp-title="Creatus WordPress Theme Single product sub tab" data-modal-size="large"> Product </a>
@@ -60,13 +60,13 @@ __Single product__ sub tab contains options that will let you control your singl
 </div>
 
 
-__Miscellaneous__ sub tab contains options that will let you control following  WooCommerce related options;
+__Miscellaneous__sub tab contains options that will let you control following  WooCommerce related options;
 
-1. __Badge metrics__ &nbsp;-&nbsp; Add animation to the products HTML container.
-1. __Badges font metrics__ &nbsp;-&nbsp; Adjust badges font metrics.
-1. __Badge colors__ &nbsp;-&nbsp; Adjust sales and out of stock badge colors and border radius.
-1. __Action icons colors__ &nbsp;-&nbsp; Set ajax action icons color. Add to cart ajax spinner and check icon.
-1. __Price filter colors__ &nbsp;-&nbsp; Adjust WooCommerce price filter widget colors.
+1. __Badge metrics__&nbsp;-&nbsp; Add animation to the products HTML container.
+1. __Badges font metrics__&nbsp;-&nbsp; Adjust badges font metrics.
+1. __Badge colors__&nbsp;-&nbsp; Adjust sales and out of stock badge colors and border radius.
+1. __Action icons colors__&nbsp;-&nbsp; Set ajax action icons color. Add to cart ajax spinner and check icon.
+1. __Price filter colors__&nbsp;-&nbsp; Adjust WooCommerce price filter widget colors.
 
 
 </div>

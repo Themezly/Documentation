@@ -11,12 +11,12 @@ Themezly and Unyson developers bring together over 15 years in theme development
 Unyson Framework Plugin is the core of Creatus WordPress Theme and most of theme features are not accessible if plugin is unpublished. 
 
 #### Unyson supported extensions{.options-tab}
-1. __ Page Builder __ &nbsp;-&nbsp; Create custom pages and insert shortcodes on your WordpRess installation. 
-1. __ Backup & Demo Content __ &nbsp;-&nbsp; Create site backups or demo content installation packages.
-1. __ Portfolio __ &nbsp;-&nbsp;  Create Portfolio section on your WordpRess installation. 
-1. __ Breadcrumbs __ &nbsp;-&nbsp;  Create navigation menu for the pages that can be placed anywhere in the theme. 
-1. __ WordPress Shortcodes __ &nbsp;-&nbsp;  Use all page builder shortcodes ( except sections and columns ) in WordPress editor. 
-1. __ Sliders __ &nbsp;-&nbsp;  Create Sliders and use them in your WordpRess installation.
-1. __ Mega Menu __ &nbsp;-&nbsp; Create mega menu rows within the theme top menu.
-1. __ Events __ &nbsp;-&nbsp; Create Events section on your WordpRess installation.
-1. __ SEO __ &nbsp;-&nbsp; Optimize your WordPress website by adding customized page meta titles, keywords and descriptions.
+1. __Page Builder__&nbsp;-&nbsp; Create custom pages and insert shortcodes on your WordpRess installation. 
+1. __Backup & Demo Content__&nbsp;-&nbsp; Create site backups or demo content installation packages.
+1. __Portfolio__&nbsp;-&nbsp;  Create Portfolio section on your WordpRess installation. 
+1. __Breadcrumbs__&nbsp;-&nbsp;  Create navigation menu for the pages that can be placed anywhere in the theme. 
+1. __WordPress Shortcodes__&nbsp;-&nbsp;  Use all page builder shortcodes ( except sections and columns ) in WordPress editor. 
+1. __Sliders__&nbsp;-&nbsp;  Create Sliders and use them in your WordpRess installation.
+1. __Mega Menu__&nbsp;-&nbsp; Create mega menu rows within the theme top menu.
+1. __Events__&nbsp;-&nbsp; Create Events section on your WordpRess installation.
+1. __SEO__&nbsp;-&nbsp; Optimize your WordPress website by adding customized page meta titles, keywords and descriptions.

@@ -7,7 +7,7 @@
 
 <div markdown="1">
 
-To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Advanced__ tab in the left side vertical menu. This section is split in sub tabs;
+To access Creatus__Advanced Options__please go to__Appearance__> __Theme Settings__and locate the__Advanced__tab in the left side vertical menu. This section is split in sub tabs;
 
 </div>
 
@@ -26,12 +26,12 @@ To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Se
 </a>
 </div>
 
-__Images__ section tab contains following options;
+__Images__section tab contains following options;
 
 
-1. __Processed image quality__ &nbsp;-&nbsp; Set quality of processed images. The higher the number the larger the image size.
-1. __Default image sizes__ &nbsp;-&nbsp; Set default image sizes. These are only width values and images are not croped. Images can be accessed via following size handles; __thz-img-xlarge__, __thz-img-large__, __thz-img-medium__, __thz-img-small__, __thz-img-xsmall__.
-1. __Custom Image sizes__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/custom-image-sizes-popup.jpg" data-mfp-title="Creatus WordPress Theme Custom image sizes options" data-modal-size="large">Add custom image sizes.</a>
+1. __Processed image quality__&nbsp;-&nbsp; Set quality of processed images. The higher the number the larger the image size.
+1. __Default image sizes__&nbsp;-&nbsp; Set default image sizes. These are only width values and images are not croped. Images can be accessed via following size handles;__thz-img-xlarge__,__thz-img-large__,__thz-img-medium__,__thz-img-small__,__thz-img-xsmall__.
+1. __Custom Image sizes__&nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/custom-image-sizes-popup.jpg" data-mfp-title="Creatus WordPress Theme Custom image sizes options" data-modal-size="large">Add custom image sizes.</a>
 </div>
 
 <div id="apis" markdown="1">
@@ -42,14 +42,14 @@ __Images__ section tab contains following options;
 </a>
 </div>
 
-__API's__ section tab contains following options;
+__API's__section tab contains following options;
 
 
-1. __Google Maps Key__ &nbsp;-&nbsp; Paste your Google Maps API key here. ( used by map shortcode )
-1. __Consumer key__ &nbsp;-&nbsp; Paste your Twitter application consumer key here. ( used by Twitter widget ) 
-1. __Consumer secret__ &nbsp;-&nbsp; Paste your Twitter application consumer secret here. ( used by Twitter widget ) 
-1. __Access token__ &nbsp;-&nbsp; Paste your Twitter access token here. ( used by Twitter widget ) 
-1. __Access token secret__ &nbsp;-&nbsp; Paste your Twitter access token secret here. ( used by Twitter widget ) 
+1. __Google Maps Key__&nbsp;-&nbsp; Paste your Google Maps API key here. ( used by map shortcode )
+1. __Consumer key__&nbsp;-&nbsp; Paste your Twitter application consumer key here. ( used by Twitter widget ) 
+1. __Consumer secret__&nbsp;-&nbsp; Paste your Twitter application consumer secret here. ( used by Twitter widget ) 
+1. __Access token__&nbsp;-&nbsp; Paste your Twitter access token here. ( used by Twitter widget ) 
+1. __Access token secret__&nbsp;-&nbsp; Paste your Twitter access token secret here. ( used by Twitter widget ) 
 </div>
 
 
@@ -62,13 +62,13 @@ __API's__ section tab contains following options;
 </a>
 </div>
 
-__Optimization__ section tab contains following options;
+__Optimization__section tab contains following options;
 
 
-1. __Compile inline CSS__ &nbsp;-&nbsp; Compile dynamic inline CSS to a file.
-1. __Compile theme CSS files__ &nbsp;-&nbsp; Compile theme CSS files to a single file.
-1. __Minify theme JS files__ &nbsp;-&nbsp; Minify theme JS files to a single file.
-1. __Remove ver query strings__ &nbsp;-&nbsp; Remove ver query string from CSS/JS files.
+1. __Compile inline CSS__&nbsp;-&nbsp; Compile dynamic inline CSS to a file.
+1. __Compile theme CSS files__&nbsp;-&nbsp; Compile theme CSS files to a single file.
+1. __Minify theme JS files__&nbsp;-&nbsp; Minify theme JS files to a single file.
+1. __Remove ver query strings__&nbsp;-&nbsp; Remove ver query string from CSS/JS files.
 </div>
 
 

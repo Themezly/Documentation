@@ -7,12 +7,12 @@
 
 <div id="search" markdown="1">
 
-To access Creatus __Code Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Code__ tab in the left side vertical menu. This section contains theme options that will let you add custom code in following positions;
+To access Creatus__Code Options__please go to__Appearance__> __Theme Settings__and locate the__Code__tab in the left side vertical menu. This section contains theme options that will let you add custom code in following positions;
 
 </div>
 
 </div>
 
-1. __Before ```</head>```__ &nbsp;-&nbsp; Add code before ```</head>``` tag. Use valid Javascript or HTML.
-1. __After ```<body>```__ &nbsp;-&nbsp; Add code after ```<body>``` tag. Use valid Javascript or HTML.
-1. __Before ```</body>```__ &nbsp;-&nbsp; Add code before ```</body>``` tag. Use valid Javascript or HTML.
+1. __Before ```</head>```__&nbsp;-&nbsp; Add code before ```</head>``` tag. Use valid Javascript or HTML.
+1. __After ```<body>```__&nbsp;-&nbsp; Add code after ```<body>``` tag. Use valid Javascript or HTML.
+1. __Before ```</body>```__&nbsp;-&nbsp; Add code before ```</body>``` tag. Use valid Javascript or HTML.

@@ -14,14 +14,14 @@
 </a>
 </div>
 
-To access Creatus __Logo Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Logo__ tab in the left side vertical menu. Logo options section will let you setup __logo width__, __logo height__, __logo margin__ and different __logo variants__ to be used trough out the site. Logo options are split in 2 sections. 
+To access Creatus__Logo Options__please go to__Appearance__> __Theme Settings__and locate the__Logo__tab in the left side vertical menu. Logo options section will let you setup__logo width__,__logo height__,__logo margin__and different__logo variants__to be used trough out the site. Logo options are split in 2 sections. 
 
 1. Textual
 2. Image
 
 ### Textual Logo
 
-Textual logo section contains the options that will let you pick __default__, __transparent or offcanvas __, __sticky header__ and __mobile__ text logo. Just like with any other Creatus typography option,  you have full acess to all available [__800 + Google fonts__](https://fonts.google.com/).
+Textual logo section contains the options that will let you pick__default__,__transparent or offcanvas__,__sticky header__and__mobile__text logo. Just like with any other Creatus typography option,  you have full acess to all available [__800 + Google fonts__](https://fonts.google.com/).
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo Textual" data-modal-size="large">
@@ -30,7 +30,7 @@ Textual logo section contains the options that will let you pick __default__, __
 </div>
 ### Image Logo
 
-Image logo section contains __select/upload__ images options for __default__, __transparent or offcanvas header__, __sticky header__ and __mobile__ logo. 
+Image logo section contains__select/upload__images options for__default__,__transparent or offcanvas header__,__sticky header__and__mobile__logo. 
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo Image" data-modal-size="large">

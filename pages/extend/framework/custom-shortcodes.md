@@ -4,8 +4,8 @@
 </div>
 
 <div markdown="1">
-Creatus WordPress theme comes with __over 40 shortcodes ( elements ) __ that you can take advantage of. You can extend these shortcodes at any time. 
-If a shortcode is located in Creatus framework extensions shortcodes folder, the __Creatus child theme__ is able to override the shortcode files by copying them in to child theme corresponding folder;
+Creatus WordPress theme comes with__over 40 shortcodes ( elements )__that you can take advantage of. You can extend these shortcodes at any time. 
+If a shortcode is located in Creatus framework extensions shortcodes folder, the__Creatus child theme__is able to override the shortcode files by copying them in to child theme corresponding folder;
 
 
 	├─creatus/
@@ -32,7 +32,7 @@ If a shortcode is located in Creatus framework extensions shortcodes folder, the
 
 </div>
 
-Once you copy the files over you can make desired changes to shortcode files and extend your __creatus-child__ theme shortcode. 
+Once you copy the files over you can make desired changes to shortcode files and extend your__creatus-child__theme shortcode. 
 <div class="thz-notification thz-notification-red">
 	<h3 class="thz-notification-title">Info</h3>
 	<div>

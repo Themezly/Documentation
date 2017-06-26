@@ -6,7 +6,7 @@
 
 Menu Anchor element activates animate scroll to action to this element when a link is clicked. Element popup contains following options;
 
-1. __ Anchor id __ &nbsp;-&nbsp; Must be unique. Use this anchor id in your menu as a link.
-1. __ Stop scroll __ &nbsp;-&nbsp; Set when to stop the scroll.
-1. __ Stop before or after __ &nbsp;-&nbsp; How many px before/after the element to stop the scroll.
-1. __ Scroll duration __ &nbsp;-&nbsp; Set scroll effect duration in milliseconds. 1000ms = 1s.
+1. __Anchor id__&nbsp;-&nbsp; Must be unique. Use this anchor id in your menu as a link.
+1. __Stop scroll__&nbsp;-&nbsp; Set when to stop the scroll.
+1. __Stop before or after__&nbsp;-&nbsp; How many px before/after the element to stop the scroll.
+1. __Scroll duration__&nbsp;-&nbsp; Set scroll effect duration in milliseconds. 1000ms = 1s.

@@ -13,11 +13,10 @@
 | The mod_rewrite Apache module | | | |
 | HTTPS support | | | |
 
-&nbsp;
 
 ## Development Requirements
 
- For faster development we recommend folowing server bundles that can be installed on your computer. From the list below select your operating system than download and install prefered server bundle.
+ For faster development we recommend following server bundles that can be installed on your computer. From the list below select your operating system than download and install preferred server bundle.
  
 
 | MAC OS | Windows | Linux |
@@ -27,8 +26,6 @@
 | [Zend Server Community Edition](http://www.zend.com/en/products/server-ce/) | [Zend Server Community Edition](http://www.zend.com/en/products/server-ce/) | [Zend Server Community Edition](http://www.zend.com/en/products/server-ce/) |
 | [Mac Port](http://www.techiecorner.com/174/how-to-install-apache-php-mysql-with-macport-in-mac-os-x/) | [XAMPP for Windows](http://www.apachefriends.org/en/xampp-windows.html) | |
 
-
-&nbsp;
 
 ## Theme PHP Requirements
 
@@ -43,7 +40,6 @@ These are recommended PHP requirements that need to be adjusted before installin
 | max_input_vars | 4000 | 
 | upload_max_filesize | 8M | 
 
-&nbsp;
 
 ## Browser Requirements
 

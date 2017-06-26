@@ -4,8 +4,8 @@
 </div>
 
 <div markdown="1">
-Creatus WordPress theme comes with__extended Unyson framework extensions__that you can take advantage of. You can extend these extensions at any time. 
-If an extension is located in Creatus framework extensions folder, the__Creatus child theme__is able to override the extension files by copying them in to child theme corresponding folder;
+Creatus WordPress theme comes with __extended Unyson framework extensions__ that you can take advantage of. You can extend these extensions at any time. 
+If an extension is located in Creatus framework extensions folder, the __Creatus child theme__ is able to override the extension files by copying them in to child theme corresponding folder;
 
 	├─creatus/
 	│ ├─inc/
@@ -29,7 +29,7 @@ If an extension is located in Creatus framework extensions folder, the__Creatus 
 
 </div>
 
-Once you copy the files over you can make desired changes to extension files and extend your__creatus-child__theme extensions. 
+Once you copy the files over you can make desired changes to extension files and extend your __creatus-child__ theme extensions. 
 <div class="thz-notification thz-notification-red">
 	<h3 class="thz-notification-title">Info</h3>
 	<div>

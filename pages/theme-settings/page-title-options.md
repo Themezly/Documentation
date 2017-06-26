@@ -15,7 +15,7 @@
 </a>
 </div>
 
-To access Creatus__Page Title Options__please go to__Appearance__> __Theme Settings__and locate the__Page title__tab in the left side vertical menu. Page title section options will let you setup your page title and assign in to specific pages. Page title sections options are separated in to 3 tabs;
+To access Creatus __Page Title Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Page title__ tab in the left side vertical menu. Page title section options will let you setup your page title and assign in to specific pages. Page title sections options are separated in to 3 tabs;
 
 1. <a class="thz-scroll" href="#section">Section</a>
 2. <a class="thz-scroll" href="#title">Title</a>
@@ -31,13 +31,13 @@ To access Creatus__Page Title Options__please go to__Appearance__> __Theme Setti
 </a>
 </div>
 
-Page title section __section tab__contains following options;
+Page title section  __section tab__ contains following options;
 
--__Mode__&nbsp;-&nbsp; Title and Breadcrumbs, Title only, Breadcrumbs only or Inactive.
--__Layout__&nbsp;-&nbsp; Table or stack.
--__Order__&nbsp;-&nbsp; Title first or Breadcrumbs first.
--__Show page title on__&nbsp;-&nbsp; A multi select that will let you choose where page title should be shown.
--__Page title section options__&nbsp;-&nbsp; A popup with section box style, containment options and section effects.
+- __Mode__ &nbsp;-&nbsp; Title and Breadcrumbs, Title only, Breadcrumbs only or Inactive.
+- __Layout__ &nbsp;-&nbsp; Table or stack.
+- __Order__ &nbsp;-&nbsp; Title first or Breadcrumbs first.
+- __Show page title on__ &nbsp;-&nbsp; A multi select that will let you choose where page title should be shown.
+- __Page title section options__ &nbsp;-&nbsp; A popup with section box style, containment options and section effects.
 </div>
 <div id="title" markdown="1">
 ### Title tab
@@ -47,10 +47,10 @@ Page title section __section tab__contains following options;
 </a>
 </div>
 
-Page title section __title tab__contains following options;
+Page title section  __title tab__ contains following options;
 
--__Page title margin__&nbsp;-&nbsp; Adjust page title container margin. 
--__Page title font__&nbsp;-&nbsp; Adjust page title font color and metrics.
+- __Page title margin__ &nbsp;-&nbsp; Adjust page title container margin. 
+- __Page title font__ &nbsp;-&nbsp; Adjust page title font color and metrics.
 </div>
 
 <div id="breadcrumbs" markdown="1">
@@ -62,12 +62,12 @@ Page title section __title tab__contains following options;
 </a>
 </div>
 
-Page title section __breadcrumbs tab__contains following options;
+Page title section  __breadcrumbs tab__ contains following options;
 
--__Breadcrumbs font__&nbsp;-&nbsp; Adjust breadcrumbs font metrics.
--__Breadcrumbs colors__&nbsp;-&nbsp; Adjust breadcrumbs text, link and hovered link colors.
--__Separtor type__&nbsp;-&nbsp; Select breadcrumbs separator type. Textual or icons.
--__Separator space__&nbsp;-&nbsp; Adjust space between separator and breadcrumbs.
+- __Breadcrumbs font__ &nbsp;-&nbsp; Adjust breadcrumbs font metrics.
+- __Breadcrumbs colors__ &nbsp;-&nbsp; Adjust breadcrumbs text, link and hovered link colors.
+- __Separtor type__ &nbsp;-&nbsp; Select breadcrumbs separator type. Textual or icons.
+- __Separator space__ &nbsp;-&nbsp; Adjust space between separator and breadcrumbs.
 </div>
 
 </div>

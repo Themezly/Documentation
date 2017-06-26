@@ -7,11 +7,11 @@
 </a>
 </div>
 
-To create new__Project__please follow these short step by step instructions;
+To create new __Project__ please follow these short step by step instructions;
 
-1. Log in to your WordPress__Dashboard__&nbsp; - &nbsp; www.yoursitename.com/wp-admin
-2. In WordPress side menu locate__Portfolio__>__Add New__link and click on it.
-3. Once you are in project post edit screen simply fill in the project required fields like__Title__and__Content__
+1. Log in to your WordPress __Dashboard__ &nbsp; - &nbsp; www.yoursitename.com/wp-admin
+2. In WordPress side menu locate __Portfolio__ > __Add New__ link and click on it.
+3. Once you are in project post edit screen simply fill in the project required fields like __Title__ and __Content__
 4. While here you may also adjust following options;
  1. __Add project categories__
  1. __Add project tags__
@@ -19,7 +19,7 @@ To create new__Project__please follow these short step by step instructions;
  1. __Add custom CSS for your project__
  
 
-Once you are done setting up your project you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish event" data-modal-size="large">__locate__</a>  the__Preview__button and click on it. If everything is as you need it to be , click on__Publish__button to go live with your new project.
+Once you are done setting up your project you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish event" data-modal-size="large">__locate__</a>  the __Preview__ button and click on it. If everything is as you need it to be , click on __Publish__ button to go live with your new project.
 
  
 ### Project options
@@ -31,7 +31,7 @@ Once you are done setting up your project you may want to preview it before publ
 
 <div id="search" markdown="1">
 
-To access Creatus__Project post options__please go to__Portfolio__> __Add new__and locate the__Project options__tab inside the__Creatus options__meta box. This section contains following options;
+To access Creatus __Project post options__ please go to __Portfolio__ >  __Add new__ and locate the __Project options__ tab inside the __Creatus options__ meta box. This section contains following options;
 
 
 1. __Project meta__&nbsp; - &nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/project-options-meta.jpg" data-mfp-title="Creatus WordPress Theme Project meta options" data-modal-size="large">__Add project meta__</a>

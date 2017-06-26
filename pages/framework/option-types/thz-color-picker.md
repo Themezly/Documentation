@@ -11,7 +11,7 @@ Thz Color Picker is color picker option type with multiple color sets that inclu
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-color-picker',
-	'label' =>__('Option label', '{domain}'),
+	'label' => __('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value'=> '',
@@ -19,7 +19,7 @@ Thz Color Picker is color picker option type with multiple color sets that inclu
 </pre>
 
 
-Note that palette colors are saved as palete color names eg;__color_1, color_2__. To convert them to color code values use the palette color processing function;
+Note that palette colors are saved as palete color names eg; __color_1, color_2__. To convert them to color code values use the palette color processing function;
 
 #### frontend pallete color processing function 
 

@@ -6,4 +6,4 @@
 
 Slider element displays Unyson Slider extension sliders. Element popup contains following options;
 
-1. __Select slider__&nbsp;-&nbsp; Select Unyson slider.
+1. __ Select slider __ &nbsp;-&nbsp; Select Unyson slider.

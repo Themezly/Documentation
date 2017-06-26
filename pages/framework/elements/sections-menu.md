@@ -7,11 +7,11 @@
 Sections Menu element creates dots sections menu that auto scrolls to a section when clicked on. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
-1. __Menu metrics__&nbsp;-&nbsp; Adjust menu metrics. Show after will show the menu after user has scrolled certain amount of pixels. If set to 0 menu is always shown. Custom position will let you adjust menu top position.
-1. __Add to menu__&nbsp;-&nbsp; Add Hero or Footer sections to the menu.
-1. __Container metrics__&nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __ Menu metrics __ &nbsp;-&nbsp; Adjust menu metrics. Show after will show the menu after user has scrolled certain amount of pixels. If set to 0 menu is always shown. Custom position will let you adjust menu top position.
+1. __ Add to menu __ &nbsp;-&nbsp; Add Hero or Footer sections to the menu.
+1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 
 #### Styling tab{.options-tab}
-1. __Menu box style__&nbsp;-&nbsp; Adjust .thz-sections-scroll box style.
-1. __Tooltip colors__&nbsp;-&nbsp; Adjust tooltip colors.
-1. __Indicator colors__&nbsp;-&nbsp; Adjust indicator colors.
+1. __ Menu box style __ &nbsp;-&nbsp; Adjust .thz-sections-scroll box style.
+1. __ Tooltip colors __ &nbsp;-&nbsp; Adjust tooltip colors.
+1. __ Indicator colors __ &nbsp;-&nbsp; Adjust indicator colors.

@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-To access Creatus__Custom CSS Options__please go to__Appearance__> __Theme Settings__and locate the__Custom CSS__tab in the left side vertical menu. This section contains Custom CSS option that will let you add__global__custom CSS to your theme.  
+To access Creatus __Custom CSS Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Custom CSS__ tab in the left side vertical menu. This section contains Custom CSS option that will let you add __global__ custom CSS to your theme.  
 
 </div>
 

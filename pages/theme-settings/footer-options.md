@@ -15,7 +15,7 @@
 </a>
 </div>
 
-To access Creatus__Footer Options__please go to__Appearance__> __Theme Settings__and locate the__Footer__tab in the left side vertical menu. Footer options will let you setup your website footer.
+To access Creatus __Footer Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Footer__ tab in the left side vertical menu. Footer options will let you setup your website footer.
 
 
 
@@ -29,12 +29,12 @@ To access Creatus__Footer Options__please go to__Appearance__> __Theme Settings_
 
 Footer tab contains following options;
 
--__Footer metrics__&nbsp;-&nbsp; Adjust footer metrics. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, .thz-footer-sections-holder appears as coming under the site when user scrolls to it.
--__Footer box style__ &nbsp;-&nbsp; Customize #footer box style.
--__Footer colors__ &nbsp;-&nbsp; Adjust footer colors. Theme colors used if empty.
--__Footer content__ &nbsp;-&nbsp; Select footer layout and choose what will be shown in footer content.
--__Site branding__ &nbsp;-&nbsp; You can use span, a, div and img html tags. If you wish to add copyright year please use {year} instead of the numbers. This way the current year will be shown.
--__Responsive behavior__&nbsp;-&nbsp; Show/hide footer on specific devices
+- __Footer metrics__ &nbsp;-&nbsp; Adjust footer metrics. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, .thz-footer-sections-holder appears as coming under the site when user scrolls to it.
+- __Footer box style__  &nbsp;-&nbsp; Customize #footer box style.
+- __Footer colors__  &nbsp;-&nbsp; Adjust footer colors. Theme colors used if empty.
+- __Footer content__  &nbsp;-&nbsp; Select footer layout and choose what will be shown in footer content.
+- __Site branding__  &nbsp;-&nbsp; You can use span, a, div and img html tags. If you wish to add copyright year please use {year} instead of the numbers. This way the current year will be shown.
+- __Responsive behavior__ &nbsp;-&nbsp; Show/hide footer on specific devices
 
 
 </div>

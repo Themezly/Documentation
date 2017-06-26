@@ -6,7 +6,7 @@
 </div>
 
 
-To override Creatus theme settings admin splash image, create an image by name__admin-splash.png__and save it in__creatus-child__theme folder;
+To override Creatus theme settings admin splash image, create an image by name __admin-splash.png__ and save it in __creatus-child__ theme folder;
 
 
 	├─creatus-child/

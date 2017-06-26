@@ -11,8 +11,6 @@
 </a>
 </div>
 
-In this video we will show step by step__Creatus theme__installation and activation as well as__Creatus Clean Demo__installation process. 
-
 ### Demo installation process explained
 For easier start we have bundled several demo installations with Creatus Theme. These installations will replicate Creatus Theme demos as you see them on our [demo website](https://www.creatus.io). The actual demo installation process consist out of following steps;
 	
@@ -22,18 +20,18 @@ For easier start we have bundled several demo installations with Creatus Theme. 
 4. Installation cleanup
 
 
-As you can see from the above steps that the process is detailed thus it__might take longer__to proceed. Please have patience and wait for the process to be finished.
+As you can see from the above steps that the process is detailed thus it __might take longer__ to proceed. Please have patience and wait for the process to be finished.
 
 
 ### Demo installation steps
 <div class="thz-docs-continue-list" markdown="1">
-1. In WordPress Admin area__side menu__go to__Creatus__>__Demo install__.
+1. In WordPress Admin area __side menu__ go to __Creatus__ > __Demo install__.
 
 <div class="thz-doc-image">
 	<img src="../../docs-media/install-demo-1.jpg" alt="Install Creatus WordPress Theme demo 1" />
 </div>
 
-2. Select your desired demo and click on__Install__button.
+2. Select your desired demo and click on __Install__ button.
 
 <div class="thz-doc-image">
 	<img src="../../docs-media/install-demo-2.jpg" alt="Install Creatus WordPress Theme 2" />
@@ -51,13 +49,13 @@ As you can see from the above steps that the process is detailed thus it__might 
 
 ### Restoring Backup
 
-4. To restore backup in WordPress Admin area__side menu__go to__Creatus__>__Backup and restore__.
+4. To restore backup in WordPress Admin area __side menu__ go to __Creatus__ > __Backup and restore__.
 
 <div class="thz-doc-image">
 	<img src="../../docs-media/install-demo-3.jpg" alt="Install Creatus WordPress Theme 3" />
 </div>
 
-5. Select the backup you wish to restore and click on__Restore Backup__button.
+5. Select the backup you wish to restore and click on __Restore Backup__ button.
 
 <div class="thz-doc-image">
 	<img src="../../docs-media/install-demo-4.jpg" alt="Install Creatus WordPress Theme 4" />

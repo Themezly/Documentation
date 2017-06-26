@@ -3,7 +3,7 @@ This is a list of most used PHP helpers. For a complete list of helpers and util
 Beside Creatus PHP helpers here is a list of [__Unyson PHP Helpers__](http://manual.unyson.io/en/latest/helpers/php.html) that you can use. 
 
 #### Get option
-Return theme option value. If theme option__is set__in__post/taxonomy custom option__, it returns__post/taxonomy custom option value__instead.
+Return theme option value. If theme option __is set__ in __post/taxonomy custom option__, it returns __post/taxonomy custom option value__ instead.
 
 	thz_get_option( $option_id, $default_value = null );
 
@@ -75,8 +75,8 @@ Retur sanitized HTML element class names.
 
 #### Property unit
 Returns clean number with specified unit. If no match, fallback is used as unit.  
-Allowed units are__px, %, rem, em, vw, vh, vmin ,vmax__.  
-If__$auto__is set to true it allows `auto` as value if found. If__$none__is set to true it allows `none` as value if found.
+Allowed units are __px, %, rem, em, vw, vh, vmin ,vmax__.  
+If __$auto__ is set to true it allows `auto` as value if found. If __$none__ is set to true it allows `none` as value if found.
 
 	thz_property_unit( $val, $default, $auto = false, $none = false )
 

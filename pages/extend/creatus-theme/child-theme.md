@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-Once you [__install__]( http://themezly.com/how-to-install-creatus-wordpress-theme/ ) and__activate__Creatus WordPress Theme you are taken to the__Auto Setup__screen that gives you two auto setup options that automatically__download__and__activate__Creatus Child Theme.  
+Once you [__install__]( http://themezly.com/how-to-install-creatus-wordpress-theme/ ) and __activate__ Creatus WordPress Theme you are taken to the __Auto Setup__ screen that gives you two auto setup options that automatically __download__ and __activate__ Creatus Child Theme.  
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/creatus-child-auto-setup.jpg" data-mfp-title="Creatus WordPress Theme Child Theme" data-modal-size="large">
@@ -15,10 +15,10 @@ Once you [__install__]( http://themezly.com/how-to-install-creatus-wordpress-the
 </a>
 </div>
 
-- Plugins & Demo Content &nbsp;-&nbsp; __installs all required plugins and dependencies and redirects to demo content install screen__
-- Plugins Only  &nbsp;-&nbsp;__installs all required plugins and dependencies__
+- Plugins & Demo Content &nbsp;-&nbsp;  __installs all required plugins and dependencies and redirects to demo content install screen __
+- Plugins Only  &nbsp;-&nbsp; __ installs all required plugins and dependencies __
 
-Clicking on any of the two options will auto install and activate Creatus child theme for you. __We strongly recommend to use child-theme__to make sure that your custom changes will still be effective after the theme has been updated. 
+Clicking on any of the two options will auto install and activate Creatus child theme for you. __We strongly recommend to use child-theme__ to make sure that your custom changes will still be effective after the theme has been updated. 
   
 ### Why use child theme?
 
@@ -28,7 +28,7 @@ Beside being able to extend the theme files, with Creatus you can also extend or
 
 
 ### Extend Creatus theme options
-If theme options set is located in Creatus framework theme options folder, the__Creatus child theme__is able to override the options set files by copying the file in to child theme corresponding folder;
+If theme options set is located in Creatus framework theme options folder, the __Creatus child theme__ is able to override the options set files by copying the file in to child theme corresponding folder;
 
 
 	├─creatus/
@@ -49,7 +49,7 @@ If theme options set is located in Creatus framework theme options folder, the__
 
 
 ### Extend Creatus shortcodes ( elements ) 
-If a shortcode is located in Creatus framework extensions shortcodes folder, the__Creatus child theme__is able to override the shortcode files by copying them in to child theme corresponding folder;
+If a shortcode is located in Creatus framework extensions shortcodes folder, the __Creatus child theme__ is able to override the shortcode files by copying them in to child theme corresponding folder;
 
 	├─creatus/
 	│ ├─inc/
@@ -70,7 +70,7 @@ If a shortcode is located in Creatus framework extensions shortcodes folder, the
 	          └───...
 			  
 ### Extend Creatus extensions
-If an extension is located in Creatus framework extensions folder, the__Creatus child theme__is able to override the extension files by copying them in to child theme corresponding folder;
+If an extension is located in Creatus framework extensions folder, the __Creatus child theme__ is able to override the extension files by copying them in to child theme corresponding folder;
 
 	├─creatus/
 	│ ├─inc/
@@ -90,7 +90,7 @@ If an extension is located in Creatus framework extensions folder, the__Creatus 
 
 
 ### Extend Creatus widgets		  
-If a widget is located in Creatus inc widgets folder, the__Creatus child theme__is able to override the__widget.php__file by copying it to child theme corresponding folder;
+If a widget is located in Creatus inc widgets folder, the __Creatus child theme__ is able to override the __widget.php__ file by copying it to child theme corresponding folder;
 
 	├─creatus/
 	│ ├─inc/

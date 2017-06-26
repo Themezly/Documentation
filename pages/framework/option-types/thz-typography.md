@@ -4,14 +4,14 @@
 </a>
 </div>
 
-Thz Typography option type is an option type that will let you pick font family from 15 predefined web safe fonts families or choose font familly from__[800+ Google fonts](https://fonts.google.com/)__. You ca also adjust font size, weight, letter spacing, line height, style, text transform, alignment and color or use built in text shadow generator to aditionaly style your font.
+Thz Typography option type is an option type that will let you pick font family from 15 predefined web safe fonts families or choose font familly from __[800+ Google fonts](https://fonts.google.com/)__. You ca also adjust font size, weight, letter spacing, line height, style, text transform, alignment and color or use built in text shadow generator to aditionaly style your font.
 
 #### option snippet
 
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-typography',
-	'label' =>__('Option label', '{domain}'),
+	'label' => __('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(

@@ -7,7 +7,7 @@
 
 <div markdown="1">
 
-To access Creatus__Additional Options__please go to__Appearance__> __Theme Settings__and locate the__Additional__tab in the left side vertical menu. This section is split in sub tabs;
+To access Creatus __Additional Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Additional__ tab in the left side vertical menu. This section is split in sub tabs;
 
 </div>
 
@@ -28,14 +28,14 @@ To access Creatus__Additional Options__please go to__Appearance__> __Theme Setti
 </a>
 </div>
 
-__Media overlay__section tab contains following options;
+__Media overlay__ section tab contains following options;
 
 
-1. __Media overlay background__&nbsp;-&nbsp; Set media overlay background.
-1. __Media overlay effect__&nbsp;-&nbsp; Select media overlay hover effect and duration.
-1. __Media image effect__&nbsp;-&nbsp; Select media image hover effect and duration.
-1. __Overlay element effect__&nbsp;-&nbsp; Select media overlay element hover effect and duration.
-1. __Custom overlays__&nbsp;-&nbsp; Add custom overlays for specific medias or leave as is and use above settings as defaults.
+1. __Media overlay background__ &nbsp;-&nbsp; Set media overlay background.
+1. __Media overlay effect__ &nbsp;-&nbsp; Select media overlay hover effect and duration.
+1. __Media image effect__ &nbsp;-&nbsp; Select media image hover effect and duration.
+1. __Overlay element effect__ &nbsp;-&nbsp; Select media overlay element hover effect and duration.
+1. __Custom overlays__ &nbsp;-&nbsp; Add custom overlays for specific medias or leave as is and use above settings as defaults.
 </div>
 
 
@@ -48,13 +48,13 @@ __Media overlay__section tab contains following options;
 </a>
 </div>
 
-__Lightbox__section tab contains following options;
+__Lightbox__ section tab contains following options;
 
 
-1. __Backdrop Style__&nbsp;-&nbsp; Select backdrop ( popup background ) style.
-1. __Backdrop Opacity__&nbsp;-&nbsp; Set backdrop ( popup background ) opacity.
-1. __Popup effect__&nbsp;-&nbsp; Select popup window opening effect.
-1. __Show thumbnails slider__&nbsp;-&nbsp; Show/hide lightbox thumbnails slider.
+1. __Backdrop Style__ &nbsp;-&nbsp; Select backdrop ( popup background ) style.
+1. __Backdrop Opacity__ &nbsp;-&nbsp; Set backdrop ( popup background ) opacity.
+1. __Popup effect__ &nbsp;-&nbsp; Select popup window opening effect.
+1. __Show thumbnails slider__ &nbsp;-&nbsp; Show/hide lightbox thumbnails slider.
 </div>
 
 
@@ -67,7 +67,7 @@ __Lightbox__section tab contains following options;
 </a>
 </div>
 
-__Related posts__section tab is split in to following sub tabs;
+__Related posts__ section tab is split in to following sub tabs;
 
 
 1. <a class="thz-lightbox mfp-image" href="../../docs-media/related-general-options.jpg" data-mfp-title="Creatus WordPress Theme Related general options" data-modal-size="large">
@@ -92,7 +92,7 @@ __Related posts__section tab is split in to following sub tabs;
 </a>
 </div>
 
-__Navigations__section tab is split in to following sub tabs;
+__Navigations__ section tab is split in to following sub tabs;
 
 
 1. <a class="thz-lightbox mfp-image" href="../../docs-media/pagination-options.jpg" data-mfp-title="Creatus WordPress Theme Pagination options" data-modal-size="large">
@@ -112,20 +112,20 @@ __Navigations__section tab is split in to following sub tabs;
 </a>
 </div>
 
-__Miscellaneous__section tab contains following options;
+__Miscellaneous__ section tab contains following options;
 
 
-1. __Comments metrics__&nbsp;-&nbsp; Adjust comments metrics.
-1. __Comment area headings__&nbsp;-&nbsp; Adjust comment area .comments-title and .comment-reply-title font metrics.
-1. __Overlay search colors__&nbsp;-&nbsp; Adjust overlay search colors.
-1. __Emojis__&nbsp;-&nbsp; Activate/deactivate emojis..
-1. __Smooth scroll__&nbsp;-&nbsp; Activate/deactivate site smooth scroll effect.
-1. __Scroll top anchor__&nbsp;-&nbsp; This option disables/enables scroll to top anchor.
-1. __Scroll to top metrics__&nbsp;-&nbsp; Adjust scroll to top anchor metrics.
-1. __Structured data__&nbsp;-&nbsp; Structured data helps highlight specific website information for search engines.
-1. __Page preloader__&nbsp;-&nbsp; This option disables/enables page preloader.
-1. __Preloader metrics__&nbsp;-&nbsp; Adjust preloader metrics. 1000ms = 1s. On click activates preloader on link click.
-1. __Preloader style__&nbsp;-&nbsp; Select desired preloader style.
+1. __Comments metrics__ &nbsp;-&nbsp; Adjust comments metrics.
+1. __Comment area headings__ &nbsp;-&nbsp; Adjust comment area .comments-title and .comment-reply-title font metrics.
+1. __Overlay search colors__ &nbsp;-&nbsp; Adjust overlay search colors.
+1. __Emojis__ &nbsp;-&nbsp; Activate/deactivate emojis..
+1. __Smooth scroll__ &nbsp;-&nbsp; Activate/deactivate site smooth scroll effect.
+1. __Scroll top anchor__ &nbsp;-&nbsp; This option disables/enables scroll to top anchor.
+1. __Scroll to top metrics__ &nbsp;-&nbsp; Adjust scroll to top anchor metrics.
+1. __Structured data__ &nbsp;-&nbsp; Structured data helps highlight specific website information for search engines.
+1. __Page preloader__ &nbsp;-&nbsp; This option disables/enables page preloader.
+1. __Preloader metrics__ &nbsp;-&nbsp; Adjust preloader metrics. 1000ms = 1s.
+1. __Preloader style__ &nbsp;-&nbsp; Select desired preloader style.
 
 
 </div>

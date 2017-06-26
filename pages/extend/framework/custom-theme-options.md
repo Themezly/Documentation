@@ -6,7 +6,7 @@
 <div markdown="1">
 Creatus theme options are separated in to corresponding options files and are located in `creatus/inc/thzframework/options` folder. Each of these files can be changed or extended. 
 
-If theme options set file is located in Creatus framework theme options folder, the__Creatus child theme__is able to override the options set files by copying the file in to__creatus-child__theme corresponding folder;
+If theme options set file is located in Creatus framework theme options folder, the __Creatus child theme__ is able to override the options set files by copying the file in to __creatus-child__ theme corresponding folder;
 
 
 	├─creatus/
@@ -31,7 +31,7 @@ If theme options set file is located in Creatus framework theme options folder, 
 
 </div>
 
-Once you copy the file over you can make desired changes to theme option file and extend your__creatus-child__theme options.
+Once you copy the file over you can make desired changes to theme option file and extend your __creatus-child__ theme options.
 
 
 <div class="thz-notification thz-notification-red">

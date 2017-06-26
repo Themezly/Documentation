@@ -11,12 +11,12 @@ Creatus Twitter Widget displays latest tweets from a specified Twitter user acco
 
 
 
-1. __Api keys__&nbsp;-&nbsp; Add Twitter API keys directly in widget or use Creatus theme Twitter API keys.
-1. __Twitter user__&nbsp;-&nbsp; Add Twitter username to display the tweets from.
-1. __Number of Tweets__&nbsp;-&nbsp; Input the number of tweets to display.
-1. __Tweet characters limit__&nbsp;-&nbsp; Limit the number of tweet characters.
-1. __Display tweet as link__&nbsp;-&nbsp; Link to the Twitter tweet.
-1. __Use .thz-has-list class__&nbsp;-&nbsp; Use Creatus widget list class to auto style the list border.
+1. __Api keys__ &nbsp;-&nbsp; Add Twitter API keys directly in widget or use Creatus theme Twitter API keys.
+1. __Twitter user__ &nbsp;-&nbsp; Add Twitter username to display the tweets from.
+1. __Number of Tweets__ &nbsp;-&nbsp; Input the number of tweets to display.
+1. __Tweet characters limit__ &nbsp;-&nbsp; Limit the number of tweet characters.
+1. __ Display tweet as link__ &nbsp;-&nbsp; Link to the Twitter tweet.
+1. __Use .thz-has-list class__ &nbsp;-&nbsp; Use Creatus widget list class to auto style the list border.
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/twitter-widget-frontend.jpg" data-mfp-title="Creatus WordPress Theme Instagram Widget Frontend" data-modal-size="large">

@@ -6,5 +6,5 @@
 
 LayerSlider element displays WordPress LayerSlider slider. Element popup contains following options;
 
-1. __Select slider__&nbsp;-&nbsp; Select LayerSlider slider.
-1. __Container metrics__&nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __ Select slider __ &nbsp;-&nbsp; Select LayerSlider slider.
+1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.

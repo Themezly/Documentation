@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Thz Icon option type is an option type that will let you select an icon from__3400+__custom picked icons.
+Thz Icon option type is an option type that will let you select an icon from __3400+__ custom picked icons.
 
 
 #### option snippet simple
@@ -12,7 +12,7 @@ Thz Icon option type is an option type that will let you select an icon from__34
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-icon',
-	'label' =>__('Option label', '{domain}'),
+	'label' => __('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => 'thzicon thzicon-themezly',
@@ -25,7 +25,7 @@ Thz Icon option type is an option type that will let you select an icon from__34
 <pre class="pre-scrollable prettyprint light">
 'option_name' => array(
 	'type' => 'thz-icon',
-	'label' =>__('Option label', '{domain}'),
+	'label' => __('Option label', '{domain}'),
 	'desc' => esc_html__('Option description.', '{domain}'),
 	'help' => esc_html__('Option help.', '{domain}'),
 	'value' => array(
@@ -40,7 +40,7 @@ Thz Icon option type is an option type that will let you select an icon from__34
 
 
 
-To add custom icons to thz-icon option type add following filter in your__child-theme functions.php__file;
+To add custom icons to thz-icon option type add following filter in your __child-theme functions.php__ file;
 
 <pre class="pre-scrollable prettyprint light">
 function my_filter_font_icon_packs ($packs){
@@ -60,6 +60,6 @@ function my_filter_font_icon_packs ($packs){
 add_filter('thz_filter_font_icon_packs', 'my_filter_font_icon_packs');
 </pre>
 
-__Note that you need to enque frontent icons stylesheet on your own. __
+__Note that you need to enque frontent icons stylesheet on your own.__
 
-Transient used to save custom icon pack is `thz_custom_font_icon_packs`  and is__refreshed every 7 days__. Transient can be deleted when filter is removed or with  `delete_transient('thz_custom_font_icon_packs')` function. 
+Transient used to save custom icon pack is `thz_custom_font_icon_packs`  and is __refreshed every 7 days__. Transient can be deleted when filter is removed or with  `delete_transient('thz_custom_font_icon_packs')` function. 

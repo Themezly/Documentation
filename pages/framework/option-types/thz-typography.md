@@ -4,7 +4,9 @@
 </a>
 </div>
 
-Thz Typography option type is an option type that will let you pick font family from 15 predefined web safe fonts families, choose font familly from __[800+ Google fonts](https://fonts.google.com/)__. You ca also adjust font size, weight, letter spacing, line height, style, text transform, alignment and color or use built in text shadow generator to aditionaly style your font. If you need more fonts that wht is available by default see __[Import fonts utility](https://themezly.com/docs/import-fonts/)__
+Thz Typography is an option type that will let you pick font family from 15 predefined web safe fonts families, choose font familly from __[800+ Google fonts](https://fonts.google.com/)__. You ca also adjust font size, weight, letter spacing, line height, style, text transform, alignment and color or use built in text shadow generator to aditionaly style your font. 
+
+If your favorite webfont is not in the list or you simply need more webfonts please see __[Import fonts utility](https://themezly.com/docs/import-fonts/)__
 
 #### option snippet
 

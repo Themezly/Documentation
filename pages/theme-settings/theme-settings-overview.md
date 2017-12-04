@@ -18,7 +18,6 @@ Creatus comes with powerful theme settings admin panel that will help you contro
 1. __ Page Templates __ &nbsp;-&nbsp; Contains theme options that control author, 404 and search page templates layout and style.
 1. __ Widgets Generator __ &nbsp;-&nbsp; Contains site widgets positions generator.
 1. __ Socials __ &nbsp;-&nbsp; Contains theme options that controll social media and social sharing links layout and style.
-1. __ Socials __ &nbsp;-&nbsp; Contains theme options that control social media and social sharing links layout and style.
 1. __ WooCommerce __ &nbsp;-&nbsp; Contains theme options that control WooCommerce layout and style.
 1. __ bb & Buddy Press __ &nbsp;-&nbsp; Contains theme options that control layout and style for bbPress and Buddy Press.
 1. __ Custom CSS __ &nbsp;-&nbsp; Contains an option that add global custom CSS to your theme.

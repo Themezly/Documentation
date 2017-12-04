@@ -5,7 +5,7 @@
 </a>
 </div>
 
-Creatus theme page builder comes with an ability to create __Custom page builder templates__ and  __Template Library__ with over 150 predefined page buider templates.
+Creatus theme page builder comes with an ability to create __Custom page builder templates__ and  __Template Library__ with over 150 predefined page builder templates.
 
 ### Custom page builder templates
 
@@ -15,7 +15,7 @@ Creatus theme page builder comes with an ability to create __Custom page builder
 </a>
 </div>
 
-To create custom template simply locate the section slider, section or column __Save as template__ icon and click on it. Give your template a name and save. Now your template is available under the __Builder templates__ menu and can be accesed on any page that has page builder active.
+To create custom template simply locate the section slider, section or column __Save as template__ icon and click on it. Give your template a name and save. Now your template is available under the __Builder templates__ menu and can be accessed on any page that has page builder active.
 
 
 ### Template Library
@@ -26,7 +26,7 @@ To create custom template simply locate the section slider, section or column __
 </a>
 </div>
 
-To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with redy to go shortocdes. These are self explanatory and in order to use them simply click on desired item and preview your page. 
+To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with ready to go shortocdes. These are self explanatory and in order to use them simply click on desired item and preview your page. 
 
 
 </div>

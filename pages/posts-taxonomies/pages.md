@@ -63,15 +63,13 @@ To create a page builder page we recommend a tree shortcode building logic which
 To create custom template simply locate the section slider, section or column __Save as template__ icon and click on it. Give your template a name and save. Now your template is available under the __Builder templates__ menu and can be accesed on any page that has page builder active.
 
 
-### Predefined page builder templates
+### Template Library
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/predefined-templates.gif" data-mfp-title="Creatus WordPress Theme Page Builder Predefined templates" data-modal-size="large">
-	<img src="../../docs-media/predefined-templates.gif" alt="Creatus WordPress Theme Page Builder Predefined templates" />
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=y5_Cai3d5v0" data-mfp-title="Creatus WordPress Theme Template Library" data-modal-size="large">
+	<img src="../../docs-media/splash-template-library.jpg" alt="Creatus WordPress Theme Template Library" />
 </a>
 </div>
 
-To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with already premade shortocdes. These are self explanatory and in order to use them simply click on desired set and preview your page. 
-
-Once you are done setting up your page you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish page" data-modal-size="large">__locate__</a>  the __Preview__ button and click on it. If everything is as you need it to be , click on __Publish__ button to go live with your new page.
+To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with ready to go shortocdes. Once you are done setting up your page you may want to preview it before publishing. To do so, <a class="thz-lightbox mfp-image" href="../../docs-media/preview-publish-post.jpg" data-mfp-title="Creatus WordPress Theme Preview and publish page" data-modal-size="large">__locate__</a>  the __Preview__ button and click on it. If everything is as you need it to be , click on __Publish__ button to go live with your new page.
 </div>

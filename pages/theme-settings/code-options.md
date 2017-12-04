@@ -13,6 +13,6 @@ To access Creatus __Code Options__ please go to __Appearance__ >  __Theme Settin
 
 </div>
 
-1. __Before ```</head>```__ &nbsp;-&nbsp; Add code before ```</head>``` tag. Use valid Javascript or HTML.
-1. __After ```<body>```__ &nbsp;-&nbsp; Add code after ```<body>``` tag. Use valid Javascript or HTML.
-1. __Before ```</body>```__ &nbsp;-&nbsp; Add code before ```</body>``` tag. Use valid Javascript or HTML.
+1. __Before `</head>`__ &nbsp;-&nbsp; Add code before `</head>` tag. Use valid Javascript or HTML.
+1. __After `<body>`__ &nbsp;-&nbsp; Add code after `<body>` tag. Use valid Javascript or HTML.
+1. __Before `</body>`__ &nbsp;-&nbsp; Add code before `</body>` tag. Use valid Javascript or HTML.

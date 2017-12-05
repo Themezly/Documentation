@@ -1,15 +1,14 @@
 <div class="thz-lightbox-gallery" markdown="1">
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/requirements-tab.jpg" data-mfp-title="Creatus WordPress Theme Requirements tab" data-modal-size="large">
-	<img src="../../docs-media/requirements-tab.jpg" alt="Creatus WordPress Theme Requirements tab" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/system-info-link.jpg" data-mfp-title="Creatus WordPress Theme System Info" data-modal-size="large">
+	<img src="../../docs-media/system-info-link.jpg" alt="Creatus WordPress Theme System Info" />
 </a>
 </div>
 
 <div markdown="1">
-To access Creatus __Requirements__ please go to __Appearance__ >  __Theme Settings__ and locate the __Requirements__ tab in the left side vertical menu. 
-
-__Requirements__ section tab contains information about your server and WordPress install. In case that there is a settings suggestion the Requirements <a class="thz-lightbox mfp-image" href="../../docs-media/requirements-tab-icon.jpg" data-mfp-title="Creatus WordPress Theme Requirements WordPress Environment" data-modal-size="large"> __tab icon__ </a> will be yellow and the suggested change message will be red;
+To access Creatus __System Info__ please go to __Creatus Child__ >  __System Info__ and menu link. 
+__System info__ page contains information about your server and WordPress install. In case that there is a settings suggestion the System <a class="thz-lightbox mfp-image" href="../../docs-media/system-info-icon.jpg" data-mfp-title="Creatus WordPress Theme System Info Icon" data-modal-size="large"> __ icon__ </a> and the suggested change message will be red;
 
 </div>
 

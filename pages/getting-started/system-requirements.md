@@ -48,4 +48,4 @@ These are recommended PHP requirements that need to be adjusted before installin
 + Google Chrome 10+
 + Firefox 4+
 + Internet Explorer 9+
-+ Opera 11+
++ Opera 10+

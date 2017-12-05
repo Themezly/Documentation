@@ -18,6 +18,7 @@ To access Creatus __Logo Options__ please go to __Appearance__ >  __Theme Settin
 
 1. Textual
 2. Image
+3. SVG
 
 ### Textual Logo
 
@@ -35,6 +36,17 @@ Image logo section contains __select/upload__ images options for __default__, __
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo Image" data-modal-size="large">
 	<img src="../../docs-media/logo-options-2.jpg" alt="Creatus WordPress Theme Logo Options 2" />
+</a>
+</div>
+
+
+### SVG Logo
+
+There are two ways to add logo SVG. Fast way is to select __any image and add your logo SVG code in the image description textarea__. Another way is to enable WordPress SVG uploads. To do so you need to __use 3rd party plugin__ that allows this feature.
+
+<div class="thz-doc-image max">
+<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-3.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo SVG" data-modal-size="large">
+	<img src="../../docs-media/logo-options-3.jpg" alt="Creatus WordPress Theme Logo Options 3" />
 </a>
 </div>
 

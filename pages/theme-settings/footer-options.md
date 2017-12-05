@@ -29,11 +29,14 @@ To access Creatus __Footer Options__ please go to __Appearance__ >  __Theme Sett
 
 Footer tab contains following options;
 
-- __Footer metrics__ &nbsp;-&nbsp; Adjust footer metrics. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, .thz-footer-sections-holder appears as coming under the site when user scrolls to it.
+- __Footer metrics__ &nbsp;-&nbsp; Adjust footer metrics. Choose footer display mode. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, .thz-footer-sections-holder appears as coming under the site when user scrolls to it.
 - __Footer box style__  &nbsp;-&nbsp; Customize #footer box style.
+- __Footer fonts__  &nbsp;-&nbsp; Add custom fonts settings for footer elements.
 - __Footer colors__  &nbsp;-&nbsp; Adjust footer colors. Theme colors used if empty.
 - __Footer content__  &nbsp;-&nbsp; Select footer layout and choose what will be shown in footer content.
 - __Site branding__  &nbsp;-&nbsp; You can use span, a, div and img html tags. If you wish to add copyright year please use {year} instead of the numbers. This way the current year will be shown.
+- __Scroll to top anchor__  &nbsp;-&nbsp; Enable/disable scroll to top anchor.
+- __Scroll to top metrics__  &nbsp;-&nbsp; Adjust scroll to top anchor metrics.
 - __Responsive behavior__ &nbsp;-&nbsp; Show/hide footer on specific devices
 
 

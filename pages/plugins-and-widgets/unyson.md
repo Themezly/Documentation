@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=JQ5pvmTGRF4" data-mfp-title="Creatus WordPress Theme Framework Overview" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=fVyJ3EG8hec" data-mfp-title="Creatus WordPress Theme Framework Overview" data-modal-size="large">
 	<img src="../../docs-media/splash-creatus-framewrok-plugin.jpg" alt="Creatus WordPress Theme Unyson Plugin" />
 </a>
 </div>
@@ -19,4 +19,5 @@ Unyson Framework Plugin is the core of Creatus WordPress Theme and most of theme
 1. __ Sliders __ &nbsp;-&nbsp;  Create Sliders and use them in your WordpRess installation.
 1. __ Mega Menu __ &nbsp;-&nbsp; Create mega menu rows within the theme top menu.
 1. __ Events __ &nbsp;-&nbsp; Create Events section on your WordpRess installation.
+1. __ Page Blocks __ &nbsp;-&nbsp;  This is a custom post type that will help you create custom page builder content for specific theme areas
 1. __ SEO __ &nbsp;-&nbsp; Optimize your WordPress website by adding customized page meta titles, keywords and descriptions.

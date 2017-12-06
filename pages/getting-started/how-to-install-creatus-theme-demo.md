@@ -6,7 +6,7 @@
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=9Sat1RXtnr8" data-mfp-title="Installing Creatus WordPress Theme Demo" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=dCfnLTlDKlA" data-mfp-title="Installing Creatus WordPress Theme Demo" data-modal-size="large">
 	<img src="../../docs-media/splash-installing-creatus-theme-demo.jpg" alt="Installing Creatus WordPress Theme Demo" />
 </a>
 </div>
@@ -17,10 +17,11 @@ For easier start we have bundled several demo installations with Creatus Theme. 
 1. Your current installation backup
 2. Demo download from our server
 3. Extraction and demo installation
-4. Installation cleanup
+4. Image sizes restore __( longest process )__ 
+5. Installation cleanup
 
 
-As you can see from the above steps that the process is detailed thus it __might take longer__ to proceed. Please have patience and wait for the process to be finished.
+As you can see from the steps above that the process is detailed thus it __might take longer__ to proceed. The longest process is __Image sizes restore__ and its speed depends on the __amount of images used in demo and your server speed__. Our __biggest demos are Clean and Creatus__ because we have used many images __( 400+ )__ to display all available theme features for you. So we ask of you to have patience and wait for the process to be finished.
 
 
 ### Demo installation steps

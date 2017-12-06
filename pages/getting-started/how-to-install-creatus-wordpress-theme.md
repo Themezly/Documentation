@@ -9,7 +9,7 @@
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=gsEhhiTTMt8" data-mfp-title="Installing Creatus WordPress Theme" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=a-JlMt9AHY4" data-mfp-title="Installing Creatus WordPress Theme" data-modal-size="large">
 	<img src="../../docs-media/splash-installing-creatus-wordpress-theme.jpg" alt="Installing Creatus WordPress Theme" />
 </a>
 </div>

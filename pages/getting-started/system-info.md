@@ -7,7 +7,7 @@
 </div>
 
 <div markdown="1">
-To access Creatus __System Info__ please go to __Creatus Child__ >  __System Info__ and menu link. 
+To access Creatus __System Info__ please go to __Creatus Child__ >  __System Info__ menu link. 
 __System info__ page contains information about your server and WordPress install. In case that there is a settings suggestion the System <a class="thz-lightbox mfp-image" href="../../docs-media/system-info-icon.jpg" data-mfp-title="Creatus WordPress Theme System Info Icon" data-modal-size="large"> __ icon__ </a> and the suggested change message will be red;
 
 </div>

@@ -10,6 +10,12 @@ Creatus theme container elements like __hero sections, section, section slider, 
 3. Place your __shape__  in `creatus_child/assets/images/shapes` folder.
 4. Add action to `creatus_child/functions.php` file
 
+<div class="thz-notification thz-notification-blue thz-align-left">
+	<h3 class="thz-notification-title">Info</h3>
+	<div markdown="1">Shapes should be created with __fill__ or __stroke not__ the combo of both. If your shape has been created with a stroke than add a __stroke suffix__ at the end of the file name eg; __spiral-stroke.svg__. This is required in order to use custom colors for the shape.
+	</div>
+</div>
+
 ```
 /*
  * Adds shape to shape background list

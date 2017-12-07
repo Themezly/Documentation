@@ -7,27 +7,27 @@
 Twitter Feed element displays user Twitter feed in slider or grid layout. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
-1. __ Twitter metrics __ &nbsp;-&nbsp; Adjust twitter metrics 
-1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __Twitter metrics__ &nbsp;-&nbsp; Adjust twitter metrics 
+1. __Container metrics__ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 
 #### API tab{.options-tab}
-1. __ Consumer Key __ &nbsp;-&nbsp; Insert Consumer Key. If empty theme Twitter API keys are used if available.
-1. __ Consumer Secret __ &nbsp;-&nbsp; Insert Consumer Secret. If empty theme Twitter API keys are used if available.
-1. __ Access Token __ &nbsp;-&nbsp; Insert Access Token. If empty theme Twitter API keys are used if available.
-1. __ Access Token Secret __ &nbsp;-&nbsp; Insert Access Token Secret. If empty theme Twitter API keys are used if available.
+1. __Consumer Key__ &nbsp;-&nbsp; Insert Consumer Key. If empty theme Twitter API keys are used if available.
+1. __Consumer Secret__ &nbsp;-&nbsp; Insert Consumer Secret. If empty theme Twitter API keys are used if available.
+1. __Access Token__ &nbsp;-&nbsp; Insert Access Token. If empty theme Twitter API keys are used if available.
+1. __Access Token Secret__ &nbsp;-&nbsp; Insert Access Token Secret. If empty theme Twitter API keys are used if available.
 
 #### Layout & Style tab{.options-tab}
-1. __ Container box style __ &nbsp;-&nbsp; Adjust .thz-twitter-feed-holder box style.
-1. __ Tweet item box style __ &nbsp;-&nbsp; Adjust .thz-tw-tweet box style.
-1. __ Layout mode __ &nbsp;-&nbsp; Select tweets layout mode.
-1. __ Grid settings __ &nbsp;-&nbsp; Adjust grid settings.
-1. __ Tweet metrics __ &nbsp;-&nbsp; Adjust tweet metrics.
+1. __Container box style__ &nbsp;-&nbsp; Adjust .thz-twitter-feed-holder box style.
+1. __Tweet item box style__ &nbsp;-&nbsp; Adjust .thz-tw-tweet box style.
+1. __Layout mode__ &nbsp;-&nbsp; Select tweets layout mode.
+1. __Grid settings__ &nbsp;-&nbsp; Adjust grid settings.
+1. __Tweet metrics__ &nbsp;-&nbsp; Adjust tweet metrics.
 
 #### Fonts tab{.options-tab}
-1. __ Tweet font__ &nbsp;-&nbsp; Adjust tweet font.
-1. __ Username font__ &nbsp;-&nbsp; Adjust username font.
-1. __ Tweet link font__ &nbsp;-&nbsp; Adjust tweet link font ( next to username ).
+1. __Tweet font__ &nbsp;-&nbsp; Adjust tweet font.
+1. __Username font__ &nbsp;-&nbsp; Adjust username font.
+1. __Tweet link font__ &nbsp;-&nbsp; Adjust tweet link font ( next to username ).
 
 #### Effects tab{.options-tab}
-1. __ Animate __ &nbsp;-&nbsp; Add animation to the Twitter feed HTML container.
-1. __ Container parallax__ &nbsp;-&nbsp; Activate/deactivate container parallax.
+1. __Animate__ &nbsp;-&nbsp; Add animation to the Twitter feed HTML container.
+1. __Container parallax__ &nbsp;-&nbsp; Activate/deactivate container parallax.

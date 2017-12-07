@@ -2,7 +2,6 @@
 	<h3 class="thz-notification-title">Info</h3>
 	<div markdown="1">__Max Execution Time__ is the amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)</div>
 </div>
-
 The __max_execution_time__ directive can be set in `.htaccess`, `php.ini` , `.user.ini` or `wp-config.php` file. To gain access to these files you will need __[FTP](http://en.wikipedia.org/wiki/File_Transfer_Protocol)__ credentials. If you do not have these please contact your hosting provider.
 
 1. In your WordPress root installation locate any of these `.htaccess`, `php.ini`, `.user.ini` or `wp-config.php`

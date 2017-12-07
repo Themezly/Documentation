@@ -1,5 +1,5 @@
-## WordPress System Requirements
-
+## Recomended WordPress Server Environment
+For best experience your hosting provider should support following server software databases and or webserver modules. Anything less than this might cause slow WordPress installation response and can open your website to vulnerabilities.
 
 | Software | Recommended | Min Requirement | More info |
 | ------ | ----------- | ----------- | ----------- |

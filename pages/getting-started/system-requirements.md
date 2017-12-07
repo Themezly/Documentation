@@ -34,11 +34,11 @@ These are recommended PHP requirements that need to be adjusted before installin
 
 | PHP | Recommended
 | ------ |------ | 
-| memory_limit  | 256M | 
-| post_max_size | 8M | 
-| max_execution_time | 1500 | 
+| memory_limit  | 128M | 
+| post_max_size | 32M | 
+| max_execution_time | 300 | 
 | max_input_vars | 4000 | 
-| upload_max_filesize | 8M | 
+| upload_max_filesize | 32M | 
 
 
 ## Browser Requirements

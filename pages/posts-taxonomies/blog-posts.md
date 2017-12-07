@@ -33,7 +33,7 @@ Once you are done setting up your post you may want to preview it before publish
 
 To access Creatus __Blog post options__ please go to __Blog posts__ >  __Add new__ and locate the __Post options__ tab inside the __Creatus options__ meta box. 
 
-This section contains one popup option that will let you change default blog post theme options for this post only. The popup contains same options as __Posts__ > __Single post__ sub tab in theme settings.
+This section contains one popup option that will help you change default blog post theme options for this post only. The popup contains same options as __Posts__ > __Single post__ sub tab in theme settings.
 
 </div>
 
@@ -47,7 +47,7 @@ This section contains one popup option that will let you change default blog pos
 </div>
 
 
-Blog post media will let you add more than one media item to your blog posts. You can choose from <a class="thz-lightbox mfp-image" href="../../docs-media/post-media-popup.jpg" data-mfp-title="Creatus WordPress Theme Blog post media popup" data-modal-size="large">__variety__</a> of available media selections. Beside these great choices you get to control the layout of selected media. To do so you can adjust following options;
+Blog post media will help you add more than one media item to your blog posts. You can choose from <a class="thz-lightbox mfp-image" href="../../docs-media/post-media-popup.jpg" data-mfp-title="Creatus WordPress Theme Blog post media popup" data-modal-size="large">__variety__</a> of available media selections. Beside these great choices you get to control the layout of selected media. To do so you can adjust following options;
 
 
 1. __Media layout__&nbsp; -&nbsp; select desired media layout. Slider or grid.

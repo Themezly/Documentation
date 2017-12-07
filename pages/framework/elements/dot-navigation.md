@@ -8,7 +8,7 @@ Dot Navigation element displays dots navigation that auto scrolls to an element 
 
 #### Defaults tab{.options-tab}
 1. __ Navigation Type __ &nbsp;-&nbsp; Select navigation type.
-1. __ Navigation metrics __ &nbsp;-&nbsp; Adjust navigation metrics. Show after will show the navigation after user has scrolled certain amount of pixels. If set to 0 navigation is always shown. Custom position will let you adjust navigation top position.
+1. __ Navigation metrics __ &nbsp;-&nbsp; Adjust navigation metrics. Show after will show the navigation after user has scrolled certain amount of pixels. If set to 0 navigation is always shown. Custom position will help you adjust navigation top position.
 1. __ Navigation items __ &nbsp;-&nbsp; Create navigation items.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 

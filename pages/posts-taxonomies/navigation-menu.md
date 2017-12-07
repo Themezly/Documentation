@@ -41,7 +41,7 @@ To add menu item simply select the check box next to the menu item title and cli
 
 To access Creatus __Navigation Menu options__ please go to __Appearance__ > __Menu__ and open any menu item. In menu item edit box you will find following options;
 
-1. __Add icon__ &nbsp;-&nbsp; This option will let you <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-icon-option.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu icon option" data-modal-size="large">__select an icon__</a> for your menu item. 
+1. __Add icon__ &nbsp;-&nbsp; This option will help you <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-icon-option.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu icon option" data-modal-size="large">__select an icon__</a> for your menu item. 
 1. __Use as mega menu__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-megamenu-checkbox.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu button generator" data-modal-size="large">__Checkbox__</a> that converts the menu item in to a mega menu container. For this option to be visible the __Mega menu__ Unyson extension __must__ be enabled.
 1. __Settings ( not mega menu item ) __ &nbsp;-&nbsp; This <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-button-option.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu button popup" data-modal-size="large">__popup__</a> <span> contains an option to convert the menu item in to a button and it comes with built in </span> <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-button-generator.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu button generator" data-modal-size="large">__button generator__</a>.
 
@@ -53,7 +53,7 @@ To access Creatus __Navigation Menu options__ please go to __Appearance__ > __Me
 </a>
 </div>
 
-__Mega menu row settings popup__ contains menu item options that will let you adjust following settings;
+__Mega menu row settings popup__ contains menu item options that will help you adjust following settings;
 
 
 1. __Row box style__ &nbsp;-&nbsp;  Adjust .mega-menu-row box style. Padding and background.
@@ -65,7 +65,7 @@ __Mega menu row settings popup__ contains menu item options that will let you ad
 </a>
 </div>
 
-__Mega menu column settings popup__ contains menu item option that will let you switch column display mode from default to thumbnail or widget area. All 3 modes contain the option to disable column title link. By default column titles are treated as normal link. Set __Column titles link__ to "Do not link" to disable links for this column title.
+__Mega menu column settings popup__ contains menu item option that will help you switch column display mode from default to thumbnail or widget area. All 3 modes contain the option to disable column title link. By default column titles are treated as normal link. Set __Column titles link__ to "Do not link" to disable links for this column title.
 
 
 ### Thumbnail mode column

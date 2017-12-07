@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Calendar element will let you display your tasks or event as a monthly, weekly or daily calendar. Element popup contains following options;
+Calendar element will help you display your tasks or event as a monthly, weekly or daily calendar. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
 1. __ Population Method __ &nbsp;-&nbsp; Select calendar population method (Ex: events, custom).

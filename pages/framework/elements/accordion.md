@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Accordion element will let you display custom content within collapsible container. Element popup contains following options;
+Accordion element will help you display custom content within collapsible container. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
 1. __ Sorting title __ &nbsp;-&nbsp; Used only in builder for easy sorting.

@@ -23,11 +23,11 @@ To access Creatus __WooCommerce Options__ please go to __Appearance__ >  __Theme
 </div>
 
 
-__Shop__ options tab contains theme options that will let you controll;
+__Shop__ options tab contains theme options that will help you controll;
 
 1. __Shop metrics__ &nbsp;-&nbsp; helps you controll page title, archive description, result count and catalog ordering
-1. __Sub categories style__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-subcategory-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce sub categories options" data-modal-size="large">This popup</a> contains options that will let you customize sub categories layout and feel. 
-1. __Products style__ &nbsp;-&nbsp;  <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-products-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce category products options" data-modal-size="large">This popup</a> contains options that will let you customize products layout and feel.
+1. __Sub categories style__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-subcategory-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce sub categories options" data-modal-size="large">This popup</a> contains options that will help you customize sub categories layout and feel. 
+1. __Products style__ &nbsp;-&nbsp;  <a class="thz-lightbox mfp-image" href="../../docs-media/woocommerce-products-options.jpg" data-mfp-title="Creatus WordPress Theme WooCommerce category products options" data-modal-size="large">This popup</a> contains options that will help you customize products layout and feel.
 1. __Animate products__ &nbsp;-&nbsp; Add animation to the products HTML container.
  
 
@@ -40,7 +40,7 @@ __Shop__ options tab contains theme options that will let you controll;
 </div>
 
 
-__Single product__ sub tab contains options that will let you control your single product layout and feel and it is split in to sub tabs.
+__Single product__ sub tab contains options that will help you control your single product layout and feel and it is split in to sub tabs.
 
 
 1. <a class="thz-lightbox mfp-image" href="../../docs-media/woo-product-tab-options.jpg" data-mfp-title="Creatus WordPress Theme Single product sub tab" data-modal-size="large"> Product </a>
@@ -62,7 +62,7 @@ __Single product__ sub tab contains options that will let you control your singl
 </div>
 
 
-__Miscellaneous__ sub tab contains options that will let you control following  WooCommerce related options;
+__Miscellaneous__ sub tab contains options that will help you control following  WooCommerce related options;
 
 1. __Badge metrics__ &nbsp;-&nbsp; Add animation to the products HTML container.
 1. __Badges font metrics__ &nbsp;-&nbsp; Adjust badges font metrics.

@@ -7,7 +7,7 @@
 Sections Menu element creates dots sections menu that auto scrolls to a section when clicked on. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
-1. __ Menu metrics __ &nbsp;-&nbsp; Adjust menu metrics. Show after will show the menu after user has scrolled certain amount of pixels. If set to 0 menu is always shown. Custom position will let you adjust menu top position.
+1. __ Menu metrics __ &nbsp;-&nbsp; Adjust menu metrics. Show after will show the menu after user has scrolled certain amount of pixels. If set to 0 menu is always shown. Custom position will help you adjust menu top position.
 1. __ Add to menu __ &nbsp;-&nbsp; Add Hero or Footer sections to the menu.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 

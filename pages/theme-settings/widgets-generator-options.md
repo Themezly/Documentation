@@ -18,7 +18,7 @@ To access Creatus __Widgets generator Options__ please go to __Appearance__ >  _
 
 
 
-Each of these sub tabs contain a widgets sections builder that will let you add unlimited number of sections per widgets position. In <a class="thz-lightbox mfp-image" href="../../docs-media/footer-widgets-generator.gif" data-mfp-title="Creatus WordPress Theme Author options" data-modal-size="large">
+Each of these sub tabs contain a widgets sections builder that will help you add unlimited number of sections per widgets position. In <a class="thz-lightbox mfp-image" href="../../docs-media/footer-widgets-generator.gif" data-mfp-title="Creatus WordPress Theme Author options" data-modal-size="large">
 __this example__</a> we are using __Footer__ widgets section generator to display the builder usage.
 
 

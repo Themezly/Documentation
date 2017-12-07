@@ -1,6 +1,6 @@
 <div class="thz-lightbox-gallery" markdown="1">
 
-To access Creatus __Page Templates Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Page templates__ tab in the left side vertical menu. These options will let you setup your look and feel of specific page templates. This section is split in to 3 sub tabs.
+To access Creatus __Page Templates Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Page templates__ tab in the left side vertical menu. These options will help you setup your look and feel of specific page templates. This section is split in to 3 sub tabs.
 
 
 1. <a href="#search" class="thz-scroll">Search</a>
@@ -17,7 +17,7 @@ To access Creatus __Page Templates Options__ please go to __Appearance__ >  __Th
 </a>
 </div>
 
-__Search__ sub tab contains options that will let you control your layout and feel of your search template and it will let you adjust folowing options;
+__Search__ sub tab contains options that will help you control your layout and feel of your search template and it will help you adjust folowing options;
 
 
 
@@ -44,7 +44,7 @@ __Search__ sub tab contains options that will let you control your layout and fe
 </a>
 </div>
 
-__404__ sub tab contains options that will let you controll your layout and feel of your 404 page template and it will let you adjust folowing options;
+__404__ sub tab contains options that will help you controll your layout and feel of your 404 page template and it will help you adjust folowing options;
 
 
 1. __404 page type__ &nbsp;-&nbsp; Lets you select 404 page type, Theme default or custom page redirect.
@@ -70,7 +70,7 @@ __404__ sub tab contains options that will let you controll your layout and feel
 </a>
 </div>
 
-__Author__ sub tab contains options that will let you control your layout and feel of your Author page template and it will let you adjust folowing options;
+__Author__ sub tab contains options that will help you control your layout and feel of your Author page template and it will help you adjust folowing options;
 
 
 

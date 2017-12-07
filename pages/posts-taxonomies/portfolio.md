@@ -49,7 +49,7 @@ To access Creatus __Project post options__ please go to __Portfolio__ >  __Add n
 </div>
 
 
-Project media will let you add more than one media item to your project. You can choose from <a class="thz-lightbox mfp-image" href="../../docs-media/post-media-popup.jpg" data-mfp-title="Creatus WordPress Theme Project media popup" data-modal-size="large">__variety__</a> of available media selections. Beside these great choices you get to control the layout of selected media. To do so you can adjust following options;
+Project media will help you add more than one media item to your project. You can choose from <a class="thz-lightbox mfp-image" href="../../docs-media/post-media-popup.jpg" data-mfp-title="Creatus WordPress Theme Project media popup" data-modal-size="large">__variety__</a> of available media selections. Beside these great choices you get to control the layout of selected media. To do so you can adjust following options;
 
 
 1. __Media layout__&nbsp; -&nbsp; select desired media layout. Slider or grid.

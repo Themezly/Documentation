@@ -15,7 +15,7 @@
 </a>
 </div>
 
-To access Creatus __Footer Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Footer__ tab in the left side vertical menu. Footer options will let you setup your website footer.
+To access Creatus __Footer Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Footer__ tab in the left side vertical menu. Footer options will help you setup your website footer.
 
 
 

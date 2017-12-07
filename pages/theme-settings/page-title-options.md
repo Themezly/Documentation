@@ -15,7 +15,7 @@
 </a>
 </div>
 
-To access Creatus __Page Title Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Page title__ tab in the left side vertical menu. Page title section options will let you setup your page title and assign in to specific pages. Page title sections options are separated in to 3 tabs;
+To access Creatus __Page Title Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Page title__ tab in the left side vertical menu. Page title section options will help you setup your page title and assign in to specific pages. Page title sections options are separated in to 3 tabs;
 
 1. <a class="thz-scroll" href="#section">Section</a>
 2. <a class="thz-scroll" href="#title">Title</a>
@@ -36,7 +36,7 @@ Page title section  __section tab__ contains following options;
 - __Mode__ &nbsp;-&nbsp; Title and Breadcrumbs, Title only, Breadcrumbs only or Inactive.
 - __Layout__ &nbsp;-&nbsp; Table or stack.
 - __Order__ &nbsp;-&nbsp; Title first or Breadcrumbs first.
-- __Show page title on__ &nbsp;-&nbsp; A multi select that will let you choose where page title should be shown.
+- __Show page title on__ &nbsp;-&nbsp; A multi select that will help you choose where page title should be shown.
 - __Page title section options__ &nbsp;-&nbsp; A popup with section box style, containment options and section effects.
 </div>
 <div id="title" markdown="1">

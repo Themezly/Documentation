@@ -22,7 +22,7 @@ To access Creatus __bbPress & BuddyPress Options__ please go to __Appearance__ >
 </div>
 
 
-__bbPress__ options sub tab contains theme options that will let you controll;
+__bbPress__ options sub tab contains theme options that will help you controll;
 
 1. __Headers and titles__ &nbsp;-&nbsp; Adjust forum headers and titles colors. 
 1. __Topic header text__ &nbsp;-&nbsp;  Adjust topic headers text and links.
@@ -43,7 +43,7 @@ __bbPress__ options sub tab contains theme options that will let you controll;
 </a>
 </div>
 
-__BuddyPress__ options sub tab contains theme options that will let you controll;
+__BuddyPress__ options sub tab contains theme options that will help you controll;
 
 
 1. __Layout type__ &nbsp;-&nbsp; Select default layout type. Timeline or boxed. 

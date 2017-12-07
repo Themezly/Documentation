@@ -36,7 +36,7 @@ Icon Box element displays custom content with icon within styled content box. El
 1. __ Apply link to __ &nbsp;-&nbsp; Select where this link should be applied.
 
 #### Hovered tab{.options-tab}
-1. __ Hover trigger __ &nbsp;-&nbsp; Choose when to trigger hover effects. Normaly hover effects are triggered when you place your mouse over the element. This setting will let you trigger the hover for all elements inside the icon box when you place the moue over the icon box.
+1. __ Hover trigger __ &nbsp;-&nbsp; Choose when to trigger hover effects. Normaly hover effects are triggered when you place your mouse over the element. This setting will help you trigger the hover for all elements inside the icon box when you place the moue over the icon box.
 
 1. __ Hovered box style __ &nbsp;-&nbsp; Adjust .thz-icon-box:hover box style.
 1. __ Hovered metrics __ &nbsp;-&nbsp; Adjust hovered icon, headings, text and links colors. If shape hover effect is active the hovered icon color here is overwritten by shape hovered settings.

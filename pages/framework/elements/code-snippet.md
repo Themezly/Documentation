@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Code Snippet element will let you display code blocks within styled code container. Element popup contains following options;
+Code Snippet element will help you display code blocks within styled code container. Element popup contains following options;
 
 #### Code tab{.options-tab}
 1. __ Code snippet	 __ &nbsp;-&nbsp; Insert your code snippet.

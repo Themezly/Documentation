@@ -14,7 +14,7 @@
 </a>
 </div>
 
-To access Creatus __Hero Sections Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Hero sections__ tab in the left side vertical menu. Hero sections options section will let you setup your hero sections and assign them on specific pages.
+To access Creatus __Hero Sections Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Hero sections__ tab in the left side vertical menu. Hero sections options section will help you setup your hero sections and assign them on specific pages.
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/hero-sections-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Hero Sections" data-modal-size="large">
@@ -34,7 +34,7 @@ Hero sections options are grouped inside an addable popup and this popup consist
 
 ### Hero sections popup Defaults tab
 
-Hero sections popup __defaults tab__ contains options that will let you control __selected page__, __hero section location__, __hero section type__ and __ scroll arrow metrics__. 
+Hero sections popup __defaults tab__ contains options that will help you control __selected page__, __hero section location__, __hero section type__ and __ scroll arrow metrics__. 
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/hero-sections-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Hero Sections popup Defaults" data-modal-size="large">
@@ -45,7 +45,7 @@ Hero sections popup __defaults tab__ contains options that will let you control 
 
 ### Hero sections popup Layout tab
 
-Hero sections popup __layout tab__ contains options that will let you control __section box style__, __section containment__, __content containment__ , __containers spacing__ and __ custom CSS class__. 
+Hero sections popup __layout tab__ contains options that will help you control __section box style__, __section containment__, __content containment__ , __containers spacing__ and __ custom CSS class__. 
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/hero-sections-options-3.jpg" data-mfp-title="Creatus WordPress Theme Admin Hero Sections popup Section layout" data-modal-size="large">
@@ -56,7 +56,7 @@ Hero sections popup __layout tab__ contains options that will let you control __
 
 ### Hero sections popup Title options tab
 
-Hero sections popup __title options tab__ contains options that will let you control __title__ and __sub title__ fonts metrics and color, __sub title elements__ and __title animation effect__. 
+Hero sections popup __title options tab__ contains options that will help you control __title__ and __sub title__ fonts metrics and color, __sub title elements__ and __title animation effect__. 
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/hero-sections-options-4.jpg" data-mfp-title="Creatus WordPress Theme Admin Hero Sections popup Title options" data-modal-size="large">
@@ -67,7 +67,7 @@ Hero sections popup __title options tab__ contains options that will let you con
 
 ### Hero sections popup Effects tab
 
-Hero sections popup __effects tab__ contains options that will let you add various section effects to __hero section container__. 
+Hero sections popup __effects tab__ contains options that will help you add various section effects to __hero section container__. 
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/hero-sections-options-5.jpg" data-mfp-title="Creatus WordPress Theme Admin Hero Sections popup Effects" data-modal-size="large">

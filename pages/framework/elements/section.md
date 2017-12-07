@@ -11,7 +11,7 @@ Section element is main layout building block used to separate columns in to row
 1. __ Layout mode __ &nbsp;-&nbsp; Select section layout mode. By default grid layout is created by using left floats for columns, if set to flex or flex equal height grid is using flexbox layout wich gives you additional column flexibility.
 1. __ Section box style __ &nbsp;-&nbsp; Adjust .thz-section-holder section box style.
 1. __ Section Contained __ &nbsp;-&nbsp; If set to contained this section will be contained by max site width.
-1. __ Section spacings __ &nbsp;-&nbsp; Adjust spacings for all containers or columns in this section. This option will let you adjust side space for this section .thz-container or .thz-column. If empty it will use spacings options located in theme options "Site" tab. The section vertical padding can be reset or changed in "Section box style" padding option.
+1. __ Section spacings __ &nbsp;-&nbsp; Adjust spacings for all containers or columns in this section. This option will help you adjust side space for this section .thz-container or .thz-column. If empty it will use spacings options located in theme options "Site" tab. The section vertical padding can be reset or changed in "Section box style" padding option.
 1. __ Use CSS ID as anchor __ &nbsp;-&nbsp; f set to yes the section ID can be used as anchor in your menu. To scroll to this anchor via menu link, create a new menu Custom link with URL #thisID. Do not forget the pound (#) sign in front of the element ID.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 

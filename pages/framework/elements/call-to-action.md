@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Call To Action element will let you display custom content intended to induce visitors attention. Element popup contains following options;
+Call To Action element will help you display custom content intended to induce visitors attention. Element popup contains following options;
 
 #### General tab{.options-tab}
 1. __ Cta holder box style __ &nbsp;-&nbsp; Adjust .thz-cta-box-holder box style.

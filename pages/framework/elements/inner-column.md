@@ -8,7 +8,7 @@ Inner Column element is main wrapper used to position elements within the row, w
 
 #### Layout tab{.options-tab}
 1. __ Center column __ &nbsp;-&nbsp; If set to center, this column float is removed and it will be centered inside the section.
-1. __ Column-in box style __ &nbsp;-&nbsp; This option will let you customize the box style of .thz-column-in container.
+1. __ Column-in box style __ &nbsp;-&nbsp; This option will help you customize the box style of .thz-column-in container.
 1. __ Use CSS ID as anchor __ &nbsp;-&nbsp; If set to yes column ID can be used as anchor in your menu.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 

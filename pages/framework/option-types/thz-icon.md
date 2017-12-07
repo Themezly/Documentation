@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Thz Icon option type is an option type that will let you select an icon from __3400+__ custom picked icons.
+Thz Icon option type is an option type that will help you select an icon from __3400+__ custom picked icons.
 
 
 #### option snippet simple

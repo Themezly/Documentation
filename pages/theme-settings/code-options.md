@@ -7,7 +7,7 @@
 
 <div id="search" markdown="1">
 
-To access Creatus __Code Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Code__ tab in the left side vertical menu. This section contains theme options that will let you add custom code in following positions;
+To access Creatus __Code Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Code__ tab in the left side vertical menu. This section contains theme options that will help you add custom code in following positions;
 
 </div>
 

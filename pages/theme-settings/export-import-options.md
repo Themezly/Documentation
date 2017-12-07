@@ -13,7 +13,7 @@ __Export/import__ section tab contains following options;
 
 1. __Export theme settings__ &nbsp;-&nbsp; When you lick on the __Export theme settings__ button a  .json file containing current theme settings is generated and download dialog is opened.
 __Note that options will be saved prior to export__.
-1. __Import theme settings__ &nbsp;-&nbsp; This option will let you import previously saved theme options .json file. __We strongly suggest to export and backup theme settings before clicking on the Import theme settings button!__
+1. __Import theme settings__ &nbsp;-&nbsp; This option will help you import previously saved theme options .json file. __We strongly suggest to export and backup theme settings before clicking on the Import theme settings button!__
 1. __Import theme preset__ &nbsp;-&nbsp; For your convenience we have gathered a list of theme presets. These come in handy when you dont need the complete theme demo but rather just want the demo theme settings. Choose the desired preset and follow instructions in modal window.
 
 </div>

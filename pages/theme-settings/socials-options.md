@@ -27,7 +27,7 @@ To access Creatus __Socials Options__ please go to __Appearance__ >  __Theme Set
 </a>
 </div>
 
-Social media options sub tab contains theme options that will let you controll;
+Social media options sub tab contains theme options that will help you controll;
 
 1. __Social media links__&nbsp;-&nbsp; Add, remove or modify your social media links. 
 1. __Toolbar icons__&nbsp;-&nbsp; Adjust header toolbar social media icons size, style and shape.
@@ -49,7 +49,7 @@ Social media options sub tab contains theme options that will let you controll;
 </div>
 
 
-Social sharing options sub tab contains theme options that will let you control;
+Social sharing options sub tab contains theme options that will help you control;
 
 1. __Post sharing links__&nbsp;-&nbsp; Show/hide specific post sharing links. You can click and drag the label to sort links order. 
 1. __Sharing links tooltip__&nbsp;-&nbsp; Select sharing links tooltip position.

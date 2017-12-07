@@ -9,7 +9,7 @@
 
 To access Creatus __Taxonomy options__ please go to __Blog, events, portfolio, products taxonomy__  edit page and locate the __Page options__ tab inside the __Creatus options__ meta box. 
 
-This section contains custom options that will let you adjust following settings;
+This section contains custom options that will help you adjust following settings;
 
 
 1. __Category Image__ &nbsp;-&nbsp; Select or upload category image. This can be used in hero sections as background image. 

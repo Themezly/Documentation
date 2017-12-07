@@ -18,7 +18,7 @@ Posts element displays loop of post items as a grid, timeline or a slider. Eleme
 #### Layout tab{.options-tab}
 1. __ Container box style __ &nbsp;-&nbsp; Adjust .thz-posts-holder box style.
 1. __ Layout mode __ &nbsp;-&nbsp; Select posts layout mode. Choose from grid, slider or timeline layout mode. 
-If grid is selected the __Filter__ tab becomes active which will let you adjust the posts sorting filter layout and style.
+If grid is selected the __Filter__ tab becomes active which will help you adjust the posts sorting filter layout and style.
 1. __ Pagination type __ &nbsp;-&nbsp; Select posts pagination type.
 1. __ Animate posts __ &nbsp;-&nbsp; Add animation to the post HTML container.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
@@ -33,5 +33,5 @@ If grid is selected the __Filter__ tab becomes active which will let you adjust 
 
 #### Posts, Posts formats and WooPosts tabs{.options-tab}
 
-These tabs contain options that will let you control and style every post element and containers including the various hover and image effects. 
+These tabs contain options that will help you control and style every post element and containers including the various hover and image effects. 
 Every setting has detailed description and or helpful instructions to help you adjust the post items the way you need them.  

@@ -4,4 +4,4 @@
 </a>
 </div>
 
-Button element comes with visible button generator. Element popup contains easy to understand options that will help you create and save custom buttons.
+Button element comes with visual button generator. Element popup contains easy to understand options that will help you create and save custom buttons.

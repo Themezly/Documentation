@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Twitter Feed element displays user Twitter feed in slider or grid layout. Element popup contains following options;
+Twitter Feed element displays user Twitter feed as slider or grid layout. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
 1. __Twitter metrics__ &nbsp;-&nbsp; Adjust twitter metrics 

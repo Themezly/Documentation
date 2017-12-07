@@ -56,6 +56,7 @@ Creatus theme page builder is an enhanced version of __[Unsyon page builder exte
 1. __ Team members __ &nbsp;-&nbsp; Display team members with their image, description and social profile links as a grid or slider layout.
 1. __ Testimonials __ &nbsp;-&nbsp; Display adjustable testimonials slider. 
 1. __ Text block __ &nbsp;-&nbsp; Display text block within customizable container. 
+1. __ Twitter feed __ &nbsp;-&nbsp; Display Twitter user feed as a grid or slider. 
 1. __ Typist __ &nbsp;-&nbsp; Display typewriter text animation. 
 1. __ Widget area __ &nbsp;-&nbsp; Display any WordPress widget area within customizable container. 
 

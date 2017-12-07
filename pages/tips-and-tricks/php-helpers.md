@@ -1,5 +1,5 @@
 
-This is a list of most used PHP helpers. For a complete list of helpers and utility functions please browse  `creatus/inc/helpers.php` and `creatus/inc/utility.php` files.  
+This is a extended list of most used PHP helpers. For a complete list of helpers and utility functions please browse  `creatus/inc/helpers.php` and `creatus/inc/utility.php` files.  
 Beside Creatus PHP helpers here is a list of [__Unyson PHP Helpers__](http://manual.unyson.io/en/latest/helpers/php.html) that you can use. 
 
 #### Get option

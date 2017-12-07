@@ -4,4 +4,4 @@
 </a>
 </div>
 
-In this video we will show step by step instructions on how to create your WordPress website backup with __Creatus WordPress Theme__ framework backup extension. 
+In this video we will show you step by step instructions on how to create your WordPress website backup with __Creatus WordPress Theme__ framework backup extension. 

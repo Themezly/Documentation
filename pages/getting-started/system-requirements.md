@@ -3,10 +3,10 @@ For best experience your hosting provider should support following server softwa
 
 | Software | Recommended | Min Requirement | More info |
 | ------ | ----------- | ----------- | ----------- |
-| PHP   | 7+ | 5.2.4 | [Php](http://www.php.net) |
+| PHP   | 7.2+ | 5.2.4 | [Php](http://www.php.net) |
 | **Recommended databases** | | | |
-| MySQL | 10.0+ | 10.0+| [Mysql](https://mariadb.org/) | 
-| MariaDB | 5.6+ | 5.0.15| [MariaDB](http://http://www.mysql.com) | 
+| MySQL | 5.6+ | 5.0.15+| [Mysql](https://mysql.org/) | 
+| MariaDB | 10.0+ | 10.0+| [MariaDB](http://http://www.mariadb.com) |
 | **Recommended webservers and modules** | | | |
 | Apache | 2.x + | 2.x | [Apache](http://http://www.apache.org) |
 | Nginx | 1.1 | 1.0 | [Nginx](http://wiki.nginx.org/) |

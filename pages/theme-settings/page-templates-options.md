@@ -24,14 +24,15 @@ __Search__ sub tab contains options that will help you control your layout and f
 1. __Search grid settings__ &nbsp;-&nbsp; Set search items grid columns, gutter, results per page and search filter.
 2. __Search item box style__ &nbsp;-&nbsp; Customize .thz-search-isotope > .thz-grid-item-in box style.
 3. __Search item text align__ &nbsp;-&nbsp; Adjust search item text alignment.
-4. __Search elements spacings__ &nbsp;-&nbsp; Adjust search page elements spacings. This is elements bottom margin.
-5. __Search elements colors__ &nbsp;-&nbsp; Adjust search items elements colors.
-6. __Search title font__ &nbsp;-&nbsp; Adjust search item title font metrics.
-7. __Show item meta__ &nbsp;-&nbsp; Show/hide search item meta.
-8. __Search meta font__ &nbsp;-&nbsp; Adjust search item meta font metrics.
-9. __Item date format__ &nbsp;-&nbsp; Set search item date format. For more info please visit <a href="http://codex.wordpress.org/Formatting_Date_and_Time" target="_blank">WP Date Formatting</a>
-10. __Show item type__ &nbsp;-&nbsp; Show/hide search item type.
-11. __Search type font__ &nbsp;-&nbsp; Adjust search item type font metrics.
+4. __Search title font__ &nbsp;-&nbsp; Adjust search item title font metrics.
+5. __Show item meta__ &nbsp;-&nbsp; Show/hide search item meta.
+6. __Meta elements__ &nbsp;-&nbsp; Check to show/hide specific post meta elements. Click and drag the label to sort.
+7. __Meta preferences__ &nbsp;-&nbsp; Adjust meta preferences.
+8. __Meta separator__ &nbsp;-&nbsp; Adjust meta elements separator.
+9. __Meta font__ &nbsp;-&nbsp; Adjust search item meta font metrics.
+10. __Meta colors__ &nbsp;-&nbsp; Adjust meta elements colors.
+11. __Show item type__ &nbsp;-&nbsp; Show/hide search item type.
+12. __Item type font__ &nbsp;-&nbsp; Adjust search item type font metrics.
 </div>
 
 

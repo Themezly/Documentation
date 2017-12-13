@@ -85,8 +85,9 @@ __Author__ sub tab contains options that will help you control your layout and f
 8. __Show contact links__ &nbsp;-&nbsp; Show/hide author contact links.
 9. __Contact label__ &nbsp;-&nbsp; Insert contact label.
 10. __Contact label metrics__ &nbsp;-&nbsp; Adjust contact label font metrics.
-11. __Contact icons box style__ &nbsp;-&nbsp; Adjust .thz-author-contact box style.
-12. __Contact icons metrics__ &nbsp;-&nbsp; Adjust contact icons metrics.
+11. __Contact links__ &nbsp;-&nbsp; Check to show/hide specific contact links. Click and drag the label to sort.
+12. __Contact icons box style__ &nbsp;-&nbsp; Adjust .thz-author-contact box style.
+13. __Contact icons metrics__ &nbsp;-&nbsp; Adjust contact icons metrics.
 
 
 </div>

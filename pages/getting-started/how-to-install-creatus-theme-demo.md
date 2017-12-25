@@ -41,7 +41,7 @@ As you can see from the steps above that the process is detailed thus it __might
 3. After successful installation your will be redirected to your new demo homepage. 
 
 
-<div class="thz-notification thz-notification-yellow">
+<div class="thz-notification thz-notification-red">
 	<h3 class="thz-notification-title">Backup Info</h3>
 	<div>
 	Please note that the demo installation <b>will replace all your current</b> installation content. However you can always revert back by <b>restoring</b> the backup.

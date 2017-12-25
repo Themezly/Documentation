@@ -4,7 +4,9 @@
 </a>
 </div>
 
-Typist element display typewriter text animation. Element popup contains following options;
+Typist element displays typewriter text animation. The [Typed](https://mattboldt.com/typed.js/docs/) docs or [GitHub repo](https://github.com/mattboldt/typed.js/) will give you more info on available script options. 
+
+Element popup contains following options;
 
 #### Defaults tab{.options-tab}
 1. __ Strings __ &nbsp;-&nbsp; Click the button to add new string.

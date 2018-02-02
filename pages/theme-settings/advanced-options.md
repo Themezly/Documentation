@@ -14,9 +14,9 @@ To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Se
 
 1. <a href="#images" class="thz-scroll">__Images__</a> &nbsp;-&nbsp; Global images size options.
 1. <a href="#apis" class="thz-scroll">__API's__</a> &nbsp;-&nbsp; Global API's options.
-1. <a href="#optimisation" class="thz-scroll">__Optimization__</a> &nbsp;-&nbsp; Global Optimization options.
+1. <a href="#optimization" class="thz-scroll">__Optimization__</a> &nbsp;-&nbsp; Global Optimization options.
 
-
+&nbsp;
 
 <div id="images" markdown="1">
 ### Images
@@ -33,6 +33,8 @@ __Images__ section tab contains following options;
 1. __Default image sizes__ &nbsp;-&nbsp; Set default image sizes. These are only width values and images are not croped. Images can be accessed via following size handles; __thz-img-xlarge__, __thz-img-large__, __thz-img-medium__, __thz-img-small__, __thz-img-xsmall__.
 1. __Custom Image sizes__ &nbsp;-&nbsp; <a class="thz-lightbox mfp-image" href="../../docs-media/custom-image-sizes-popup.jpg" data-mfp-title="Creatus WordPress Theme Custom image sizes options" data-modal-size="large">Add custom image sizes.</a>
 </div>
+
+&nbsp;
 
 <div id="apis" markdown="1">
 ### API's
@@ -52,7 +54,7 @@ __API's__ section tab contains following options;
 1. __Access token secret__ &nbsp;-&nbsp; Paste your Twitter access token secret here. ( used by Twitter widget ) 
 </div>
 
-
+&nbsp;
 
 <div id="optimization" markdown="1">
 ### Optimization

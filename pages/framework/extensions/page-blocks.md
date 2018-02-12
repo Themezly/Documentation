@@ -3,12 +3,12 @@
 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=aVqC2DXAa2w" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://youtu.be/TR5fXrRgVVs" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
 	<img src="../../docs-media/splash-page-blocks.jpg" alt="Creatus WordPress Theme Page Blocks" />
 </a>
 </div>
 
-Page blocks is a custom post type that will help you create custom content for specific theme areas or use the page block instead of site hero section or footer. Please note that this post type __must utilize the theme page builder__ in order to create a page block. 
+Page block is a custom post type that will help you create custom content for specific theme positions. You can also use a page block instead of site hero section or footer. Please note that this post type __must utilize the theme page builder__ in order to create a page block. Page block contains following options; 
 
 
 
@@ -27,31 +27,28 @@ Page blocks is a custom post type that will help you create custom content for s
 </a>
 </div>
 
-Use the position map above to assign the page block to desired position. Note that multiple page blocks can be assigned to same position. If you need to sort their order we recommend you use [Post Types Order](https://wordpress.org/plugins/post-types-order/) for easy drag and drop blocks reorder.
+Use the position map above to assign the page block to desired position. Note that multiple page blocks can be assigned to same position. If you need to sort their order we recommend you use __[Post Types Order](https://wordpress.org/plugins/post-types-order/)__ plugin for blocks reorder.
 
 
-### Use page block instead hero or footer
+### Using the page block instead of hero section or footer
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=aVqC2DXAa2w" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
-	<img src="../../docs-media/splash-page-blocks.jpg" alt="Creatus WordPress Theme Page Blocks" />
+<a class="thz-lightbox mfp-iframe" href="https://youtu.be/u-N4AnPaf68" data-mfp-title="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" data-modal-size="large">
+	<img src="../../docs-media/splash-using-page-blocks.jpg" alt="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" />
 </a>
 </div>
+Page block can also be used instead of theme __hero section__ or __footer__. Watch the video above to understand how to acheive this.
 
 
+### Adding custom page block position
 
-### Add custom page block position
-
-There are currently 9 page blocks positions that you can use. If you wish to add more positions use this filter;
+There are currently 10 page blocks positions that you can use. If you wish to add more please use this filter;
 
 
 <pre class="prettyprint light">
-
 function my_filter_pageblocks_positions_list ( $custom_kits ){
 	
 	$custom_positions = array(
-	
 		'my_position' 		=> esc_html__('My position name', 'creatus'),
-
 	);
 	
 	return $custom_positions;
@@ -60,14 +57,19 @@ function my_filter_pageblocks_positions_list ( $custom_kits ){
 add_filter('thz_filter_pageblocks_positions_list', 'my_filter_pageblocks_positions_list' );
 </pre>
 
-Than anywhere in the theme where you wish your positions to appear add fallowing code;
+Than anywhere in the child theme where you wish your position to appear add following function;
 
 
+<code>&lt;?php thz_page_block($position, $echo);?&gt;</code>
 
+#### Function attributes:
+1. __$position__ &nbsp;-&nbsp; Page block position name.
+1. __$echo__ &nbsp;-&nbsp; __true__ by default, return if __false__.
+
+
+#### Usage example:
 <pre class="prettyprint light">
-
-thz_page_block('my_position'); // if you need to return instead echo add second argument false
-
+&lt;?php thz_page_block('my_position'); ?&gt;
 </pre>
 
 </div>

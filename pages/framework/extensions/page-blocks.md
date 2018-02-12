@@ -3,7 +3,7 @@
 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://youtu.be/TR5fXrRgVVs" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=TR5fXrRgVVs" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
 	<img src="../../docs-media/splash-page-blocks.jpg" alt="Creatus WordPress Theme Page Blocks" />
 </a>
 </div>
@@ -32,7 +32,7 @@ Use the position map above to assign the page block to desired position. Note th
 
 ### Using the page block instead of hero section or footer
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://youtu.be/u-N4AnPaf68" data-mfp-title="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=u-N4AnPaf68" data-mfp-title="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" data-modal-size="large">
 	<img src="../../docs-media/splash-using-page-blocks.jpg" alt="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" />
 </a>
 </div>

@@ -44,9 +44,34 @@ If your favorite webfont is not in the list or you simply need more webfonts ple
 
 
 
-#### frontend typography processing function 
+### Frontend typography processing function 
 
 <pre class="pre-scrollable prettyprint light">
 $typography 	= thz_get_option('option_name');
 $typography_css = thz_typo_print( $typography );
 </pre>
+
+
+### Adding custom font stacks to standard fonts list
+
+To add custom font stacks to standard fonts list use this filter;
+
+<pre class="prettyprint light">
+function my_filter_typography_standard_fonts ( $custom_list ){
+	
+	$custom_list = array(
+		"'Arial Black', Gadget, sans-serif"
+	);
+	
+	return $custom_list;
+}
+
+add_filter('thz_filter_typography_standard_fonts', 'my_filter_typography_standard_fonts' );
+</pre>
+
+
+<div class="thz-notification thz-notification-red thz-align-left">
+	<div>
+	<strong>Please make sure that you are using single quote when defining the font as shown above.</strong>
+	</div>
+</div>

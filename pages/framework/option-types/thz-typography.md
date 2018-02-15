@@ -72,6 +72,6 @@ add_filter('thz_filter_typography_standard_fonts', 'my_filter_typography_standar
 
 <div class="thz-notification thz-notification-red thz-align-left">
 	<div>
-	<strong>Please make sure that you are using single quote when defining the font as shown above.</strong>
+	<strong>Please make sure that you are using double quote for the array value as shown above.</strong>
 	</div>
 </div>

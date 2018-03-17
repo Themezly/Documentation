@@ -21,7 +21,7 @@ Image element displays an image within customizable container. Element popup con
 1. __ Container width __ &nbsp;-&nbsp; Set image container width. 
 1. __ Container alignment __ &nbsp;-&nbsp; Set image container alignment. Left right or centered.
 1. __ Container box style __ &nbsp;-&nbsp; Adjust .thz-media-image-container box style.
-1. __ Animate contanier __ &nbsp;-&nbsp; Add animation to the media HTML container.
+1. __ Animate container __ &nbsp;-&nbsp; Add animation to the media HTML container.
 
 #### Lightbox tab{.options-tab}
 1. __ Backdrop Style __ &nbsp;-&nbsp; Select backdrop ( popup background ) style.

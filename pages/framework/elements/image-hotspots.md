@@ -18,7 +18,7 @@ Every hotspot also has a color options set wich than takes precedence over these
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 
 #### Effects tab{.options-tab}
-1. __ Animate contanier __ &nbsp;-&nbsp; Add animation to the image HTML container.
+1. __ Animate container __ &nbsp;-&nbsp; Add animation to the image HTML container.
 1. __ Animate hotspots __ &nbsp;-&nbsp; Add animation to hotspots.
 
 

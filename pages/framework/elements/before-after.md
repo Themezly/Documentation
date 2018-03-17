@@ -17,4 +17,4 @@ Before After element highlights differences between two images. Element popup co
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
 
 #### Effects tab{.options-tab}
-1. __ Animate contanier __ &nbsp;-&nbsp; Add animation to the HTML container.
+1. __ Animate container __ &nbsp;-&nbsp; Add animation to the HTML container.

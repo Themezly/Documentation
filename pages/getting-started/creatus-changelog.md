@@ -1,5 +1,16 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.0.2 (June 25, 2018)
+
+#### Code improvement
+ - Get Assign Widgest plugin from WordPess directory
+ - Add full support for Brizy page builder
+ 
+#### Bug fix
+ - Fixed multiple language domain issues
+ - Fixed template media import duplication
+ 
+ 
 ## Version: 1.0.1 (June 18, 2018)
 
 #### Code improvement

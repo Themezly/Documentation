@@ -1,5 +1,15 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.0.3 (July 3, 2018)
 
+#### Code improvement
+ - Removed query strings from CSS files when enabled
+ - Improved compression
+ - Moved libraries to core plugin
+ 
+#### Bug fix
+ - Fixed ajax blog posts issue with post formats
+ 
+ 
 ## Version: 1.0.2 (June 25, 2018)
 
 #### Code improvement

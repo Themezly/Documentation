@@ -1,4 +1,14 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.0.4 (July 9, 2018)
+
+#### Code improvement
+ - Do not show notices for recommended plugins
+ - Revolution Slider 5.4.8 update
+ - Keep description wording same
+ 
+#### Bug fix
+ - Fixed thz_get_current_cat_id function for tax and category
+ 
 ## Version: 1.0.3 (July 3, 2018)
 
 #### Code improvement

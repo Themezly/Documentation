@@ -13,9 +13,9 @@ Creatus WordPress theme bundle comes with additional services, commercial and fr
 4. Assing Widgets plugin __( installed via theme activation utility )__
 5. Layer Slider plugin __( installed via demo install utility )__
 6. Slider Revolution plugin __( installed via demo install utility )__
-7. New theme demo releases for __1 year ( available via theme update )__
-8. Theme Updates for __1 year__
-9. Dedicated Theme Support for __1 year__ via forums or tickets
+7. New theme demo releases ( available via theme update )__
+8. Regular Theme Updates
+9. Dedicated Theme Support via forums or tickets
 10. __No domain limit__ restrictions.
 
 </div>

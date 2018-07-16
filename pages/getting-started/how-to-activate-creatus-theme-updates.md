@@ -25,7 +25,8 @@ The activation page contains the __Enter your purchase code__ input and __Click 
 
 ### Purcahse Code Info
 
-1. If you have purchased Creatus trough Themezly shop your purchase code is __Your Themezly.com username__ . Just add your username in the __Enter your purchase code__ input box and click on the theme activation button.
+1. If you have purchased Creatus trough Themezly shop your purchase code is __Your Themezly username__ . 
+Just add your username in the __Enter your purchase code__ input box and click on the theme activation button.
 
 2. If you have purchased Creatus trough Envato marketplace your purchase code is available in your Envato download area. Download the purchase code file than add purchase code in the __Enter your purchase code__ input box and click on the theme activation button.   
 

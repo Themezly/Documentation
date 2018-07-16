@@ -4,7 +4,7 @@
 #### Code improvement
  - Load thz.init.js after jQuery
  - Improved  _thz_output_req_file function
- - Added single pos title display mode
+ - Added single post title display mode
  - Made default pagination more prominent
  - Removed brake-all from intro text
  - Added RTL support

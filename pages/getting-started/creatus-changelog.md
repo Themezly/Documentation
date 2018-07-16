@@ -1,4 +1,19 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.0.5 (July 16, 2018)
+
+#### Code improvement
+ - Load thz.init.js after jQuery
+ - Improved  _thz_output_req_file function
+ - Added single pos title display mode
+ - Made default pagination more prominent
+ - Removed brake-all from intro text
+ - Added RTL support
+ - Introduced thz_core function to check for thz-core files
+ - Moved theme independent functions to thz-core
+ - Removed socials from default install
+ - Added starter preset independent from demos
+ - Updated thz-core plugin version
+ 
 ## Version: 1.0.4 (July 9, 2018)
 
 #### Code improvement

@@ -1,4 +1,14 @@
 <div class="thz-docs-codeblock" markdown="1">
+
+## Version: 1.0.6 (July 17, 2018)
+
+#### Code improvement
+ - Envato prep
+ - Thz core plugin update
+ 
+#### Bug fix
+ - Fixed _thz_widget_title_to_span function 
+ 
 ## Version: 1.0.5 (July 16, 2018)
 
 #### Code improvement

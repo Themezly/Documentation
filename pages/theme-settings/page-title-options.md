@@ -26,7 +26,7 @@ To access Creatus __Page Title Options__ please go to __Appearance__ >  __Theme 
 
 ### Section tab 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Page Title" data-modal-size="large">
+<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-1-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Page Title" data-modal-size="large">
 	<img src="../../docs-media/page-title-options-1.jpg" alt="Creatus WordPress Theme Page Title Section Options 1" />
 </a>
 </div>
@@ -42,13 +42,14 @@ Page title section  __section tab__ contains following options;
 <div id="title" markdown="1">
 ### Title tab
 <div id="title" class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Page Title Title tab" data-modal-size="large">
-	<img src="../../docs-media/page-title-options-2.jpg" alt="Creatus WordPress Theme Page Title Section Options 2" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-2-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Page Title Title tab" data-modal-size="large">
+	<img src="../../docs-media/page-title-options-2-1.jpg" alt="Creatus WordPress Theme Page Title Section Options 2" />
 </a>
 </div>
 
 Page title section  __title tab__ contains following options;
 
+- __Single title mode__ &nbsp;-&nbsp; Select the single post page title display mode.
 - __Page title margin__ &nbsp;-&nbsp; Adjust page title container margin. 
 - __Page title font__ &nbsp;-&nbsp; Adjust page title font color and metrics.
 </div>

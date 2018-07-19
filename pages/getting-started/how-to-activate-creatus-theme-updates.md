@@ -48,7 +48,7 @@ After  successful login, your theme will be activated and you will be redirected
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/activate-creatus-5.jpg?v=2" data-mfp-title="Creatus WordPress Theme Activated" data-modal-size="large">
-	<img src="../../docs-media/activate-creatus-5?v=2.jpg" alt="Creatus WordPress Theme Activated" />
+	<img src="../../docs-media/activate-creatus-5.jpg?v=2" alt="Creatus WordPress Theme Activated" />
 </a>
 </div>
 

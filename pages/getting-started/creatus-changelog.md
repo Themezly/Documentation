@@ -1,5 +1,18 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.0.7 (July 19, 2018)
+
+#### Code improvement
+ - Default lists spacing
+ - Added form to block element spacings
+ - Thz-core 1.1.6 update
+ 
+
+#### Bug fix
+ - Fixed related products not visible if Unyson is off
+ - Added rss widget to title split exception
+ - Fixed Elementor not showing because of preloader 
+ 
 ## Version: 1.0.6 (July 17, 2018)
 
 #### Code improvement

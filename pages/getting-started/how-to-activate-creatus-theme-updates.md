@@ -17,18 +17,15 @@ To access  __Creatus Activation__ please go to __Creatus Child__ >  __Creatus Ac
 The activation page contains the __Enter your purchase code__ input and __Click to activate your theme__ button..
 
 <div class="thz-doc-image">
-<a class="thz-lightbox mfp-image" href="../../docs-media/activate-creatus-e.jpg" data-mfp-title="Creatus WordPress Theme Updates Activation" data-modal-size="large">
-	<img src="../../docs-media/activate-creatus-e.jpg" alt="Creatus WordPress Theme Updates Activation" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/activate-creatus-e.jpg?v=2" data-mfp-title="Creatus WordPress Theme Updates Activation" data-modal-size="large">
+	<img src="../../docs-media/activate-creatus-e.jpg?v=2" alt="Creatus WordPress Theme Updates Activation" />
 </a>
 </div>
 
 
 ### Purcahse Code Info
 
-1. If you have purchased Creatus trough Themezly shop your purchase code is __Your Themezly username__ . 
-Just add your username in the __Enter your purchase code__ input box and click on the theme activation button.
-
-2. If you have purchased Creatus trough Envato marketplace your purchase code is available in your Envato download area. Download the purchase code file than add purchase code in the __Enter your purchase code__ input box and click on the activation button.   
+Yur purchase code is available in your Envato download area. Download the purchase code file than add purchase code in the __Enter your purchase code__ input box and click on the activation button.   
 
 <div class="thz-doc-image">
 <a class="thz-lightbox mfp-image" href="../../docs-media/creatus-purchase-code.jpg" data-mfp-title="Creatus WordPress Theme Envato Purchase Code" data-modal-size="large">
@@ -50,8 +47,8 @@ If you have previously logged in __[Themezly members](https://members.themezly.c
 After  successful login, your theme will be activated and you will be redirected back to your WordPress website __Creatus Activation__ page. Now you will see the __Your theme is active. Have fun!__ message and the button has changed to __Deactivate__. 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/activate-creatus-5.jpg" data-mfp-title="Creatus WordPress Theme Activated" data-modal-size="large">
-	<img src="../../docs-media/activate-creatus-5.jpg" alt="Creatus WordPress Theme Activated" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/activate-creatus-5.jpg?v=2" data-mfp-title="Creatus WordPress Theme Activated" data-modal-size="large">
+	<img src="../../docs-media/activate-creatus-5?v=2.jpg" alt="Creatus WordPress Theme Activated" />
 </a>
 </div>
 

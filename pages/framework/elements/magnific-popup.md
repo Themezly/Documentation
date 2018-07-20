@@ -7,16 +7,14 @@
 Magnific Popup element displays images, videos or iframe in attractive and customizable lightbox popup. Element popup contains following options;
 
 
-1. __ Name __ &nbsp;-&nbsp; This is optional and it is used inside page builder only.
-1. __ Gallery metrics __ &nbsp;-&nbsp; Adjust gallery metrics. If trigger is custom link, gallery items will be hidden and you can open the gallery via link click. Use gallery ID in a link href attribute to open this gallery.
-1. __ Popups __ &nbsp;-&nbsp; Click to add/edit your popups.
-
 #### Popup default tab{.options-tab}
 1. __ Name __ &nbsp;-&nbsp; This option is used to easy recognize popup in popups list.
-1. __ Popup ID __ &nbsp;-&nbsp; Set popup ID. Must be unique. If empty, random ID will be choosen. This popup ID can be used inside the a link href attribute to open this popup
-1. __ Popup trigger __ &nbsp;-&nbsp; Select trigger link type. If set to none, no link to popup will be shown but you can use popup id to open this popup via link href attribute.
-1. __ Backdrop metrics __ &nbsp;-&nbsp; Adjust popup backdrop.
+1. __ Trigger box style __ &nbsp;-&nbsp; Adjust .thz-mfp-shortcode box style.
+1. __ Container box style __ &nbsp;-&nbsp; Adjust .thz-magnific-container box style.
+1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __ Inherit style from __ &nbsp;-&nbsp; If you have multiple magnific popups with same style you can set main magnific popup Custom ID than add that ID here. This way every magnific popup on this page with this inherit ID will use same CSS. This reduces the overhead CSS and renders the magnific popup faster. Note that once the inherit ID is added the CSS for this magnific popup is not printed. The effects must be set on per element basis.
+
 
 #### Popup popup tab{.options-tab}
-1. __ Popup Type __ &nbsp;-&nbsp; Select popup type. Modal, image, iframe, video or audio.
-1. __ Popup effect __ &nbsp;-&nbsp; Select popup window opening effect.
+1. __ Gallery metrics __ &nbsp;-&nbsp; Adjust gallery metrics. See help for more info.
+1. __ Popups __ &nbsp;-&nbsp; Click to add/edit your popups.

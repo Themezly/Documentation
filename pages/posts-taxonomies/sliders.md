@@ -50,10 +50,10 @@ To create new slide click on the __Add New__ image and adjust slide options;
 1. __Add button__ &nbsp;-&nbsp; Add up to 2 slide buttons.
 1. __Colors__ &nbsp;-&nbsp; Adjust slide text and overlay colors.
 1. __Content metrics__ &nbsp;-&nbsp; Adjust slide content metrics. Max width can be px or %. If no unit is set, % is default.
-1. __Title margin__ &nbsp;-&nbsp; Adjust title margin.
-1. __Sub title margin__ &nbsp;-&nbsp; Adjust sub title margin.
-1. __Description margin__ &nbsp;-&nbsp; Adjust description margin.
-1. __Buttons margin__ &nbsp;-&nbsp; Adjust buttons margin.
+1. __Title box style__ &nbsp;-&nbsp; Adjust .thz-sliders-title box style.
+1. __Sub title box style__ &nbsp;-&nbsp; Adjust .thz-sliders-sub box style.
+1. __Description box style__ &nbsp;-&nbsp; Adjust .thz-sliders-desc box style.
+1. __Buttons container box style__ &nbsp;-&nbsp; Adjust .thz-sliders-buttons box style.
 
 </div>
 

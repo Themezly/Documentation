@@ -1,7 +1,7 @@
 <div class="thz-lightbox-gallery" markdown="1">
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/advanced-options.jpg" data-mfp-title="Creatus WordPress Theme Advanced options" data-modal-size="large">
-	<img src="../../docs-media/advanced-options.jpg" alt="Creatus WordPress Theme Advanced options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/advanced-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Advanced options" data-modal-size="large">
+	<img src="../../docs-media/advanced-options.jpg?v=2" alt="Creatus WordPress Theme Advanced options" />
 </a>
 </div>
 
@@ -15,14 +15,15 @@ To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Se
 1. <a href="#images" class="thz-scroll">__Images__</a> &nbsp;-&nbsp; Global images size options.
 1. <a href="#apis" class="thz-scroll">__API's__</a> &nbsp;-&nbsp; Global API's options.
 1. <a href="#optimization" class="thz-scroll">__Optimization__</a> &nbsp;-&nbsp; Global Optimization options.
+1. <a href="#cookies-consent" class="thz-scroll">__Cookies Consent__</a> &nbsp;-&nbsp; Cookies Consent options.
 
 &nbsp;
 
 <div id="images" markdown="1">
 ### Images
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/advanced-images-options.jpg" data-mfp-title="Creatus WordPress Theme Advanced images options" data-modal-size="large">
-	<img src="../../docs-media/advanced-images-options.jpg" alt="Creatus WordPress Theme Advanced images options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/advanced-images-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Advanced images options" data-modal-size="large">
+	<img src="../../docs-media/advanced-images-options.jpg?v=2" alt="Creatus WordPress Theme Advanced images options" />
 </a>
 </div>
 
@@ -39,8 +40,8 @@ __Images__ section tab contains following options;
 <div id="apis" markdown="1">
 ### API's
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/apis-options.jpg" data-mfp-title="Creatus WordPress Theme Advanced API's options" data-modal-size="large">
-	<img src="../../docs-media/apis-options.jpg" alt="Creatus WordPress Theme Advanced API's options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/apis-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Advanced API's options" data-modal-size="large">
+	<img src="../../docs-media/apis-options.jpg?v=2" alt="Creatus WordPress Theme Advanced API's options" />
 </a>
 </div>
 
@@ -59,8 +60,8 @@ __API's__ section tab contains following options;
 <div id="optimization" markdown="1">
 ### Optimization
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/optimizations-options.jpg" data-mfp-title="Creatus WordPress Theme Advanced Optimization options" data-modal-size="large">
-	<img src="../../docs-media/optimizations-options.jpg" alt="Creatus WordPress Theme Advanced Optimization options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/optimizations-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Advanced Optimization options" data-modal-size="large">
+	<img src="../../docs-media/optimizations-options.jpg?v=2" alt="Creatus WordPress Theme Advanced Optimization options" />
 </a>
 </div>
 
@@ -73,6 +74,45 @@ __Optimization__ section tab contains following options;
 1. __Remove ver query strings__ &nbsp;-&nbsp; Remove ver query string from CSS/JS files.
 </div>
 
+&nbsp;
 
+<div id="cookies-consent" markdown="1">
+### Cookies Consent
+<div class="thz-doc-image max">
+<a class="thz-lightbox mfp-image" href="../../docs-media/cookies-consent.jpg" data-mfp-title="Creatus WordPress Theme Cookies Consent" data-modal-size="large">
+	<img src="../../docs-media/cookies-consent.jpg" alt="Creatus WordPress Theme Cookies Consent" />
+</a>
+</div>
+
+__Cookies Consent__ section tab contains following options;
+
+1. __Cookies consent__  &nbsp;-&nbsp; Activate/deactivate cookie consent banner. Please note that this is a simple cookie banner that only informs visitors about your websites use of cookies. __Using this option does not guarantee your GDPR compliance__. This banner does not record the visitors consent. When visitor clicks on the accept button the banner is not displayed anymore.
+1. __Consent settings__ Customize consent content and style.
+
+__Cookies consent settings__ section tab contains following options;
+
+### Cookies consent popup
+
+<div class="thz-doc-image max">
+<a class="thz-lightbox mfp-image" href="../../docs-media/cookies-consent-popup.jpg?v=2" data-mfp-title="Creatus WordPress Theme Cookies Consent" data-modal-size="large">
+	<img src="../../docs-media/cookies-consent-popup.jpg?v=2" alt="Creatus WordPress Theme Cookies Consent" />
+</a>
+</div>
+
+__Defaults__ section tab contains following options;
+
+1. __Consent box style__  &nbsp;-&nbsp; Adjust #thz_cookies_consent box style.
+1. __Container box style__ &nbsp;-&nbsp; Adjust .thz-consent-container box style.
+1. __Consent font__ &nbsp;-&nbsp; Consent font metrics.
+1. __Link colors__ &nbsp;-&nbsp; Adjust link colors.
+1. __Animate consent__ &nbsp;-&nbsp; Add animation to the consent container.
+
+__Text__ section tab contains following options;
+
+1. __Consent text__ &nbsp;-&nbsp; Add consent popup text.
+
+__Button__ section tab contains following options;
+
+1. __Create button__ &nbsp;-&nbsp; Customize the consent popup button.
 
 </div>

@@ -1,7 +1,7 @@
 <div class="thz-lightbox-gallery" markdown="1">
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/page-options.jpg" data-mfp-title="Creatus WordPress Theme Custom page options" data-modal-size="large">
-	<img src="../../docs-media/page-options.jpg" alt="Creatus WordPress Theme Custom page options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/page-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Custom page options" data-modal-size="large">
+	<img src="../../docs-media/page-options.jpg?v=2" alt="Creatus WordPress Theme Custom page options" />
 </a>
 </div>
 
@@ -14,6 +14,7 @@ This section contains custom options that will help you adjust following setting
 
 
 1. __Main navigation menu__ &nbsp;-&nbsp; Select different navigation menu for this page. Leave empty for default Top menu.
+1. __Secondary navigation menu__ &nbsp;-&nbsp; Select different secondary menu for this page. Leave empty for default Secondary menu.
 1. __Custom site options__ &nbsp;-&nbsp; Add custom site options for this page or leave as is for theme defaults.
 1. __Custom content layout__ &nbsp;-&nbsp; Add custom content layout for this page or leave as is for theme defaults.
 1. __Custom header options__ &nbsp;-&nbsp; Add custom header options for this page or leave as is for theme defaults.

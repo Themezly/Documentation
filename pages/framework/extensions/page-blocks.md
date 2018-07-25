@@ -15,6 +15,7 @@ Page block is a custom post type that will help you create custom content for sp
 1. __Block Position__ &nbsp;-&nbsp; Select page block position. See positions map image below.
 1. __ Block Assignment__ &nbsp;-&nbsp; Select page block assignment. Not effective if "Assign to" option is empty.
 1. __ Assign to __ &nbsp;-&nbsp; Assign the page block to specific page. Select from the list or start typing to load specific pages. If empty page block is visible on all pages.
+1. __ Unassign from __ &nbsp;-&nbsp; Unassign this page block from specific page. Select from the list or start typing to load specific pages. This options works in conjunction with Assign to. Example; if Block assignment is __Show__ and you assign this block to all single posts and unassign from specific single post, __the block is not visible on that specific post__. If however the Block assignment is __Hide__ than the __block is visible only on specific single post and hidden from all other single posts__.
 1. __Block visibility__ &nbsp;-&nbsp; Select user roles that can see the page block.
 1. __Visible to__ &nbsp;-&nbsp; If unchecked everyone can still see the page block. If you select Logged in than all users that are logged in will see this block. For more restrictive visibility do not use Logged in but rather select the user role. Logged out option makes this block visible to site visitors only.
 

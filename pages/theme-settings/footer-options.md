@@ -22,22 +22,24 @@ To access Creatus __Footer Options__ please go to __Appearance__ >  __Theme Sett
 
 ### Footer tab 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/footer-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Footer" data-modal-size="large">
-	<img src="../../docs-media/footer-options-1.jpg" alt="Creatus WordPress Theme Footer Options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/footer-options-1.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Footer" data-modal-size="large">
+	<img src="../../docs-media/footer-options-1.jpg?v=2" alt="Creatus WordPress Theme Footer Options" />
 </a>
 </div>
 
 Footer tab contains following options;
 
-- __Footer metrics__ &nbsp;-&nbsp; Adjust footer metrics. Choose footer display mode. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, .thz-footer-sections-holder appears as coming under the site when user scrolls to it.
+- __Footer metrics__  &nbsp;-&nbsp; Adjust footer metrics. If Contained is set to yes footer will be contained by max site width. If reveal effect is active, `.thz-footer-sections-holder` appears as coming under the site when user scrolls to it. If you would rather use page blocks instead of any other footer type, please make sure you first have page blocks created. Look to your left at WordPress side menu and locate Page Blocks custom post type. In page blocks you need to use page builder to create custom page blocks that will be displayed as footer section.
 - __Footer box style__  &nbsp;-&nbsp; Customize #footer box style.
-- __Footer fonts__  &nbsp;-&nbsp; Add custom fonts settings for footer elements.
+- __Footer table box style__  &nbsp;-&nbsp; Customize .thz-footer-table box style.
+- __Footer fonts__  &nbsp;-&nbsp; Add custom footer font settings.
 - __Footer colors__  &nbsp;-&nbsp; Adjust footer colors. Theme colors used if empty.
 - __Footer content__  &nbsp;-&nbsp; Select footer layout and choose what will be shown in footer content.
-- __Site branding__  &nbsp;-&nbsp; You can use span, a, div and img html tags. If you wish to add copyright year please use {year} instead of the numbers. This way the current year will be shown.
-- __Scroll to top anchor__  &nbsp;-&nbsp; Enable/disable scroll to top anchor.
-- __Scroll to top metrics__  &nbsp;-&nbsp; Adjust scroll to top anchor metrics.
-- __Responsive behavior__ &nbsp;-&nbsp; Show/hide footer on specific devices
+- __Site branding__  &nbsp;-&nbsp; Add site branding. You can use span, a, div and img html tags. If you wish to add copyright year please use {year} instead of the numbers. This way the current year will be shown.
+- __Scroll to top anchor__ &nbsp;-&nbsp; This option disables/enables scroll to top anchor.
+- __Scroll to top metrics__ &nbsp;-&nbsp; Adjust scroll to top anchor metrics.
+- __Responsive behavior__ &nbsp;-&nbsp; Show/hide element on specific devices.
 
 
 </div>
+

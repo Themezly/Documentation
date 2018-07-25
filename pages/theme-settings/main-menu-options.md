@@ -1,7 +1,7 @@
 <div class="thz-notification thz-notification-blue">
 	<h3 class="thz-notification-title">Info</h3>
 	<div>
-	All the options listed here are also accessible under the <a class="thz-lightbox mfp-image" href="../../docs-media/post-page-options.jpg" data-mfp-title="Creatus WordPress Theme Post Page Options" data-modal-size="large"> Page options </a> tab in post/tax edit screen, thus giving you more flexibility to create different layouts on per page basis.
+	All the options listed here are also accessible under the <a class="thz-lightbox mfp-image" href="../../docs-media/post-page-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Post Page Options" data-modal-size="large"> Page options </a> tab in post/tax edit screen, thus giving you more flexibility to create different layouts on per page basis.
 	</div>
 </div>
 
@@ -22,11 +22,11 @@ To access Creatus __Main menu Options__ please go to __Appearance__ >  __Theme S
 <div id="general" markdown="1">
 ### General Tab
 
-General tab contains theme options that will help you control __menu template__, __menu typography__, __dropdown animation__ and __search, mini cart and social links__ visibility. This tab also contains <a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-preview.gif" data-mfp-title="Creatus WordPress Theme Admin Main Menu Preview" data-modal-size="large">__Menu preview__</a> option that will help you see the menu while you adjust it's options.
+General tab contains theme options that will help you control __menu template__, __menu typography__, __dropdown animation__ and __search, mini cart and social links__ visibility.
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu General Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-1.jpg" alt="Creatus WordPress Theme Main Menu Options 1" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-1.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu General Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-1.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 1" />
 </a>
 </div>
 </div>
@@ -39,20 +39,20 @@ Containers tab contains theme options that will help you control __main menu__ c
 2. Mega menu
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Top Level Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-2.jpg" alt="Creatus WordPress Theme Main Menu Options 2" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-2.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Top Level Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-2.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 2" />
 </a>
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-3.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Sub Level Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-3.jpg" alt="Creatus WordPress Theme Main Menu Options 3" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-3.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Sub Level Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-3.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 3" />
 </a>
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-mega-menu.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Mega menu Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-mega-menu.jpg" alt="Creatus WordPress Theme Main Menu Mega menu" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-mega-menu.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Containers Mega menu Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-mega-menu.jpg?v=2" alt="Creatus WordPress Theme Main Menu Mega menu" />
 </a>
 </div>
 
@@ -69,26 +69,26 @@ Links tab contains theme options that will help you control __main menu links la
 4. Active link
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-4.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Layout Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-4.jpg" alt="Creatus WordPress Theme Main Menu Options 4" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-4.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Layout Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-4.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 4" />
 </a>
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-5.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Link Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-5.jpg" alt="Creatus WordPress Theme Main Menu Options 5" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-5.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Link Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-5.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 5" />
 </a>
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-6.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Hovered Link Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-6.jpg" alt="Creatus WordPress Theme Main Menu Options 6" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-6.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Hovered Link Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-6.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 6" />
 </a>
 </div>
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-7.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Active Link Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-7.jpg" alt="Creatus WordPress Theme Main Menu Options 7" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-7.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Links Active Link Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-7.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 7" />
 </a>
 </div>
 </div>
@@ -97,8 +97,8 @@ Links tab contains theme options that will help you control __main menu links la
 Mobile tab contains theme options that will help you control mobile __menu container background__, __hamburger icons colors__ and __mobile menu links colors__.
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-8.jpg" data-mfp-title="Creatus WordPress Theme Admin Main Menu Mobile Tab" data-modal-size="large"> 
-	<img src="../../docs-media/main-menu-options-8.jpg" alt="Creatus WordPress Theme Main Menu Options 8" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/main-menu-options-8.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Main Menu Mobile Tab" data-modal-size="large"> 
+	<img src="../../docs-media/main-menu-options-8.jpg?v=2" alt="Creatus WordPress Theme Main Menu Options 8" />
 </a>
 </div>
 

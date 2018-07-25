@@ -8,14 +8,13 @@ Icon Box element displays custom content with icon within styled content box. El
 
 #### Defaults tab{.options-tab}
 1. __ Box style __ &nbsp;-&nbsp; Adjust .thz-icon-box box style.
-1. __ Animate __ &nbsp;-&nbsp; Add animation to the HTML container.
 1. __ Container metrics __ &nbsp;-&nbsp; Add custom class or ID to HTML container and adjust visibility on specific devices.
+1. __ Inherit style from __ &nbsp;-&nbsp; Insert icon box ID to inherit the style from. If you have multiple Icon boxes with same style you can set main icon box Custom ID than add that ID here. This way every icon box on this page with this inherit ID will use same CSS. This reduces the overhead CSS and renders the icon box faster. Note that once the inherit ID is added the CSS for this icon box is not printed. The effects must be set on per element basis.
 
 #### Icon tab{.options-tab}
-1. __ Icon metrics __ &nbsp;-&nbsp; Adjust icon metrics. Color is not applicable if your are using own icon image.
+1. __ Icon metrics __ &nbsp;-&nbsp; Adjust icon metrics. Color is not applicable if your are using own icon image. SVG color modes are used only if SVG Icon image is selected. Icon color is than applied to the SVG selection. To enable WordPress SVG uploads please use 3rd party plugin that allows this feature.
 1. __ Icon image __ &nbsp;-&nbsp; Upload or select icon image. This option has precedence over the icon option above.
 1. __ Icon padding __ &nbsp;-&nbsp; Set icon container .thz-icon-holder padding.
-1. __ Animate icon __ &nbsp;-&nbsp; Add animation to the HTML container.
 
 #### Icon shape tab{.options-tab}
 1. __ Icon background shape __ &nbsp;-&nbsp; If active, this icon will be placed inside a adjustable container.
@@ -26,10 +25,10 @@ Icon Box element displays custom content with icon within styled content box. El
 
 #### Text tab{.options-tab}
 1. __ Heading __ &nbsp;-&nbsp; Icon box heading.
-1. __ Heading font metrics __ &nbsp;-&nbsp; Adjust heading font metrics.
-1. __ Heading padding __ &nbsp;-&nbsp; Set heading padding. All values must be entered for style to be applied.
 1. __ Text __ &nbsp;-&nbsp; Set icon box text.
-1. __ Text color __ &nbsp;-&nbsp; Theme default used if empty.
+1. __ Heading padding __ &nbsp;-&nbsp; Set heading padding. All values must be entered for style to be applied.
+1. __ Heading font metrics __ &nbsp;-&nbsp; Adjust heading font metrics.
+1. __ Text font metrics __ &nbsp;-&nbsp; Adjust text font metrics.
 
 #### Link tab{.options-tab}
 1. __ Add url __ &nbsp;-&nbsp; Add link url.
@@ -37,6 +36,10 @@ Icon Box element displays custom content with icon within styled content box. El
 
 #### Hovered tab{.options-tab}
 1. __ Hover trigger __ &nbsp;-&nbsp; Choose when to trigger hover effects. Normaly hover effects are triggered when you place your mouse over the element. This setting will help you trigger the hover for all elements inside the icon box when you place the moue over the icon box.
-
 1. __ Hovered box style __ &nbsp;-&nbsp; Adjust .thz-icon-box:hover box style.
 1. __ Hovered metrics __ &nbsp;-&nbsp; Adjust hovered icon, headings, text and links colors. If shape hover effect is active the hovered icon color here is overwritten by shape hovered settings.
+
+#### Effects tab{.options-tab}
+1. __ Animate __ &nbsp;-&nbsp; Add animation to the HTML container.
+1. __ Animate icon __ &nbsp;-&nbsp; Add animation to the icon HTML container.
+1. __ Container parallax __ &nbsp;-&nbsp; Activate/deactivate container parallax.

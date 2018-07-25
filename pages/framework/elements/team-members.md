@@ -27,7 +27,7 @@ Team Members element displays team members with their image, description and soc
 1. __ Social media links __ &nbsp;-&nbsp; Add member social media link. Drag and drop to reorder.
 
 #### Members mode tab{.options-tab}
-1. __ Display mode __ &nbsp;-&nbsp; Select members display mode .
+1. __ Display mode __ &nbsp;-&nbsp; Select members display mode.
 1. __ Overlay background __ &nbsp;-&nbsp; Set overlay background.
 1. __ Overlay effect __ &nbsp;-&nbsp; Select overlay hover effect and duration.
 1. __ Image effect __ &nbsp;-&nbsp; Select image hover effect and duration.

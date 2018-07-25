@@ -48,30 +48,55 @@ To access Creatus __Navigation Menu options__ please go to __Appearance__ > __Me
 
 ### Mega menu row options
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-row-options.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu row options" data-modal-size="large">
-	<img src="../../docs-media/navigation-menu-row-options.jpg" alt="Creatus WordPress Theme Navigation Menu mega menu row options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-row-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu row options" data-modal-size="large">
+	<img src="../../docs-media/navigation-menu-row-options.jpg?v=2" alt="Creatus WordPress Theme Navigation Menu mega menu row options" />
 </a>
 </div>
 
 __Mega menu row settings popup__ contains menu item options that will help you adjust following settings;
 
+__Defaults__ section tab contains following options;
 
 1. __Row box style__ &nbsp;-&nbsp;  Adjust .mega-menu-row box style. Padding and background.
+1. __Visible to__ &nbsp;-&nbsp;  Select user roles that can see this menu item. Leave unchecked to be visible to everyone. Please note that this restricts visibility only, not the page/post access. Note that child elements will inherit the visibility. If you select Logged in than all users that are logged in will see this item. For more restrictive visibility do not use Logged in but rather select the user role. Logged out option makes this item visible to site visitors only.
+
+__Widgets options__ section tab contains following options;
+
+1. __Widgets options__ &nbsp;-&nbsp; Add widget options for this row or leave as is for theme defaults.
+1. __Widget box style__ &nbsp;-&nbsp; Adjust .thz-sidebars .widget box style.
+1. __Widget title box style__ &nbsp;-&nbsp; Adjust .thz-sidebars .widget-title box style.
+1. __Widget title metrics__ &nbsp;-&nbsp; Adjust widget title metrics.
+1. __Widgets metrics__ &nbsp;-&nbsp; Adjust widgets metrics. Theme colors are inherited if empty. Li top , Li bottom and Lists border color, adjust the top and bottom padding for list items(.thz-has-list li a) and their border color.
+1. __Tags box style__ &nbsp;-&nbsp; Adjust .tagcloud a (Tag Cloud widget item) box style.
+1. __Tags font metrics__ &nbsp;-&nbsp; Adjust tag items font metrics.
+
+__Thumbnail options__ section tab contains following options;
+
+1. __Thumbnail holder box style__ &nbsp;-&nbsp; Adjust a.itemlink.has-thumbnail box style.
 
 ### Mega menu column options
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-options.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column options" data-modal-size="large">
-	<img src="../../docs-media/navigation-menu-column-options.jpg" alt="Creatus WordPress Theme Navigation Menu mega menu column options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column options" data-modal-size="large">
+	<img src="../../docs-media/navigation-menu-column-options.jpg?v=2" alt="Creatus WordPress Theme Navigation Menu mega menu column options" />
 </a>
 </div>
 
 __Mega menu column settings popup__ contains menu item option that will help you switch column display mode from default to thumbnail or widget area. All 3 modes contain the option to disable column title link. By default column titles are treated as normal link. Set __Column titles link__ to "Do not link" to disable links for this column title.
 
+__Defaults__ section tab contains following options;
 
-### Thumbnail mode column
+1. __Column titles link__ &nbsp;-&nbsp; Remove title links. By default column titles are treated as normal link. Set to "Do not link" to disable links for this column title.
+1. __Visible to__ &nbsp;-&nbsp; Select user roles that can see this menu item. Leave unchecked to be visible to everyone. Please note that this restricts visibility only, not the page/post access. Note that child elements will inherit the visibility. If you select Logged in than all users that are logged in will see this item. For more restrictive visibility do not use Logged in but rather select the user role. Logged out option makes this item visible to site visitors only.
+
+__Layout__ section tab contains following options;
+
+1. __Column box style__ &nbsp;-&nbsp; Adjust .mega-menu-col box style.
+1. __Display mode__ &nbsp;-&nbsp; Select column display mode. Note that widget area mode disables the link and title completely.
+- __Thumbnail image__ &nbsp;-&nbsp; Insert a thumbnail image for this column.
+
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-thumb-options.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column thumbnail options" data-modal-size="large">
-	<img src="../../docs-media/navigation-menu-column-thumb-options.jpg" alt="Creatus WordPress Theme Navigation Menu mega menu column thumbnail options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-thumb-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column thumbnail options" data-modal-size="large">
+	<img src="../../docs-media/navigation-menu-column-thumb-options.jpg?v=2" alt="Creatus WordPress Theme Navigation Menu mega menu column thumbnail options" />
 </a>
 </div>
 
@@ -81,15 +106,12 @@ __Mega menu column settings popup__ contains menu item option that will help you
 </a>
 </div>
 
-Beside __Display mode__ and __Column titles links__, __Column thumbnail mode__ contains following  options;
 
-1. __Thumbnail image__ &nbsp;-&nbsp; Insert a thumbnail image for this column.
-1. __Thumbnail holder box style__ &nbsp;-&nbsp;  Adjust a.itemlink.has-thumbnail box size
+- __Widget area__ &nbsp;-&nbsp; Load widget area instead of a link.
 
-### Widget area mode column
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-widget-options.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column widget area options" data-modal-size="large">
-	<img src="../../docs-media/navigation-menu-column-widget-options.jpg" alt="Creatus WordPress Theme Navigation Menu mega menu column widget area options" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-widget-options.jpg?v=2" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column widget area options" data-modal-size="large">
+	<img src="../../docs-media/navigation-menu-column-widget-options.jpg?v=2" alt="Creatus WordPress Theme Navigation Menu mega menu column widget area options" />
 </a>
 </div>
 
@@ -99,11 +121,6 @@ Beside __Display mode__ and __Column titles links__, __Column thumbnail mode__ c
 </a>
 </div>
 
-
-Beside __Display mode__ and __Column titles links__, __Column widget mode__ contains following options;
-
-1. __Widget area__ &nbsp;-&nbsp; Load widget area instead of a link.
-1. __Widget options__ &nbsp;-&nbsp; Add <a class="thz-lightbox mfp-image" href="../../docs-media/navigation-menu-column-widget-popup-options.jpg" data-mfp-title="Creatus WordPress Theme Navigation Menu mega menu column widget" data-modal-size="large">__widget options__</a> for this menu item or leave as is for theme defaults.
 
 
 </div>

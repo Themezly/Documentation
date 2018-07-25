@@ -20,8 +20,8 @@ Site options section will help you control main site layout, style and typograph
 Site layout tab contains theme options that will help you control __site width__, __boxed__ or __full__ site layout as well as main __columns__ and __containers__ spacing.
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Site Options Tab" data-modal-size="large">
-	<img src="../../docs-media/site-options-1.jpg" alt="Creatus WordPress Theme Site Options 1" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-1.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Site Options Tab" data-modal-size="large">
+	<img src="../../docs-media/site-options-1.jpg?v=2" alt="Creatus WordPress Theme Site Options 1" />
 </a>
 </div>
 ### Content Layouts Tab
@@ -42,8 +42,8 @@ Styling tab contains main <a class="thz-lightbox mfp-image" href="../../docs-med
 This tab also contains a powerful option called <a class="thz-lightbox mfp-image" href="../../docs-media/site-options-elements.gif" data-mfp-title="Creatus WordPress Theme Elements" data-modal-size="large">__Page elements style__</a> that will help you control or override any page element__ box style including the __element typography__. 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-3.jpg" data-mfp-title="Creatus WordPress Theme Admin Styling Tab" data-modal-size="large">
-	<img src="../../docs-media/site-options-3.jpg" alt="Creatus WordPress Theme Site Options 3" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-3.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Styling Tab" data-modal-size="large">
+	<img src="../../docs-media/site-options-3.jpg?v=2" alt="Creatus WordPress Theme Site Options 3" />
 </a>
 </div>
 
@@ -52,8 +52,8 @@ This tab also contains a powerful option called <a class="thz-lightbox mfp-image
 Typography tab contains options that will help you control your __theme body typography__, __theme links colors__ as well as __headings typography__. Our typography theme option comes  with all available [__800+ Google Fonts__](https://fonts.google.com/) thus gives you the freedom to apply any of these as your theme fonts. 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-4.jpg" data-mfp-title="Creatus WordPress Theme Admin Typography Tab" data-modal-size="large">
-	<img src="../../docs-media/site-options-4.jpg" alt="Creatus WordPress Theme Site Options 4" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/site-options-4.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Typography Tab" data-modal-size="large">
+	<img src="../../docs-media/site-options-4.jpg?v=2" alt="Creatus WordPress Theme Site Options 4" />
 </a>
 </div>
 </div>

@@ -34,6 +34,7 @@ These are recommended PHP requirements that need to be adjusted before installin
 
 | PHP | Recommended
 | ------ |------ | 
+| PHP Version  | Minimum 5.6 - Perfect setup 7.x | 
 | memory_limit  | 128M | 
 | post_max_size | 32M | 
 | max_execution_time | 300 | 

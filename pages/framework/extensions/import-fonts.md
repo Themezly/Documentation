@@ -26,7 +26,7 @@ If you prefer self hosted @font-face kits over Google fonts or Typekit you can a
 To do so follow these simple steps.
 
 
-1. Place your __@font-face kit in __ `creatus_child/ANY_SUB_FOLDER`.
+1. Place your __@font-face kit in __ `creatus-child/ANY_SUB_FOLDER`.
 4. In __functions.php add a filter__ with your font kit details;
 
 <pre class="prettyprint light">

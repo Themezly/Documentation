@@ -1,5 +1,14 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.0.8 (July 23, 2018)
+
+#### Code improvement
+ - Added image click action for Team Members element
+ - Removed unused vars
+ 
+#### Bug fix
+ - Fixed current posts ID included in post shortocde
+ 
 ## Version: 1.0.7 (July 19, 2018)
 
 #### Code improvement

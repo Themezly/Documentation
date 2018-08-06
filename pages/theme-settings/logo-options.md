@@ -25,8 +25,8 @@ To access Creatus __Logo Options__ please go to __Appearance__ >  __Theme Settin
 Textual logo section contains the options that will help you pick __default__, __transparent or offcanvas __, __sticky header__ and __mobile__ text logo. Just like with any other Creatus typography option,  you have full acess to all available [__800 + Google fonts__](https://fonts.google.com/).
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo Textual" data-modal-size="large">
-	<img src="../../docs-media/logo-options-1.jpg" alt="Creatus WordPress Theme Logo Options 1" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-1.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Logo Textual" data-modal-size="large">
+	<img src="../../docs-media/logo-options-1.jpg?v=2" alt="Creatus WordPress Theme Logo Options 1" />
 </a>
 </div>
 ### Image Logo
@@ -34,8 +34,8 @@ Textual logo section contains the options that will help you pick __default__, _
 Image logo section contains __select/upload__ images options for __default__, __transparent or offcanvas header__, __sticky header__ and __mobile__ logo. 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-2.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo Image" data-modal-size="large">
-	<img src="../../docs-media/logo-options-2.jpg" alt="Creatus WordPress Theme Logo Options 2" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-2.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Logo Image" data-modal-size="large">
+	<img src="../../docs-media/logo-options-2.jpg?v=2" alt="Creatus WordPress Theme Logo Options 2" />
 </a>
 </div>
 
@@ -45,8 +45,8 @@ Image logo section contains __select/upload__ images options for __default__, __
 There are two ways to add logo SVG. Fast way is to select __any image and add your logo SVG code in the image description textarea__. Another way is to enable WordPress SVG uploads. To do so you need to __use 3rd party plugin__ that allows this feature.
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-3.jpg" data-mfp-title="Creatus WordPress Theme Admin Logo SVG" data-modal-size="large">
-	<img src="../../docs-media/logo-options-3.jpg" alt="Creatus WordPress Theme Logo Options 3" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/logo-options-3.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Logo SVG" data-modal-size="large">
+	<img src="../../docs-media/logo-options-3.jpg?v=2" alt="Creatus WordPress Theme Logo Options 3" />
 </a>
 </div>
 

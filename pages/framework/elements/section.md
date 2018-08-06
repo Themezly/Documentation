@@ -7,7 +7,7 @@
 Section element is main layout building block used to separate columns in to rows. Element popup contains following options;
 
 #### Layout tab{.options-tab}
-1. __ Section name __ &nbsp;-&nbsp; Set section name label. Section name label is used in builder for easy sorting and if you add it to scroll menu it is used in section scroll menu shortcode as tooltip. If you add this section label to scroll menu, do not forget to add Section scroll menu shortcode to the builder.
+1. __ Section metrics __ &nbsp;-&nbsp; Set section metrics. Section label is used in builder for easy sorting and if you add it to scroll menu it is used in section scroll menu element as tooltip. If you add this section label to scroll menu, __do not forget to add__ Section menu element to the builder. If you select exclude in Full page inclusion option, this section will be displayed as normal section.
 1. __ Layout mode __ &nbsp;-&nbsp; Select section layout mode. By default grid layout is created by using left floats for columns, if set to flex or flex equal height grid is using flexbox layout wich gives you additional column flexibility.
 1. __ Section box style __ &nbsp;-&nbsp; Adjust .thz-section-holder section box style.
 1. __ Section Contained __ &nbsp;-&nbsp; If set to contained this section will be contained by max site width.
@@ -27,3 +27,7 @@ Section element is main layout building block used to separate columns in to row
 1. __ Scroll fade __ &nbsp;-&nbsp; Add scroll fade effect. This option adds fade effect on scroll to the HTML container or the container content.
 1. __ Full height __ &nbsp;-&nbsp; Add full height effect. This option adds full height ( viewport height ) to the HTML container.
 1. __ Separator __ &nbsp;-&nbsp; Add separator. This option adds separator layer to the HTML container.
+
+#### Responsive tab{.options-tab}
+1. __Section breakpoints__ &nbsp;-&nbsp; Add custom section settings on specific breakpoints.
+1. __Columns breakpoints__ &nbsp;-&nbsp; Add custom settings for all section columns on specific breakpoints.

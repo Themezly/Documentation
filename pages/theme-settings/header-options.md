@@ -37,6 +37,17 @@ Sticky tab contains options that will help you control __sticky header type__, _
 </a>
 </div>
 
+### Sections header tab
+ 
+Sections header tab contains options that will help you control __dark sections header style__ and __light sections header style__.
+
+<div class="thz-doc-image max">
+<a class="thz-lightbox mfp-image" href="../../docs-media/header-options-4.jpg?" data-mfp-title="Creatus WordPress Theme Admin Header Sticky Tab" data-modal-size="large">
+	<img src="../../docs-media/header-options-4.jpg?" alt="Creatus WordPress Theme Header Options 4" />
+</a>
+</div>
+
+
 ### Toolbar Tab
 
 Toolbar tab contains options that will help you control __header toolbar style__, __toolbar content__, __toolbar slogan__ options and __toolbar navigation__ links style. 

@@ -12,7 +12,8 @@ To access Creatus __Page options__ please go to __Post/page/taxonomy__  edit pag
 This section contains custom options that will help you adjust following settings;
 
 
-
+1. __Full page rows__ &nbsp;-&nbsp; Full page rows options set requires page builder to be active and have sections.
+To add scroll menu, go to Content Elements tab in page builder and add Sections menu element.
 1. __Main navigation menu__ &nbsp;-&nbsp; Select different navigation menu for this page. Leave empty for default Top menu.
 1. __Secondary navigation menu__ &nbsp;-&nbsp; Select different secondary menu for this page. Leave empty for default Secondary menu.
 1. __Custom site options__ &nbsp;-&nbsp; Add custom site options for this page or leave as is for theme defaults.

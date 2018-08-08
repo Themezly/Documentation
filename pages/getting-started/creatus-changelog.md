@@ -1,6 +1,31 @@
 <div class="thz-docs-codeblock" markdown="1">
 
-## Version: 1.0.8 (July 23, 2018)
+## Version: 1.1.0 (August 8th, 2018)
+
+#### New features
+ - Added Full page ( snap to section ) rows page option with 6 animations
+ - Added view brightness on scroll
+ - Added sections header styling based on brightness
+ - Added logo change based on section in view brightness
+ - Added link target for Team members socials
+ 
+#### Code improvement
+ - Woo 3.4.4 template update
+ - Close lateral menu if link is thz-scroll
+ - Added link target for Team members socials
+ - Section label option renamed to Section metrics
+ - Zoom in dots nav to 1.2 on small devices
+ - Added thz-is-mobile html class on mobile devices
+ - Adjusted browser prefixes for thz-animate and thz-hover
+ 
+#### Bug fix
+ - Reset Woo tabs side space on small screens
+ - Sticky always visible should not move
+ - Fixed activations removed when demo installed
+ - Fixed page builder section element text not in middle
+ 
+ 
+## Version: 1.0.8 (July 23rd, 2018)
 
 #### Code improvement
  - Added image click action for Team Members element
@@ -9,7 +34,7 @@
 #### Bug fix
  - Fixed current posts ID included in post shortocde
  
-## Version: 1.0.7 (July 19, 2018)
+## Version: 1.0.7 (July 19th, 2018)
 
 #### Code improvement
  - Default lists spacing
@@ -22,7 +47,7 @@
  - Added rss widget to title split exception
  - Fixed Elementor not showing because of preloader 
  
-## Version: 1.0.6 (July 17, 2018)
+## Version: 1.0.6 (July 17th, 2018)
 
 #### Code improvement
  - Envato prep
@@ -31,7 +56,7 @@
 #### Bug fix
  - Fixed _thz_widget_title_to_span function 
  
-## Version: 1.0.5 (July 16, 2018)
+## Version: 1.0.5 (July 16th, 2018)
 
 #### Code improvement
  - Load thz.init.js after jQuery
@@ -46,7 +71,7 @@
  - Added starter preset independent from demos
  - Updated thz-core plugin version
  
-## Version: 1.0.4 (July 9, 2018)
+## Version: 1.0.4 (July 9th, 2018)
 
 #### Code improvement
  - Do not show notices for recommended plugins
@@ -56,7 +81,7 @@
 #### Bug fix
  - Fixed thz_get_current_cat_id function for tax and category
  
-## Version: 1.0.3 (July 3, 2018)
+## Version: 1.0.3 (July 3rd, 2018)
 
 #### Code improvement
  - Removed query strings from CSS files when enabled
@@ -67,7 +92,7 @@
  - Fixed ajax blog posts issue with post formats
  
  
-## Version: 1.0.2 (June 25, 2018)
+## Version: 1.0.2 (June 25th, 2018)
 
 #### Code improvement
  - Get Assign Widgest plugin from WordPess directory
@@ -78,7 +103,7 @@
  - Fixed template media import duplication
  
  
-## Version: 1.0.1 (June 18, 2018)
+## Version: 1.0.1 (June 18th, 2018)
 
 #### Code improvement
  - Improved template library to import the demo media in to the media manager
@@ -93,7 +118,7 @@
  - Removed column-reverse from CSS since it is not compatible with iPhone 6 series
  
  
-## Version: 1.0.0 (June 10, 2018)
+## Version: 1.0.0 (June 10th, 2018)
 - Initial Release
 
 </div>

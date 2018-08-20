@@ -1,5 +1,33 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.1.1 (August 20th, 2018)
 
+#### New features
+ - Added Advito Business/Corporate demo
+ - Added section in lightbox option
+ - Added page header brightness option
+ - Added media parallax scroll for posts, image, image layers, media gallery and team members elements
+ - Added posts filter All text option
+ - Added smoothscroll on/off switch on per page basis
+ - Added Counter element before and after
+ - Added custom widget class and ID to Thz Core plugin
+ 
+#### Code improvement
+ - Changed Header section to Header brightness
+ - Added pseudo detection for page elements option
+ - Added disabled pagination link visibility
+ - Added responsive for thz-max classes
+ - Close mobile menu if thz-scroll link
+ - Improved sticky header transitions
+ - Improved smoothscroll script
+ - Improved Creatus main demo homepage
+ 
+#### Bug fix
+ - Fixed z-index for team members custom link
+ - Fixed lightbox video close button position
+ - Fixed missing inactive pagination bg
+ - Fixed single video format height
+ - Added thz-hover table height fixes
+ 
 ## Version: 1.1.0 (August 8th, 2018)
 
 #### New features

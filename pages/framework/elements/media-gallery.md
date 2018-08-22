@@ -55,3 +55,8 @@ Media Gallery element displays Images, Vimeo video, Youtube video, Self hosted v
 1. __ Filter link metrics __ &nbsp;-&nbsp; Adjust filter link metrics.
 1. __ Filter link style __ &nbsp;-&nbsp; Adjust filter links style. Hovered link takes properties from active link.
 1. __ Filter font __ &nbsp;-&nbsp; Filter links font metrics.
+
+#### Effects tab{.options-tab}
+1. __ Animate container __ &nbsp;-&nbsp; Add animation to the layers HTML container.
+1. __ Container parallax __ &nbsp;-&nbsp; Activate/deactivate container parallax.
+1. __ Media parallax __ &nbsp;-&nbsp; Activate/deactivate media parallax. This effect works for images only and it does NOT work if media height is auto! To parallax media for specific items only, add specific items in the order that you see them separated by comma like; 1,5,7. This would parallax media for 1st 5th and 7th item.

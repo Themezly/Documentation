@@ -18,3 +18,4 @@ Before After element highlights differences between two images. Element popup co
 
 #### Effects tab{.options-tab}
 1. __ Animate container __ &nbsp;-&nbsp; Add animation to the HTML container.
+1. __ Container parallax __ &nbsp;-&nbsp; Activate/deactivate container parallax.

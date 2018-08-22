@@ -41,3 +41,9 @@ Image element displays an image within customizable container. Element popup con
 1. __ Overlay icon __ &nbsp;-&nbsp; Set overlay icon. Shown only if icon selected.
 1. __ Icon metrics __ &nbsp;-&nbsp; Adjust icon metrics.
 1. __ Shape metrics __ &nbsp;-&nbsp; Adjust icon background shape metrics.
+
+
+#### Effects tab{.options-tab}
+1. __ Animate container __ &nbsp;-&nbsp; Add animation to the image HTML container.
+1. __ Container parallax __ &nbsp;-&nbsp; Activate/deactivate container parallax.
+1. __ Media parallax __ &nbsp;-&nbsp; Activate/deactivate media parallax. This effect does NOT work if media height is auto.

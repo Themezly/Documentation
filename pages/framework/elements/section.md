@@ -27,6 +27,8 @@ Section element is main layout building block used to separate columns in to row
 1. __ Scroll fade __ &nbsp;-&nbsp; Add scroll fade effect. This option adds fade effect on scroll to the HTML container or the container content.
 1. __ Full height __ &nbsp;-&nbsp; Add full height effect. This option adds full height ( viewport height ) to the HTML container.
 1. __ Separator __ &nbsp;-&nbsp; Add separator. This option adds separator layer to the HTML container.
+1. __ Container parallax __ &nbsp;-&nbsp; Add container parallax effect. This option adds a parallax effect to the HTML container.
+1. __ Open in lightbox __ &nbsp;-&nbsp; This option hides the section from a page and adds it to a lightbox. If you wish to open this section in a lightbox it will be hidden on the page but you can use any link option that has a Magnific popup link type to open it. For example Image element, Click action -> Open link -> Add custom link -> Link type. Remeber to use the # sign infront of the magnific popup id like this; #this_section_id and make sure you have a custom ID for this section.
 
 #### Responsive tab{.options-tab}
 1. __Section breakpoints__ &nbsp;-&nbsp; Add custom section settings on specific breakpoints.

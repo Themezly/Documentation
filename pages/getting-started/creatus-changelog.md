@@ -1,4 +1,33 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.1.2 (September 4th, 2018)
+
+#### New features
+ - Added Vibrant SaaS full demo
+ - Added button shadow and move hover effects
+ - Added more default palette colors
+ - Added circle lines and circle lines multiple shapes
+ - Added hamburger icon size adjustment
+ - Added offcanvas pageblock position
+ - Added include/exclude featured img from post element
+ 
+#### Code improvement
+ - Added vimeo start from
+ - Added poster fade back in on video stop
+ - Updated several builder templates responsive layouts
+ - Changed logo output to div instead h1
+ - Added vmin and vmax support for typography option
+ - Removed focus from play icon
+  
+#### Bug fix
+ - Allow breadcrumb extension to set labels
+ - Fixed dot nav disappear on resize
+ - Fixed text-shadow disappear on new save
+ - Fixed svg color overrides
+ - Fixed editor cursor not visible on brake
+ - Fixed slider pause video
+
+ 
+ 
 ## Version: 1.1.1 (August 20th, 2018)
 
 #### New features

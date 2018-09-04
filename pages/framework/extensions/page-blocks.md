@@ -31,6 +31,10 @@ Page block is a custom post type that will help you create custom content for sp
 Use the position map above to assign the page block to desired position. Note that multiple page blocks can be assigned to same position. If you need to sort their order we recommend you use __[Post Types Order](https://wordpress.org/plugins/post-types-order/)__ plugin for blocks reorder.
 
 
+### Offcanvas pageblock position
+Offcanvas pageblock position will display any pageblock in a offcanvas overlay position if a selected header layout is, __Offcanvas push out, Offcanvas slide out, Mini and Mini Right__. You can see it in action on __[Vibrant theme demo](https://vibrant.creatus.io/)__.
+
+
 ### Using the page block instead of hero section or footer
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=u-N4AnPaf68" data-mfp-title="Creatus WordPress Theme Using Page Blocks Instead of Hero Section or Footer" data-modal-size="large">

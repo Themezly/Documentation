@@ -1,4 +1,17 @@
 <div class="thz-docs-codeblock" markdown="1">
+
+## Version: 1.1.3 (September 5th, 2018)
+
+#### Code improvement
+ - Shortcode Inline CSS compression improved
+ - Updated vivus.js
+ - Disabled gradient text CSS for unsuported browsers
+ - Close preloader if JS error discovered
+ 
+#### Bug fix
+ - Fixed IE11 duplicated JS var bug
+ 
+
 ## Version: 1.1.2 (September 4th, 2018)
 
 #### New features

@@ -1,7 +1,7 @@
 <div class="thz-docs-codeblock" markdown="1">
 
 ## Version: 1.1.11 (September 19th, 2018)
- - Moved shortcodes to own file and added [thz_get_page_title] shortcode.
+ - Moved shortcodes to own file and added `thz_get_page_title` shortcode.
 
 ## Version: 1.1.10 (September 13th, 2018)
  - Make sure Thz Core plugin runs only if Creatus theme is active.

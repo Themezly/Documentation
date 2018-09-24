@@ -1,5 +1,8 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.1.12 (September 24th, 2018)
+ - Added sharing icons options to theme settings.
+ 
 ## Version: 1.1.11 (September 19th, 2018)
  - Moved shortcodes to own file and added `thz_get_page_title` shortcode.
 

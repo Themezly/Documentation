@@ -15,6 +15,7 @@
  - Added options to adjust Woo image gallery thumbnails
  - Added filter All text option to items filter
  - Added notification for admin if PHP is lower than 5.6
+ - Added Special heading parts rotator animation
  
 #### Code improvement
  - Reinit animations on accordion and tabs switch

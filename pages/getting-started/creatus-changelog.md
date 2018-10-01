@@ -1,5 +1,23 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.1.5 (October 1st, 2018)
+
+#### New features
+ - Added Posts meta element
+ - Added comments form layouts option
+ - Added comments form labels option
+ 
+#### Code improvement
+ - Theme presets list is using selectize now
+ - Added element flip CSS classes
+ - Added auto height for SVG icon
+ - Added thz-has-sidebar class to main container
+ - Improved containers nesting resets
+ 
+#### Bug fix
+ - Merged section and column effects in to one array
+ 
+ 
 ## Version: 1.1.4 (September 26th, 2018)
 
 #### New features

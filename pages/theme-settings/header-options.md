@@ -39,7 +39,7 @@ Sticky tab contains options that will help you control __sticky header type__, _
 
 ### Header brightness tab
  
-Sections header brightness tab contains options that will help you control __dark sections header style__ and __light sections header style__.
+Header brightness tab contains options that will help you control __dark sections header style__ and __light sections header style__.
 
 <div class="thz-doc-image max">
 <a class="thz-lightbox mfp-image" href="../../docs-media/header-options-4.jpg?" data-mfp-title="Creatus WordPress Theme Admin Header Sticky Tab" data-modal-size="large">

@@ -3,7 +3,7 @@
 ## Version: 1.1.5 (October 1st, 2018)
 
 #### New features
- - Added Posts meta element
+ - Added Post meta element
  - Added comments form layouts option
  - Added comments form labels option
  

@@ -52,6 +52,10 @@ After  successful login, your theme will be activated and you will be redirected
 </a>
 </div>
 
+### Moving to a new domain
+
+If you need to move your website to a new domain __first deactivate__ the updates for Creatus WordPress Theme on your old domain by clicking on __Deactivate__ button in Creatus Activation utility and than activate it again on your new domain.
+
 </div>
 
 

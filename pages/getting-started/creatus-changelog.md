@@ -1,4 +1,83 @@
 <div class="thz-docs-codeblock" markdown="1">
+
+## Version: 1.1.4 (September 26th, 2018)
+
+#### New features
+ - Added Maru Digital Agency full demo
+ - Added Bruno eCommerce full demo
+ - Added Fortis Digital Agency full demo
+ - Added pageblock content to Tabs, Accordions, Simple Slider, Magnific popup and Exit popup
+ - Added Creatus shortcodes menu to WP editor
+ - Added single or gallery mode to lightbox settings
+ - Added lighbox settings to Posts element
+ - Added full nav and buttons control to simple slider element
+ - Added layer metrics inputs to Image layers element
+ - Added options to adjust Woo image gallery thumbnails
+ - Added filter All text option to items filter
+ - Added notification for admin if PHP is lower than 5.6
+ - Added Special heading parts rotator animation
+ 
+#### Code improvement
+ - Reinit animations on accordion and tabs switch
+ - Nested thz-container reset on per section basis
+ - Close preloader if JS error discovered
+ - Column min height moved to column instead of pseudo
+ - Post title h1 by default	
+ - Unified items filter options in to a reusable function
+ - Moved default page structured data after the content
+ - Video background loop start from specified timeline
+ - Added a check for PHP version under 5.6
+ - Moved admin menu to Thz Core plugin
+ 
+#### Bug fix
+ - Check if child theme before trying to merge user custom builder templates
+ - Thz mobile toggler added to preloader exclude list
+ - Default preset reset use get_option() 
+ - Mini cart icons should be on baseline
+ - Column responsive should override section responsive
+ 
+ 
+## Version: 1.1.3 (September 5th, 2018)
+
+#### Code improvement
+ - Shortcode Inline CSS compression improved
+ - Updated vivus.js
+ - Disabled gradient text CSS for unsuported browsers
+ - Close preloader if JS error discovered
+ 
+#### Bug fix
+ - Fixed IE11 duplicated JS var bug
+ 
+
+## Version: 1.1.2 (September 4th, 2018)
+
+#### New features
+ - Added Vibrant SaaS full demo
+ - Added button shadow and move hover effects
+ - Added more default palette colors
+ - Added circle lines and circle lines multiple shapes
+ - Added hamburger icon size adjustment
+ - Added offcanvas pageblock position
+ - Added include/exclude featured img from post element
+ 
+#### Code improvement
+ - Added vimeo start from
+ - Added poster fade back in on video stop
+ - Updated several builder templates responsive layouts
+ - Changed logo output to div instead h1
+ - Added vmin and vmax support for typography option
+ - Removed focus from play icon
+  
+#### Bug fix
+ - Allow breadcrumb extension to set labels
+ - Fixed dot nav disappear on resize
+ - Fixed text-shadow disappear on new save
+ - Fixed svg color overrides
+ - Fixed editor cursor not visible on brake
+ - Fixed slider pause video
+
+ 
+ 
 ## Version: 1.1.1 (August 20th, 2018)
 
 #### New features

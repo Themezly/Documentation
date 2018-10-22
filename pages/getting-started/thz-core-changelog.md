@@ -1,5 +1,10 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.1.14 (October 22nd, 2018)
+ - Added new update endpoints.
+ - Added plugin icons.
+ - Disable plugin instance if customizer preview and theme is not Creatus
+ 
 ## Version: 1.1.13 (September 26th, 2018)
  - Added Creatus shortcodes editor menu.
  

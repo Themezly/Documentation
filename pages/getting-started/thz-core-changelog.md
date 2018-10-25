@@ -1,5 +1,8 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.1.15 (October 25th, 2018)
+ - Improved is_creatus method
+ 
 ## Version: 1.1.14 (October 22nd, 2018)
  - Added new update endpoints.
  - Added plugin icons.

@@ -1,5 +1,27 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.2.0 (October 29th, 2018)
 
+#### New features
+ - Added theme options to customizer
+ - Added customizer advanced settings tab to theme options
+ - Added title tag option for page title
+ - Added full navigations controll to simple slider element
+ 
+#### Code improvement
+ - Moved options sets to own folders
+ - Improved post previews
+ - Updated Woo 3.5 templates
+ - Added disable Gutenber editor filter ( WP 5.x ready ) 
+ - Improved widgets default options
+ 
+#### Bug fix
+ - Fixed 1px gap issue on reveal effect
+ - Fixed container spacings option value
+ - Fixed videos quick title for posts element
+ - Fixed social icons styling
+ - Fixed lateral content container inherit width
+ 
+ 
 ## Version: 1.1.5 (October 1st, 2018)
 
 #### New features

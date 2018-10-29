@@ -16,6 +16,7 @@ To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Se
 1. <a href="#apis" class="thz-scroll">__API's__</a> &nbsp;-&nbsp; Global API's options.
 1. <a href="#optimization" class="thz-scroll">__Optimization__</a> &nbsp;-&nbsp; Global Optimization options.
 1. <a href="#cookies-consent" class="thz-scroll">__Cookies Consent__</a> &nbsp;-&nbsp; Cookies Consent options.
+1. <a href="#customizer" class="thz-scroll">__Customizer__</a> &nbsp;-&nbsp; Customizer options.
 
 &nbsp;
 
@@ -116,3 +117,16 @@ __Button__ section tab contains following options;
 1. __Create button__ &nbsp;-&nbsp; Customize the consent popup button.
 
 </div>
+
+<div id="customizer" markdown="1">
+### Customizer
+<div class="thz-doc-image max">
+<a class="thz-lightbox mfp-image" href="../../docs-media/customizer.jpg" data-mfp-title="Creatus WordPress Theme Customizer" data-modal-size="large">
+	<img src="../../docs-media/customizer.jpg" alt="Creatus WordPress Theme Customizer" />
+</a>
+</div>
+
+1. __Customizer mode__ &nbsp;-&nbsp; Set default customizer theme options mode. If mode is popups, every theme options set you see in theme panel will be opened in a customizer popup and preview is visible once the popup is saved and closed. The popup setting will also speed up the first page load when entering the customizer.
+1. __Customizer panels__ &nbsp;-&nbsp; Activate/deactivate specific customizer accordion/popup panels.
+1. __Options override notice__ &nbsp;-&nbsp; Activate/deactivate theme options override notice. While working in customizer some pages might have theme options override. This option enables the notice advising you that some of the live preview options will not be affected by customizer option value change.
+

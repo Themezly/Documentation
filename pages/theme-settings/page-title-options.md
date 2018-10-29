@@ -26,8 +26,8 @@ To access Creatus __Page Title Options__ please go to __Appearance__ >  __Theme 
 
 ### Section tab 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-1-1.jpg" data-mfp-title="Creatus WordPress Theme Admin Page Title" data-modal-size="large">
-	<img src="../../docs-media/page-title-options-1.jpg" alt="Creatus WordPress Theme Page Title Section Options 1" />
+<a class="thz-lightbox mfp-image" href="../../docs-media/page-title-options-1.jpg?v=2" data-mfp-title="Creatus WordPress Theme Admin Page Title" data-modal-size="large">
+	<img src="../../docs-media/page-title-options-1.jpg?v=2" alt="Creatus WordPress Theme Page Title Section Options 1" />
 </a>
 </div>
 

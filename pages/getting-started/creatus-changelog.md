@@ -11,7 +11,7 @@
  - Moved options sets to own folders
  - Improved post previews
  - Updated Woo 3.5 templates
- - Added disable Gutenber editor filter ( WP 5.x ready ) 
+ - Added Gutenber editor filter ( WP 5.x ready ) 
  - Improved widgets default options
  
 #### Bug fix

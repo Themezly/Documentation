@@ -1,4 +1,20 @@
 <div class="thz-docs-codeblock" markdown="1">
+
+## Version: 1.2.1 (November 2nd, 2018)
+
+#### New features
+ - Added Bardi and Lensy full demos
+ - Added demos install list refresh
+ 
+#### Code improvement
+ - Updated Woo 3.5.1 templates
+ - Improved widgets default options
+ - Added boxsize for posts element boxes
+ 
+#### Bug fix
+ - Fixed customizer on close adding changeset_uuid link
+
+ 
 ## Version: 1.2.0 (October 29th, 2018)
 
 #### New features

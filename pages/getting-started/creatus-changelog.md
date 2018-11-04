@@ -1,5 +1,15 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.2.2 (November 4th, 2018)
+
+#### Code improvement
+ - Updated Typekit kits ID's to project ID's
+ - Improved lateral header wrappers
+
+#### Bug fix
+ - Fixed missing sticky column effect, thnx @slwuppertal
+ 
+ 
 ## Version: 1.2.1 (November 2nd, 2018)
 
 #### New features

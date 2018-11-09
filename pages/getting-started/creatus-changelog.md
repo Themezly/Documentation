@@ -1,5 +1,20 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.2.3 (November 9th, 2018)
+
+#### Code improvement
+ - Improved posts element filter
+ - Added meta position for alternate blog posts
+ - Added footer navigation menu colors
+ - Added posts element icons nudge
+
+#### Bug fix
+ - Fixed missing lang strings
+ - Fixed missing options for posts element custom pagination
+ - Fixed footer menu colors overriding footer social colors
+ - Fixed preview script $content.val bug
+ 
+ 
 ## Version: 1.2.2 (November 4th, 2018)
 
 #### Code improvement

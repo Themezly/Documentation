@@ -1,5 +1,16 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.2.4 (November 14th, 2018)
+
+#### Code improvement
+ - Added Blogsider demo
+ - Added icon box over link
+ - Added css easing and autoslide reverse for slides
+
+#### Bug fix
+ - Fixed previews jump
+ - Fixed wrong class used for custom consent button
+ 
 ## Version: 1.2.3 (November 9th, 2018)
 
 #### Code improvement

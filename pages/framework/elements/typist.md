@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=oR305LzTKtU" data-mfp-title="Creatus WordPress Theme Typist Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302182035" data-mfp-title="Creatus WordPress Theme Typist Element" data-modal-size="large">
 	<img src="../../docs-media/splash-typist-element.jpg" alt="Creatus WordPress Theme Typist Element" />
 </a>
 </div>

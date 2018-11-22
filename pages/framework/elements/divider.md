@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=/9uJlOxfhRJY" data-mfp-title="Creatus WordPress Theme Divider Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302176164" data-mfp-title="Creatus WordPress Theme Divider Element" data-modal-size="large">
 	<img src="../../docs-media/splash-divider-element.jpg" alt="Creatus WordPress Theme Divider Element" />
 </a>
 </div>

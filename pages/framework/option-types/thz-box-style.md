@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=wj9U6thDSbc" data-mfp-title="Creatus WordPress Theme Thz Box Style Option Type" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302181809" data-mfp-title="Creatus WordPress Theme Thz Box Style Option Type" data-modal-size="large">
 	<img src="../../docs-media/splash-thz-box-style.jpg" alt="Creatus WordPress Theme Thz Box Style Option Type" />
 </a>
 </div>

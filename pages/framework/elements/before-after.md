@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=VTYYCLq-7fA" data-mfp-title="Creatus WordPress Theme Before After Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302174086" data-mfp-title="Creatus WordPress Theme Before After Element" data-modal-size="large">
 	<img src="../../docs-media/splash-before-after-element.jpg" alt="Creatus WordPress Theme Before After Element" />
 </a>
 </div>

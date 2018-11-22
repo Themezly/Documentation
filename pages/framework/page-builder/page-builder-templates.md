@@ -21,7 +21,7 @@ To create custom template simply locate the section slider, section or column __
 ### Template Library
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=y5_Cai3d5v0" data-mfp-title="Creatus WordPress Theme Template Library" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302181341" data-mfp-title="Creatus WordPress Theme Template Library" data-modal-size="large">
 	<img src="../../docs-media/splash-template-library.jpg" alt="Creatus WordPress Theme Template Library" />
 </a>
 </div>

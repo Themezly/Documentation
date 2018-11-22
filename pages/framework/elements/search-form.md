@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=sONrCNwkYQA" data-mfp-title="Creatus WordPress Theme Search Form Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302180138" data-mfp-title="Creatus WordPress Theme Search Form Element" data-modal-size="large">
 	<img src="../../docs-media/splash-search-form-element.jpg" alt="Creatus WordPress Theme Search Form Element" />
 </a>
 </div>

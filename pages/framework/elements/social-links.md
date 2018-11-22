@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=yEwAf8liWQk" data-mfp-title="Creatus WordPress Theme Social Links Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302180935" data-mfp-title="Creatus WordPress Theme Social Links Element" data-modal-size="large">
 	<img src="../../docs-media/splash-social-links-element.jpg" alt="Creatus WordPress Theme Social Links Element" />
 </a>
 </div>

@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=ye8BHUFMqKc" data-mfp-title="Creatus WordPress Theme Accordion Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302173786" data-mfp-title="Creatus WordPress Theme Accordion Element" data-modal-size="large">
 	<img src="../../docs-media/splash-accordion-element.jpg" alt="Creatus WordPress Theme Accordion Element" />
 </a>
 </div>

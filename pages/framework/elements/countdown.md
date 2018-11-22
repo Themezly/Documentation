@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=HSNgDTqQUJI" data-mfp-title="Creatus WordPress Theme Countdown Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302175568" data-mfp-title="Creatus WordPress Theme Countdown Element" data-modal-size="large">
 	<img src="../../docs-media/splash-countdown-element.jpg" alt="Creatus WordPress Theme Countdown Element" />
 </a>
 </div>

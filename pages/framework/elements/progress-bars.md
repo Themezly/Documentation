@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=LBBMWKqyYkM" data-mfp-title="Creatus WordPress Theme Progress Bars Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302180019" data-mfp-title="Creatus WordPress Theme Progress Bars Element" data-modal-size="large">
 	<img src="../../docs-media/splash-progress-bars-element.jpg" alt="Creatus WordPress Theme Progress Bars Element" />
 </a>
 </div>

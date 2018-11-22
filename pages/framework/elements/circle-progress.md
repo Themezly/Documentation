@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=jazDQW5-WM0" data-mfp-title="Creatus WordPress Theme Circle Progress Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302175212" data-mfp-title="Creatus WordPress Theme Circle Progress Element" data-modal-size="large">
 	<img src="../../docs-media/splash-circle-progress-element.jpg" alt="Creatus WordPress Theme Circle Progress Element" />
 </a>
 </div>

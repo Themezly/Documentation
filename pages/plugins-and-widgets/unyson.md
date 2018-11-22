@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=fVyJ3EG8hec" data-mfp-title="Creatus WordPress Theme Framework Overview" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302255118" data-mfp-title="Creatus WordPress Theme Framework Overview" data-modal-size="large">
 	<img src="../../docs-media/splash-creatus-framewrok-plugin.jpg" alt="Creatus WordPress Theme Unyson Plugin" />
 </a>
 </div>

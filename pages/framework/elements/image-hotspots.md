@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=skIOGxXmdig" data-mfp-title="Creatus WordPress Theme Image Hotspots Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302177504" data-mfp-title="Creatus WordPress Theme Image Hotspots Element" data-modal-size="large">
 	<img src="../../docs-media/splash-image-hotspots-element.jpg" alt="Creatus WordPress Theme Image Hotspots Element" />
 </a>
 </div>

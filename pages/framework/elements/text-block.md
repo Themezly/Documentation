@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=gfjqpmYXfww" data-mfp-title="Creatus WordPress Text Block Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302181650" data-mfp-title="Creatus WordPress Text Block Element" data-modal-size="large">
 	<img src="../../docs-media/splash-text-block-element.jpg" alt="Creatus WordPress Theme Text Block Element" />
 </a>
 </div>

@@ -3,7 +3,7 @@
 
 
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=TR5fXrRgVVs" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302179525" data-mfp-title="Creatus WordPress Theme Page Blocks" data-modal-size="large">
 	<img src="../../docs-media/splash-page-blocks.jpg" alt="Creatus WordPress Theme Page Blocks" />
 </a>
 </div>

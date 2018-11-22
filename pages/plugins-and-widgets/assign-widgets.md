@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=XNNYcIZjoDY" data-mfp-title="Creatus WordPress Theme Assign Widgets Plugins" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302173904" data-mfp-title="Creatus WordPress Theme Assign Widgets Plugins" data-modal-size="large">
 	<img src="../../docs-media/splash-assign-widgets-plugin.jpg" alt="Creatus WordPress Theme Assign Widgets Plugins" />
 </a>
 </div>
@@ -16,7 +16,7 @@ New widget area name | string | empty | Input box that will generate your widget
 
 #### Assign Widgets WordPress Plugin in Action
 
-- <a href="https://www.youtube.com/watch?v=XNNYcIZjoDY" target="_blank">Assign Widgets Plugin Demo Video</a>
+- <a href="https://vimeo.com/302173904" target="_blank">Assign Widgets Plugin Demo Video</a>
 - <a href="https://creatus.io/blog/" target="_blank">Assigned Widgets on Creatus.io blog page</a>
 - <a href="https://creatus.io/dark-night-fixie/" target="_blank">Unassigned Widgets on Creatus.io post page</a>
 - <a href="https://creatus.io/shop/" target="_blank">Different Widgets Assigned on Creatus.io shop homepage</a>

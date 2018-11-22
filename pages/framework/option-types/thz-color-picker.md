@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=SNXxsSwv8cM" data-mfp-title="Creatus WordPress Theme Thz Color Picker Option Type" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302181910" data-mfp-title="Creatus WordPress Theme Thz Color Picker Option Type" data-modal-size="large">
 	<img src="../../docs-media/splash-thz-color-picker.jpg" alt="Creatus WordPress Theme Thz Color Picker Option Type" />
 </a>
 </div>

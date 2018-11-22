@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=wDXK0iUwQzQ" data-mfp-title="Creatus WordPress Theme Parse Page Element" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302179721" data-mfp-title="Creatus WordPress Theme Parse Page Element" data-modal-size="large">
 	<img src="../../docs-media/splash-parse-page-element.jpg" alt="Creatus WordPress Theme Parse Page Element" />
 </a>
 </div>

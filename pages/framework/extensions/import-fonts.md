@@ -1,5 +1,5 @@
 <div class="thz-doc-image max">
-<a class="thz-lightbox mfp-iframe" href="https://www.youtube.com/watch?v=P5QkVObhCw0" data-mfp-title="Creatus WordPress Theme Import Fonts Utility" data-modal-size="large">
+<a class="thz-lightbox mfp-iframe" href="https://vimeo.com/302177814" data-mfp-title="Creatus WordPress Theme Import Fonts Utility" data-modal-size="large">
 	<img src="../../docs-media/splash-import-fonts.jpg" alt="Creatus WordPress Theme Import Fonts Utility" />
 </a>
 </div>

@@ -1,5 +1,22 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+## Version: 1.2.5 (November 30th, 2018)
+
+#### Code improvement
+ - Allow certain tags in icon box title
+ - Load Vimeo script with media element
+ - Added thz_filter_meta_elements_print for meta elements
+ - Updated order-details template for Woo 3.5.2
+ - Allow html for table element default row
+ - Load only published posts on posts load more click
+ - Updated language file
+
+#### Bug fix
+ - Fixed full page animation. Thnx @8oollaa
+ - Fixed missing live search loading icon
+ - Fixed missing unstyled table class
+ 
+ 
 ## Version: 1.2.4 (November 14th, 2018)
 
 #### Code improvement

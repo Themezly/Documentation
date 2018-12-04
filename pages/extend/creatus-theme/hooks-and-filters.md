@@ -120,7 +120,7 @@ add_filter('thz_filter_combine_shortcodes_local_hosts', 'my_filter_add_local_hos
 
 #### Enable Gutenberg ( block ) editor
 By default Creatus disables Gutenberg editor and let you use the Tinymce editor for all posts types and pages.
-To modify this filter or enable Gutenberg on specific post type you can redeclare the filter function in your
+To modify this filter or enable Gutenberg on specific post type you can re-declare the filter function in your
 child theme `functions.php` file.
 
 <pre class="prettyprint light">

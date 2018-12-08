@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Testimonials element displays adjustable testimonials slider. Element popup contains following options;
+Testimonials element displays adjustable testimonials as a grid or slider. Element popup contains following options;
 
 #### Defaults tab{.options-tab}
 1. __ Testimonials __ &nbsp;-&nbsp; Here you can add, remove and edit your testimonials.

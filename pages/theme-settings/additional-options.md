@@ -110,12 +110,12 @@ __Miscellaneous__ section tab contains following options;
 1. __Comment area headings__ &nbsp;-&nbsp; Adjust comment area .comments-title and .comment-reply-title font metrics.
 1. __Overlay search colors__ &nbsp;-&nbsp; Adjust overlay search colors.
 1. __Emojis__ &nbsp;-&nbsp; Activate/deactivate emojis..
-1. __Smooth scroll__ &nbsp;-&nbsp; Activate/deactivate site smooth scroll effect.
+1. __Smooth scroll__ &nbsp;-&nbsp; Activate/deactivate site smooth scroll effect. <span class="thz-pro-feature"></span>
 1. __Structured data__ &nbsp;-&nbsp; Structured data helps highlight specific website information for search engines.
-1. __Sticky sidebars__ &nbsp;-&nbsp; Activate/deactive sticky sidebar for left or right sidebar positions.
-1. __Page preloader__ &nbsp;-&nbsp; This option disables/enables page preloader.
-1. __Preloader metrics__ &nbsp;-&nbsp; Adjust preloader metrics. 1000ms = 1s.
-1. __Preloader style__ &nbsp;-&nbsp; Select desired preloader style.
+1. __Sticky sidebars__ &nbsp;-&nbsp; Activate/deactive sticky sidebar for left or right sidebar positions. <span class="thz-pro-feature"></span>
+1. __Page preloader__ &nbsp;-&nbsp; This option disables/enables page preloader. <span class="thz-pro-feature"></span>
+1. __Preloader metrics__ &nbsp;-&nbsp; Adjust preloader metrics. 1000ms = 1s. <span class="thz-pro-feature"></span>
+1. __Preloader style__ &nbsp;-&nbsp; Select desired preloader style. <span class="thz-pro-feature"></span>
 
 
 </div>

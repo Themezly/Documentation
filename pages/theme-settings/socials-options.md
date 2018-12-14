@@ -10,7 +10,7 @@
 To access Creatus __Socials Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Socials__ tab in the left side vertical menu. This section is split in to 2 sub tabs; 
 
 1. __Social media__&nbsp;-&nbsp; Links to your social media profiles. 
-1. __Social sharing__&nbsp;-&nbsp; Posts/page social sharing links.
+1. __Social sharing__&nbsp;-&nbsp; Posts/page social sharing links. <span class="thz-pro-feature"></span>
 
 </div>
 

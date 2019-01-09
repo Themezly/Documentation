@@ -13,10 +13,11 @@
 </a>
 </div>
 
-To access Creatus __Header Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Header__ tab in the left side vertical menu. Header options section will help you control __header layout__, __sticky header__, __header toolbar__ and it is split in 3 main categories.
+To access Creatus __Header Options__ please go to __Appearance__ >  __Theme Settings__ and locate the __Header__ tab in the left side vertical menu. Header options section will help you control __header layout__, __sticky header__, __header brightness__, __header toolbar__ and it is split in 4 main categories.
 1. General
-2. Sticky
-3. Toolbar
+2. Sticky <span class="thz-pro-feature"></span>
+3. Header brightness <span class="thz-pro-feature"></span>
+4. Toolbar
 
 ### General Tab
 

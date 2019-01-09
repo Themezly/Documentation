@@ -4,7 +4,7 @@ To access Creatus __Page Templates Options__ please go to __Appearance__ >  __Th
 
 
 1. <a href="#search" class="thz-scroll">Search</a>
-2. <a href="#fourofour" class="thz-scroll">404</a>
+2. <a href="#fourofour" class="thz-scroll">404</a> <span class="thz-pro-feature"></span>
 3. <a href="#author" class="thz-scroll">Author</a>
 
 

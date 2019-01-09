@@ -15,7 +15,7 @@ To access Creatus __Advanced Options__ please go to __Appearance__ >  __Theme Se
 1. <a href="#images" class="thz-scroll">__Images__</a> &nbsp;-&nbsp; Global images size options.
 1. <a href="#apis" class="thz-scroll">__API's__</a> &nbsp;-&nbsp; Global API's options.
 1. <a href="#optimization" class="thz-scroll">__Optimization__</a> &nbsp;-&nbsp; Global Optimization options.
-1. <a href="#cookies-consent" class="thz-scroll">__Cookies Consent__</a> &nbsp;-&nbsp; Cookies Consent options.
+1. <a href="#cookies-consent" class="thz-scroll">__Cookies Consent__</a> &nbsp;-&nbsp; Cookies Consent options. <span class="thz-pro-feature"></span>
 1. <a href="#customizer" class="thz-scroll">__Customizer__</a> &nbsp;-&nbsp; Customizer options.
 
 &nbsp;

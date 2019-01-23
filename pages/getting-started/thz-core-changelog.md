@@ -1,4 +1,8 @@
 <div class="thz-docs-codeblock" markdown="1">
+## Version: 1.5.0 (January 23rd, 2019)
+ - Moved pageblocks to Creatus Pro
+ - Moved socials to Creatus Pro
+ 
 ## Version: 1.1.17 (January 18th, 2019)
  - Prep for Creatus 1.5.0
  

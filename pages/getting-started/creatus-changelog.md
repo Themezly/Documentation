@@ -1,5 +1,22 @@
 <div class="thz-docs-codeblock" markdown="1">
 
+
+## Version: 1.5.0 (January 23rd, 2019)
+
+#### Code improvement
+ - Removed overflow from search pagination
+ - Added media video attributes controlls for media element
+ - Added new iframe spinners
+ - Updated page builder icons
+ - Added boxsize to media gallery element
+ - Added ability to include additional theme settings
+ - Updated language file
+
+#### Bug fix
+ - Fixed replay mejs video button icon
+ - Fixed Safari offcanvas side menu
+ - Fixed flex columns for ipad 2 ios9 Safari 9 601-1
+ 
 ## Version: 1.2.5 (November 30th, 2018)
 
 #### Code improvement

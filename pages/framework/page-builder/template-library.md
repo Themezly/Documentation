@@ -3,7 +3,7 @@
 	<img src="../../docs-media/splash-template-library.jpg" alt="Creatus WordPress Theme Template Library" />
 </a>
 </div>
-To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with already predefined shortocdes. These are self explanatory and in order to use them simply click on desired item and preview your page. Initial library contains __over 150 templates__ that can be used  on every post edit page where Creatus page builder is present.
+To make things easier for you we have included  __predefined page builder templates__  that populate the page builder with already predefined shortocdes. These are self explanatory and in order to use them simply click on desired item and preview your page. Initial library contains __over 330 templates__ that can be used  on every post edit page where Creatus page builder is present.
 
 ### Template Library Categories
 
